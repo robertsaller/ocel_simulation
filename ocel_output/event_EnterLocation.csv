@@ -1,0 +1,3839 @@
+ocel_id;ocel_time
+14482_enter_Loading Bay_vh1;2023-04-25 11:00:00
+14483_enter_Forklift Depot_fl1;2023-04-25 11:00:00
+14484_enter_Forklift Depot_fl3;2023-04-25 11:00:00
+14485_enter_Forklift Depot_fl2;2023-04-25 11:00:00
+14486_enter_Loading Bay_vh2;2023-04-28 23:00:00
+14487_enter_Loading Bay_vh3;2023-05-02 11:00:00
+14488_enter_Loading Bay_vh4;2023-05-05 23:00:00
+14489_enter_Loading Bay_vh5;2023-05-09 11:00:00
+14490_enter_Loading Bay_vh6;2023-05-12 23:00:00
+14491_enter_Loading Bay_vh7;2023-05-16 11:00:00
+14492_enter_Loading Bay_vh8;2023-05-19 23:00:00
+14493_enter_Loading Bay_vh9;2023-05-23 11:00:00
+14495_enter_Supplier_tr2;2023-05-24 07:53:02
+14497_enter_Supplier Loading Area_tr2;2023-05-24 09:26:50
+14498_enter_Supplier Loading Area_cr5;2023-05-24 09:26:50
+14501_enter_Terminal South_tr2;2023-05-24 09:40:38
+14502_enter_Terminal South_cr5;2023-05-24 09:40:38
+14504_enter_Terminal South_fl1;2023-05-24 09:40:38
+14506_enter_Truck Depot_tr2;2023-05-24 09:40:41
+14509_enter_Loading Bay_fl1;2023-05-24 09:47:16
+14510_enter_Loading Bay_cr5;2023-05-24 09:47:16
+14512_enter_Supplier_tr2;2023-05-25 11:56:49
+14514_enter_Supplier Loading Area_tr2;2023-05-25 14:17:50
+14515_enter_Supplier Loading Area_cr6;2023-05-25 14:17:50
+14519_enter_Supplier_tr4;2023-05-25 16:00:39
+14521_enter_Supplier Loading Area_tr4;2023-05-25 16:25:56
+14522_enter_Supplier Loading Area_cr7;2023-05-25 16:25:56
+14523_enter_Terminal South_tr2;2023-05-25 16:27:40
+14524_enter_Terminal South_cr6;2023-05-25 16:27:40
+14526_enter_Terminal South_fl3;2023-05-25 16:27:40
+14528_enter_Truck Depot_tr2;2023-05-25 16:27:48
+14531_enter_Loading Bay_fl3;2023-05-25 16:36:27
+14532_enter_Loading Bay_cr6;2023-05-25 16:36:27
+14535_enter_Terminal South_tr4;2023-05-25 16:55:25
+14536_enter_Terminal South_cr7;2023-05-25 16:55:25
+14538_enter_Terminal South_fl2;2023-05-25 16:55:25
+14540_enter_Truck Depot_tr4;2023-05-25 16:55:30
+14543_enter_Loading Bay_fl2;2023-05-25 17:59:16
+14544_enter_Loading Bay_cr7;2023-05-25 17:59:16
+14545_enter_Loading Bay_vh10;2023-05-26 23:00:00
+14550_enter_Supplier_tr6;2023-05-29 07:31:54
+14552_enter_Supplier_tr4;2023-05-29 07:34:36
+14554_enter_Supplier_tr5;2023-05-29 07:52:13
+14556_enter_Supplier_tr3;2023-05-29 07:54:53
+14558_enter_Supplier Loading Area_tr6;2023-05-29 08:48:46
+14559_enter_Supplier Loading Area_cr16;2023-05-29 08:48:46
+14560_enter_Supplier Loading Area_tr4;2023-05-29 08:54:39
+14561_enter_Supplier Loading Area_cr12;2023-05-29 08:54:39
+14562_enter_Supplier Loading Area_tr5;2023-05-29 09:29:38
+14563_enter_Supplier Loading Area_cr13;2023-05-29 09:29:38
+14564_enter_Supplier Loading Area_tr3;2023-05-29 09:34:27
+14565_enter_Supplier Loading Area_cr9;2023-05-29 09:34:27
+14574_enter_Terminal North_tr6;2023-05-29 15:09:24
+14575_enter_Terminal North_cr16;2023-05-29 15:09:24
+14577_enter_Terminal North_fl1;2023-05-29 15:09:24
+14579_enter_Truck Depot_tr6;2023-05-29 15:09:31
+14582_enter_Storage_fl1;2023-05-29 15:12:16
+14583_enter_Storage_cr16;2023-05-29 15:12:16
+14584_enter_Terminal North_tr4;2023-05-29 15:29:11
+14585_enter_Terminal North_cr12;2023-05-29 15:29:11
+14587_enter_Terminal North_fl1;2023-05-29 15:29:11
+14589_enter_Truck Depot_tr4;2023-05-29 15:29:14
+14590_enter_Terminal South_tr5;2023-05-29 15:32:29
+14591_enter_Terminal South_cr13;2023-05-29 15:32:29
+14593_enter_Terminal South_fl2;2023-05-29 15:32:29
+14595_enter_Truck Depot_tr5;2023-05-29 15:32:40
+14598_enter_Storage_fl1;2023-05-29 15:34:08
+14599_enter_Storage_cr12;2023-05-29 15:34:08
+14602_enter_Loading Bay_fl2;2023-05-29 15:42:11
+14603_enter_Loading Bay_cr13;2023-05-29 15:42:11
+14604_enter_Terminal South_tr3;2023-05-29 16:43:17
+14605_enter_Terminal South_cr9;2023-05-29 16:43:17
+14607_enter_Terminal South_fl3;2023-05-29 16:43:17
+14609_enter_Truck Depot_tr3;2023-05-29 16:43:23
+14612_enter_Loading Bay_fl3;2023-05-29 16:56:51
+14613_enter_Loading Bay_cr9;2023-05-29 16:56:51
+14615_enter_Supplier_tr4;2023-05-29 17:32:20
+14618_enter_Supplier Loading Area_tr4;2023-05-30 07:47:44
+14619_enter_Supplier Loading Area_cr18;2023-05-30 07:47:44
+14620_enter_Supplier_tr2;2023-05-30 07:53:40
+14625_enter_Terminal North_tr4;2023-05-30 09:17:49
+14626_enter_Terminal North_cr18;2023-05-30 09:17:49
+14628_enter_Terminal North_fl1;2023-05-30 09:17:49
+14630_enter_Truck Depot_tr4;2023-05-30 09:17:53
+14633_enter_Storage_fl1;2023-05-30 09:22:07
+14634_enter_Storage_cr18;2023-05-30 09:22:07
+14635_enter_Supplier_tr1;2023-05-30 09:24:28
+14637_enter_Supplier Loading Area_tr2;2023-05-30 09:27:23
+14638_enter_Supplier Loading Area_cr14;2023-05-30 09:27:23
+14641_enter_Terminal North_tr2;2023-05-30 09:50:50
+14642_enter_Terminal North_cr14;2023-05-30 09:50:50
+14644_enter_Terminal North_fl1;2023-05-30 09:50:50
+14646_enter_Truck Depot_tr2;2023-05-30 09:50:57
+14649_enter_Storage_fl1;2023-05-30 09:56:22
+14650_enter_Storage_cr14;2023-05-30 09:56:22
+14651_enter_Loading Bay_vh11;2023-05-30 11:00:00
+14653_enter_Supplier Loading Area_tr1;2023-05-30 11:04:26
+14654_enter_Supplier Loading Area_cr10;2023-05-30 11:04:26
+14657_enter_Terminal North_tr1;2023-05-30 11:29:38
+14658_enter_Terminal North_cr10;2023-05-30 11:29:38
+14660_enter_Terminal North_fl1;2023-05-30 11:29:38
+14662_enter_Truck Depot_tr1;2023-05-30 11:29:42
+14665_enter_Storage_fl1;2023-05-30 11:36:00
+14666_enter_Storage_cr10;2023-05-30 11:36:00
+14669_enter_Supplier_tr5;2023-05-30 13:21:40
+14671_enter_Supplier_tr4;2023-05-30 13:28:23
+14673_enter_Supplier Loading Area_tr5;2023-05-30 13:46:51
+14674_enter_Supplier Loading Area_cr29;2023-05-30 13:46:51
+14675_enter_Supplier Loading Area_tr4;2023-05-30 13:53:26
+14676_enter_Supplier Loading Area_cr30;2023-05-30 13:53:26
+14681_enter_Terminal North_tr4;2023-05-30 15:19:30
+14682_enter_Terminal North_cr30;2023-05-30 15:19:30
+14684_enter_Terminal North_fl1;2023-05-30 15:19:30
+14686_enter_Truck Depot_tr4;2023-05-30 15:19:38
+14689_enter_Storage_fl1;2023-05-30 15:26:10
+14690_enter_Storage_cr30;2023-05-30 15:26:10
+14691_enter_Terminal North_tr5;2023-05-30 15:47:29
+14692_enter_Terminal North_cr29;2023-05-30 15:47:29
+14694_enter_Terminal North_fl1;2023-05-30 15:47:29
+14696_enter_Truck Depot_tr5;2023-05-30 15:47:34
+14699_enter_Storage_fl1;2023-05-30 15:57:31
+14700_enter_Storage_cr29;2023-05-30 15:57:31
+14703_enter_Supplier_tr4;2023-05-31 07:19:51
+14705_enter_Supplier_tr2;2023-05-31 07:36:47
+14707_enter_Supplier Loading Area_tr2;2023-05-31 08:53:18
+14708_enter_Supplier Loading Area_cr4;2023-05-31 08:53:18
+14709_enter_Supplier Loading Area_tr4;2023-05-31 09:45:14
+14710_enter_Supplier Loading Area_cr19;2023-05-31 09:45:14
+14715_enter_Terminal North_tr2;2023-05-31 10:51:30
+14716_enter_Terminal North_cr4;2023-05-31 10:51:30
+14718_enter_Terminal North_fl1;2023-05-31 10:51:30
+14720_enter_Truck Depot_tr2;2023-05-31 10:51:32
+14723_enter_Storage_fl1;2023-05-31 10:54:56
+14724_enter_Storage_cr4;2023-05-31 10:54:56
+14725_enter_Terminal North_tr4;2023-05-31 11:05:33
+14726_enter_Terminal North_cr19;2023-05-31 11:05:33
+14728_enter_Terminal North_fl1;2023-05-31 11:05:33
+14730_enter_Truck Depot_tr4;2023-05-31 11:05:35
+14733_enter_Storage_fl1;2023-05-31 11:12:28
+14734_enter_Storage_cr19;2023-05-31 11:12:28
+14736_enter_Supplier_tr3;2023-05-31 15:18:28
+14739_enter_Supplier_tr5;2023-05-31 16:27:32
+14741_enter_Supplier Loading Area_tr5;2023-05-31 16:52:56
+14742_enter_Supplier Loading Area_cr43;2023-05-31 16:52:56
+14743_enter_Supplier Loading Area_tr3;2023-05-31 17:00:52
+14744_enter_Supplier Loading Area_cr41;2023-05-31 17:00:52
+14747_enter_Terminal North_tr3;2023-05-31 17:58:46
+14748_enter_Terminal North_cr41;2023-05-31 17:58:46
+14750_enter_Terminal North_fl1;2023-05-31 17:58:46
+14752_enter_Truck Depot_tr3;2023-05-31 17:58:50
+14756_enter_Storage_fl3;2023-05-31 23:37:22
+14758_enter_Storage_fl2;2023-05-31 23:37:22
+14762_enter_Loading Bay_fl3;2023-06-01 07:40:49
+14763_enter_Loading Bay_cr29;2023-06-01 07:40:49
+14766_enter_Loading Bay_fl2;2023-06-01 07:43:15
+14767_enter_Loading Bay_cr30;2023-06-01 07:43:15
+14768_enter_Supplier_tr1;2023-06-01 07:43:25
+14772_enter_Storage_fl1;2023-06-01 07:46:21
+14773_enter_Storage_cr41;2023-06-01 07:46:21
+14775_enter_Storage_fl1;2023-06-01 07:46:21
+14780_enter_Loading Bay_fl1;2023-06-01 07:50:52
+14781_enter_Loading Bay_cr41;2023-06-01 07:50:52
+14782_enter_Supplier_tr3;2023-06-01 08:07:07
+14784_enter_Supplier_tr2;2023-06-01 08:18:36
+14786_enter_Supplier Loading Area_tr3;2023-06-01 08:47:40
+14787_enter_Supplier Loading Area_cr2;2023-06-01 08:47:40
+14788_enter_Terminal North_tr5;2023-06-01 08:55:03
+14789_enter_Terminal North_cr43;2023-06-01 08:55:03
+14791_enter_Terminal North_fl3;2023-06-01 08:55:03
+14793_enter_Truck Depot_tr5;2023-06-01 08:55:06
+14794_enter_Supplier Loading Area_tr2;2023-06-01 08:58:36
+14795_enter_Supplier Loading Area_cr35;2023-06-01 08:58:36
+14796_enter_Supplier Loading Area_tr1;2023-06-01 09:08:43
+14797_enter_Supplier Loading Area_cr11;2023-06-01 09:08:43
+14802_enter_Terminal North_tr1;2023-06-01 09:57:39
+14803_enter_Terminal North_cr11;2023-06-01 09:57:39
+14805_enter_Terminal North_fl2;2023-06-01 09:57:39
+14807_enter_Truck Depot_tr1;2023-06-01 09:57:49
+14808_enter_Terminal North_tr3;2023-06-01 10:52:01
+14809_enter_Terminal North_cr2;2023-06-01 10:52:01
+14811_enter_Terminal North_fl1;2023-06-01 10:52:01
+14813_enter_Truck Depot_tr3;2023-06-01 10:52:07
+14816_enter_Storage_fl1;2023-06-01 10:56:56
+14817_enter_Storage_cr2;2023-06-01 10:56:56
+14820_enter_Storage_fl3;2023-06-01 10:57:12
+14821_enter_Storage_cr43;2023-06-01 10:57:12
+14823_enter_Storage_fl1;2023-06-01 10:57:12
+14826_enter_Storage_fl2;2023-06-01 11:05:16
+14827_enter_Storage_cr11;2023-06-01 11:05:16
+14829_enter_Supplier_tr5;2023-06-01 11:38:10
+14833_enter_Loading Bay_fl1;2023-06-01 11:58:25
+14834_enter_Loading Bay_cr43;2023-06-01 11:58:25
+14835_enter_Supplier Loading Area_tr5;2023-06-01 11:58:33
+14836_enter_Supplier Loading Area_cr20;2023-06-01 11:58:33
+14840_enter_Terminal South_tr2;2023-06-01 13:30:47
+14841_enter_Terminal South_cr35;2023-06-01 13:30:47
+14843_enter_Terminal South_fl3;2023-06-01 13:30:47
+14845_enter_Truck Depot_tr2;2023-06-01 13:30:52
+14846_enter_Supplier_tr6;2023-06-01 13:32:38
+14850_enter_Loading Bay_fl3;2023-06-01 13:39:17
+14851_enter_Loading Bay_cr35;2023-06-01 13:39:17
+14854_enter_Terminal North_tr5;2023-06-01 14:10:12
+14855_enter_Terminal North_cr20;2023-06-01 14:10:12
+14857_enter_Terminal North_fl2;2023-06-01 14:10:12
+14859_enter_Truck Depot_tr5;2023-06-01 14:10:21
+14862_enter_Storage_fl2;2023-06-01 14:15:57
+14863_enter_Storage_cr20;2023-06-01 14:15:57
+14864_enter_Supplier Loading Area_tr6;2023-06-01 15:25:30
+14865_enter_Supplier Loading Area_cr1;2023-06-01 15:25:30
+14869_enter_Supplier_tr4;2023-06-01 16:22:05
+14871_enter_Terminal North_tr6;2023-06-01 17:02:15
+14872_enter_Terminal North_cr1;2023-06-01 17:02:15
+14874_enter_Terminal North_fl2;2023-06-01 17:02:15
+14876_enter_Truck Depot_tr6;2023-06-01 17:02:28
+14879_enter_Storage_fl2;2023-06-01 17:13:01
+14880_enter_Storage_cr1;2023-06-01 17:13:01
+14883_enter_Supplier_tr6;2023-06-02 07:49:30
+14885_enter_Supplier_tr1;2023-06-02 08:08:59
+14887_enter_Supplier Loading Area_tr4;2023-06-02 08:13:25
+14888_enter_Supplier Loading Area_cr34;2023-06-02 08:13:25
+14891_enter_Terminal South_tr4;2023-06-02 08:55:31
+14892_enter_Terminal South_cr34;2023-06-02 08:55:31
+14894_enter_Terminal South_fl1;2023-06-02 08:55:31
+14896_enter_Truck Depot_tr4;2023-06-02 08:55:35
+14897_enter_Supplier Loading Area_tr1;2023-06-02 08:59:51
+14898_enter_Supplier Loading Area_cr28;2023-06-02 08:59:51
+14899_enter_Supplier Loading Area_tr6;2023-06-02 09:29:42
+14900_enter_Supplier Loading Area_cr3;2023-06-02 09:29:42
+14903_enter_Terminal North_tr6;2023-06-02 09:57:13
+14904_enter_Terminal North_cr3;2023-06-02 09:57:13
+14906_enter_Terminal North_fl2;2023-06-02 09:57:13
+14908_enter_Truck Depot_tr6;2023-06-02 09:57:15
+14912_enter_Supplier_tr2;2023-06-02 10:14:49
+14914_enter_Supplier Loading Area_tr2;2023-06-02 10:39:58
+14915_enter_Supplier Loading Area_cr45;2023-06-02 10:39:58
+14920_enter_Storage_fl2;2023-06-02 10:58:18
+14921_enter_Storage_cr3;2023-06-02 10:58:18
+14925_enter_Loading Bay_fl1;2023-06-02 11:00:07
+14926_enter_Loading Bay_cr34;2023-06-02 11:00:07
+14927_enter_Terminal North_tr1;2023-06-02 11:13:51
+14928_enter_Terminal North_cr28;2023-06-02 11:13:51
+14930_enter_Terminal North_fl2;2023-06-02 11:13:51
+14932_enter_Truck Depot_tr1;2023-06-02 11:13:59
+14935_enter_Storage_fl2;2023-06-02 11:20:58
+14936_enter_Storage_cr28;2023-06-02 11:20:58
+14937_enter_Terminal North_tr2;2023-06-02 12:40:19
+14938_enter_Terminal North_cr45;2023-06-02 12:40:19
+14940_enter_Terminal North_fl2;2023-06-02 12:40:19
+14943_enter_Truck Depot_tr2;2023-06-02 13:40:29
+14946_enter_Storage_fl2;2023-06-02 13:49:58
+14947_enter_Storage_cr45;2023-06-02 13:49:58
+14948_enter_Supplier_tr5;2023-06-02 13:54:44
+14950_enter_Supplier Loading Area_tr5;2023-06-02 15:16:05
+14951_enter_Supplier Loading Area_cr48;2023-06-02 15:16:05
+14954_enter_Terminal South_tr5;2023-06-02 16:25:11
+14955_enter_Terminal South_cr48;2023-06-02 16:25:11
+14957_enter_Terminal South_fl1;2023-06-02 16:25:11
+14959_enter_Truck Depot_tr5;2023-06-02 16:25:18
+14962_enter_Loading Bay_fl1;2023-06-02 16:28:38
+14963_enter_Loading Bay_cr48;2023-06-02 16:28:38
+14965_enter_Supplier_tr3;2023-06-02 19:04:51
+14967_enter_Loading Bay_vh12;2023-06-02 23:00:00
+14975_enter_Storage_fl1;2023-06-05 04:44:51
+14977_enter_Storage_fl2;2023-06-05 04:44:51
+14978_enter_Storage_fl3;2023-06-05 04:44:51
+14979_enter_Supplier_tr5;2023-06-05 07:25:10
+14981_enter_Supplier_tr2;2023-06-05 07:25:32
+14983_enter_Supplier_tr4;2023-06-05 07:39:27
+14985_enter_Supplier_tr1;2023-06-05 07:40:27
+14989_enter_Loading Bay_fl1;2023-06-05 07:48:05
+14990_enter_Loading Bay_cr12;2023-06-05 07:48:05
+14993_enter_Loading Bay_fl3;2023-06-05 07:51:09
+14994_enter_Loading Bay_cr14;2023-06-05 07:51:09
+14997_enter_Loading Bay_fl2;2023-06-05 07:52:46
+14998_enter_Loading Bay_cr11;2023-06-05 07:52:46
+14999_enter_Supplier_tr6;2023-06-05 08:28:52
+15001_enter_Supplier Loading Area_tr5;2023-06-05 08:35:20
+15002_enter_Supplier Loading Area_cr51;2023-06-05 08:35:20
+15003_enter_Supplier Loading Area_tr2;2023-06-05 08:35:58
+15004_enter_Supplier Loading Area_cr47;2023-06-05 08:35:58
+15005_enter_Supplier Loading Area_tr1;2023-06-05 09:06:56
+15006_enter_Supplier Loading Area_cr53;2023-06-05 09:06:56
+15007_enter_Supplier Loading Area_tr3;2023-06-05 09:30:45
+15008_enter_Supplier Loading Area_cr33;2023-06-05 09:30:45
+15009_enter_Supplier Loading Area_tr6;2023-06-05 09:36:00
+15010_enter_Supplier Loading Area_cr27;2023-06-05 09:36:00
+15011_enter_Supplier Loading Area_tr4;2023-06-05 10:23:43
+15012_enter_Supplier Loading Area_cr52;2023-06-05 10:23:43
+15015_enter_Terminal South_tr1;2023-06-05 11:37:18
+15016_enter_Terminal South_cr53;2023-06-05 11:37:18
+15018_enter_Terminal South_fl1;2023-06-05 11:37:18
+15020_enter_Truck Depot_tr1;2023-06-05 11:37:28
+15024_enter_Loading Bay_fl1;2023-06-05 11:40:18
+15025_enter_Loading Bay_cr53;2023-06-05 11:40:18
+15026_enter_Supplier_tr1;2023-06-05 11:46:50
+15032_enter_Supplier Loading Area_tr1;2023-06-05 13:58:34
+15033_enter_Supplier Loading Area_cr25;2023-06-05 13:58:34
+15034_enter_Terminal South_tr6;2023-06-05 14:06:28
+15035_enter_Terminal South_cr27;2023-06-05 14:06:28
+15037_enter_Terminal South_fl3;2023-06-05 14:06:28
+15039_enter_Truck Depot_tr6;2023-06-05 14:06:37
+15041_enter_Supplier_tr6;2023-06-05 14:12:34
+15045_enter_Loading Bay_fl3;2023-06-05 14:12:52
+15046_enter_Loading Bay_cr27;2023-06-05 14:12:52
+15047_enter_Supplier Loading Area_tr6;2023-06-05 14:35:14
+15048_enter_Supplier Loading Area_cr49;2023-06-05 14:35:14
+15049_enter_Terminal South_tr2;2023-06-05 14:54:35
+15050_enter_Terminal South_cr47;2023-06-05 14:54:35
+15052_enter_Terminal South_fl2;2023-06-05 14:54:35
+15054_enter_Truck Depot_tr2;2023-06-05 14:54:45
+15056_enter_Supplier_tr2;2023-06-05 14:58:44
+15060_enter_Terminal North_tr4;2023-06-05 15:11:48
+15061_enter_Terminal North_cr52;2023-06-05 15:11:48
+15063_enter_Terminal North_fl1;2023-06-05 15:11:48
+15065_enter_Truck Depot_tr4;2023-06-05 15:11:53
+15069_enter_Storage_fl1;2023-06-05 15:14:50
+15070_enter_Storage_cr52;2023-06-05 15:14:50
+15071_enter_Supplier_tr4;2023-06-05 15:18:54
+15075_enter_Supplier Loading Area_tr4;2023-06-05 15:41:33
+15076_enter_Supplier Loading Area_cr15;2023-06-05 15:41:33
+15079_enter_Loading Bay_fl2;2023-06-05 16:01:06
+15080_enter_Loading Bay_cr47;2023-06-05 16:01:06
+15081_enter_Supplier Loading Area_tr2;2023-06-05 16:20:19
+15082_enter_Supplier Loading Area_cr50;2023-06-05 16:20:19
+15083_enter_Terminal North_tr3;2023-06-05 16:43:03
+15084_enter_Terminal North_cr33;2023-06-05 16:43:03
+15086_enter_Terminal North_fl1;2023-06-05 16:43:03
+15088_enter_Truck Depot_tr3;2023-06-05 16:43:12
+15090_enter_Supplier_tr3;2023-06-05 16:50:37
+15094_enter_Storage_fl1;2023-06-05 16:52:23
+15095_enter_Storage_cr33;2023-06-05 16:52:23
+15096_enter_Supplier Loading Area_tr3;2023-06-05 18:40:17
+15097_enter_Supplier Loading Area_cr24;2023-06-05 18:40:17
+15102_enter_Terminal North_tr2;2023-06-06 08:51:39
+15103_enter_Terminal North_cr50;2023-06-06 08:51:39
+15105_enter_Terminal North_fl1;2023-06-06 08:51:39
+15107_enter_Truck Depot_tr2;2023-06-06 08:51:50
+15109_enter_Supplier_tr2;2023-06-06 09:52:05
+15113_enter_Storage_fl1;2023-06-06 09:54:06
+15114_enter_Storage_cr50;2023-06-06 09:54:06
+15117_enter_Terminal North_tr5;2023-06-06 09:56:18
+15118_enter_Terminal North_cr51;2023-06-06 09:56:18
+15120_enter_Terminal North_fl1;2023-06-06 09:56:18
+15122_enter_Truck Depot_tr5;2023-06-06 09:56:21
+15124_enter_Supplier_tr5;2023-06-06 10:56:51
+15129_enter_Loading Bay_vh13;2023-06-06 11:00:00
+15132_enter_Storage_fl1;2023-06-06 11:01:54
+15133_enter_Storage_cr51;2023-06-06 11:01:54
+15134_enter_Supplier Loading Area_tr2;2023-06-06 11:04:20
+15135_enter_Supplier Loading Area_cr38;2023-06-06 11:04:20
+15138_enter_Terminal South_tr6;2023-06-06 11:20:54
+15139_enter_Terminal South_cr49;2023-06-06 11:20:54
+15141_enter_Terminal South_fl3;2023-06-06 11:20:54
+15143_enter_Truck Depot_tr6;2023-06-06 11:20:57
+15147_enter_Loading Bay_fl3;2023-06-06 11:26:30
+15148_enter_Loading Bay_cr49;2023-06-06 11:26:30
+15149_enter_Terminal North_tr3;2023-06-06 11:31:14
+15150_enter_Terminal North_cr24;2023-06-06 11:31:14
+15152_enter_Terminal North_fl1;2023-06-06 11:31:14
+15154_enter_Truck Depot_tr3;2023-06-06 11:31:17
+15158_enter_Supplier_tr6;2023-06-06 11:33:32
+15160_enter_Supplier_tr3;2023-06-06 11:35:28
+15163_enter_Storage_fl1;2023-06-06 11:35:33
+15164_enter_Storage_cr24;2023-06-06 11:35:33
+15166_enter_Terminal South_tr2;2023-06-06 11:42:43
+15167_enter_Terminal South_cr38;2023-06-06 11:42:43
+15169_enter_Terminal South_fl2;2023-06-06 11:42:43
+15171_enter_Truck Depot_tr2;2023-06-06 11:42:48
+15175_enter_Loading Bay_fl2;2023-06-06 11:49:49
+15176_enter_Loading Bay_cr38;2023-06-06 11:49:49
+15177_enter_Supplier_tr2;2023-06-06 11:50:50
+15179_enter_Supplier Loading Area_tr6;2023-06-06 11:53:33
+15180_enter_Supplier Loading Area_cr46;2023-06-06 11:53:33
+15181_enter_Terminal South_tr4;2023-06-06 12:09:40
+15182_enter_Terminal South_cr15;2023-06-06 12:09:40
+15184_enter_Terminal South_fl3;2023-06-06 12:09:40
+15185_enter_Supplier Loading Area_tr5;2023-06-06 12:14:00
+15186_enter_Supplier Loading Area_cr61;2023-06-06 12:14:00
+15188_enter_Truck Depot_tr4;2023-06-06 13:09:52
+15192_enter_Loading Bay_fl3;2023-06-06 13:16:41
+15193_enter_Loading Bay_cr15;2023-06-06 13:16:41
+15194_enter_Supplier_tr4;2023-06-06 13:24:24
+15196_enter_Supplier Loading Area_tr4;2023-06-06 13:50:05
+15197_enter_Supplier Loading Area_cr42;2023-06-06 13:50:05
+15198_enter_Supplier Loading Area_tr2;2023-06-06 14:04:58
+15199_enter_Supplier Loading Area_cr37;2023-06-06 14:04:58
+15206_enter_Terminal South_tr1;2023-06-06 14:28:40
+15207_enter_Terminal South_cr25;2023-06-06 14:28:40
+15209_enter_Terminal South_fl2;2023-06-06 14:28:40
+15211_enter_Truck Depot_tr1;2023-06-06 14:28:46
+15213_enter_Supplier_tr1;2023-06-06 14:33:51
+15217_enter_Loading Bay_fl2;2023-06-06 14:34:07
+15218_enter_Loading Bay_cr25;2023-06-06 14:34:07
+15219_enter_Terminal North_tr5;2023-06-06 14:37:59
+15220_enter_Terminal North_cr61;2023-06-06 14:37:59
+15222_enter_Terminal North_fl1;2023-06-06 14:37:59
+15224_enter_Truck Depot_tr5;2023-06-06 14:38:00
+15230_enter_Supplier Loading Area_tr3;2023-06-06 14:38:55
+15231_enter_Supplier Loading Area_cr36;2023-06-06 14:38:55
+15232_enter_Supplier_tr5;2023-06-06 14:41:14
+15236_enter_Storage_fl1;2023-06-06 14:41:53
+15237_enter_Storage_cr61;2023-06-06 14:41:53
+15240_enter_Terminal North_tr6;2023-06-06 14:44:35
+15241_enter_Terminal North_cr46;2023-06-06 14:44:35
+15243_enter_Terminal North_fl1;2023-06-06 14:44:35
+15245_enter_Truck Depot_tr6;2023-06-06 14:44:37
+15247_enter_Terminal North_tr2;2023-06-06 14:48:24
+15248_enter_Terminal North_cr37;2023-06-06 14:48:24
+15250_enter_Terminal North_fl2;2023-06-06 14:48:24
+15252_enter_Truck Depot_tr2;2023-06-06 14:48:28
+15254_enter_Terminal North_tr4;2023-06-06 14:49:08
+15255_enter_Terminal North_cr42;2023-06-06 14:49:08
+15257_enter_Terminal North_fl3;2023-06-06 14:49:08
+15259_enter_Truck Depot_tr4;2023-06-06 14:49:16
+15260_enter_Supplier_tr6;2023-06-06 14:49:28
+15264_enter_Storage_fl1;2023-06-06 14:51:21
+15265_enter_Storage_cr46;2023-06-06 14:51:21
+15268_enter_Storage_fl2;2023-06-06 14:52:09
+15269_enter_Storage_cr37;2023-06-06 14:52:09
+15270_enter_Terminal North_tr3;2023-06-06 14:53:03
+15271_enter_Terminal North_cr36;2023-06-06 14:53:03
+15273_enter_Terminal North_fl1;2023-06-06 14:53:03
+15274_enter_Supplier_tr2;2023-06-06 14:53:04
+15277_enter_Truck Depot_tr3;2023-06-06 14:53:11
+15278_enter_Supplier Loading Area_tr1;2023-06-06 14:53:42
+15279_enter_Supplier Loading Area_cr21;2023-06-06 14:53:42
+15282_enter_Storage_fl3;2023-06-06 14:55:17
+15283_enter_Storage_cr42;2023-06-06 14:55:17
+15286_enter_Storage_fl1;2023-06-06 14:59:09
+15287_enter_Storage_cr36;2023-06-06 14:59:09
+15288_enter_Supplier Loading Area_tr5;2023-06-06 15:42:23
+15289_enter_Supplier Loading Area_cr44;2023-06-06 15:42:23
+15292_enter_Terminal South_tr5;2023-06-06 15:53:19
+15293_enter_Terminal South_cr44;2023-06-06 15:53:19
+15295_enter_Terminal South_fl2;2023-06-06 15:53:19
+15297_enter_Truck Depot_tr5;2023-06-06 15:53:25
+15298_enter_Supplier Loading Area_tr6;2023-06-06 15:59:24
+15299_enter_Supplier Loading Area_cr57;2023-06-06 15:59:24
+15302_enter_Loading Bay_fl2;2023-06-06 15:59:55
+15303_enter_Loading Bay_cr44;2023-06-06 15:59:55
+15304_enter_Supplier Loading Area_tr2;2023-06-06 16:05:57
+15305_enter_Supplier Loading Area_cr17;2023-06-06 16:05:57
+15310_enter_Terminal North_tr2;2023-06-06 16:55:53
+15311_enter_Terminal North_cr17;2023-06-06 16:55:53
+15313_enter_Terminal North_fl3;2023-06-06 16:55:53
+15315_enter_Truck Depot_tr2;2023-06-06 16:55:59
+15321_enter_Storage_fl3;2023-06-06 18:07:09
+15322_enter_Storage_cr17;2023-06-06 18:07:09
+15323_enter_Terminal South_tr1;2023-06-06 18:30:35
+15324_enter_Terminal South_cr21;2023-06-06 18:30:35
+15326_enter_Terminal South_fl2;2023-06-06 18:30:35
+15328_enter_Truck Depot_tr1;2023-06-06 18:31:50
+15330_enter_Supplier_tr1;2023-06-07 07:45:20
+15334_enter_Loading Bay_fl2;2023-06-07 07:59:49
+15335_enter_Loading Bay_cr21;2023-06-07 07:59:49
+15336_enter_Supplier_tr5;2023-06-07 08:05:15
+15338_enter_Terminal South_tr6;2023-06-07 08:14:02
+15339_enter_Terminal South_cr57;2023-06-07 08:14:02
+15341_enter_Terminal South_fl1;2023-06-07 08:14:02
+15343_enter_Truck Depot_tr6;2023-06-07 08:14:05
+15346_enter_Loading Bay_fl1;2023-06-07 08:22:10
+15347_enter_Loading Bay_cr57;2023-06-07 08:22:10
+15348_enter_Supplier Loading Area_tr5;2023-06-07 08:45:16
+15349_enter_Supplier Loading Area_cr32;2023-06-07 08:45:16
+15350_enter_Supplier Loading Area_tr1;2023-06-07 09:11:22
+15351_enter_Supplier Loading Area_cr59;2023-06-07 09:11:22
+15356_enter_Terminal North_tr5;2023-06-07 11:35:56
+15357_enter_Terminal North_cr32;2023-06-07 11:35:56
+15359_enter_Terminal North_fl3;2023-06-07 11:35:56
+15361_enter_Truck Depot_tr5;2023-06-07 11:35:57
+15362_enter_Terminal North_tr1;2023-06-07 11:41:36
+15363_enter_Terminal North_cr59;2023-06-07 11:41:36
+15365_enter_Terminal North_fl1;2023-06-07 11:41:36
+15367_enter_Truck Depot_tr1;2023-06-07 11:41:38
+15370_enter_Storage_fl3;2023-06-07 11:42:56
+15371_enter_Storage_cr32;2023-06-07 11:42:56
+15374_enter_Storage_fl1;2023-06-07 11:44:38
+15375_enter_Storage_cr59;2023-06-07 11:44:38
+15377_enter_Supplier_tr1;2023-06-07 17:31:41
+15381_enter_Storage_fl3;2023-06-07 22:09:51
+15382_enter_Storage_fl2;2023-06-07 22:09:51
+15384_enter_Storage_fl1;2023-06-07 22:09:51
+15388_enter_Loading Bay_fl3;2023-06-08 07:13:00
+15389_enter_Loading Bay_cr52;2023-06-08 07:13:00
+15392_enter_Loading Bay_fl2;2023-06-08 07:13:39
+15393_enter_Loading Bay_cr18;2023-06-08 07:13:39
+15395_enter_Storage_fl2;2023-06-08 07:14:55
+15398_enter_Loading Bay_fl1;2023-06-08 07:15:26
+15399_enter_Loading Bay_cr51;2023-06-08 07:15:26
+15401_enter_Storage_fl3;2023-06-08 07:18:10
+15404_enter_Loading Bay_fl2;2023-06-08 07:18:55
+15405_enter_Loading Bay_cr45;2023-06-08 07:18:55
+15407_enter_Storage_fl1;2023-06-08 07:20:22
+15410_enter_Loading Bay_fl3;2023-06-08 07:21:21
+15411_enter_Loading Bay_cr46;2023-06-08 07:21:21
+15414_enter_Loading Bay_fl1;2023-06-08 07:24:02
+15415_enter_Loading Bay_cr16;2023-06-08 07:24:02
+15417_enter_Storage_fl2;2023-06-08 07:25:13
+15420_enter_Loading Bay_fl2;2023-06-08 07:27:39
+15421_enter_Loading Bay_cr61;2023-06-08 07:27:39
+15423_enter_Storage_fl1;2023-06-08 07:27:44
+15426_enter_Loading Bay_fl1;2023-06-08 07:29:55
+15427_enter_Loading Bay_cr28;2023-06-08 07:29:55
+15429_enter_Storage_fl3;2023-06-08 07:30:46
+15430_enter_Supplier_tr5;2023-06-08 07:36:33
+15434_enter_Loading Bay_fl3;2023-06-08 07:38:19
+15435_enter_Loading Bay_cr17;2023-06-08 07:38:19
+15436_enter_Supplier Loading Area_tr5;2023-06-08 08:53:38
+15437_enter_Supplier Loading Area_cr55;2023-06-08 08:53:38
+15438_enter_Supplier Loading Area_tr1;2023-06-08 09:32:52
+15439_enter_Supplier Loading Area_cr56;2023-06-08 09:32:52
+15442_enter_Terminal North_tr1;2023-06-08 09:54:48
+15443_enter_Terminal North_cr56;2023-06-08 09:54:48
+15445_enter_Terminal North_fl1;2023-06-08 09:54:48
+15447_enter_Truck Depot_tr1;2023-06-08 09:54:50
+15449_enter_Supplier_tr3;2023-06-08 10:56:50
+15453_enter_Storage_fl1;2023-06-08 10:58:14
+15454_enter_Storage_cr56;2023-06-08 10:58:14
+15457_enter_Supplier Loading Area_tr3;2023-06-08 12:13:46
+15458_enter_Supplier Loading Area_cr39;2023-06-08 12:13:46
+15459_enter_Terminal North_tr5;2023-06-08 13:14:06
+15460_enter_Terminal North_cr55;2023-06-08 13:14:06
+15462_enter_Terminal North_fl1;2023-06-08 13:14:06
+15464_enter_Truck Depot_tr5;2023-06-08 13:14:10
+15467_enter_Storage_fl1;2023-06-08 13:18:33
+15468_enter_Storage_cr55;2023-06-08 13:18:33
+15471_enter_Terminal South_tr3;2023-06-08 14:52:30
+15472_enter_Terminal South_cr39;2023-06-08 14:52:30
+15474_enter_Terminal South_fl3;2023-06-08 14:52:30
+15476_enter_Truck Depot_tr3;2023-06-08 14:52:36
+15479_enter_Loading Bay_fl3;2023-06-08 14:57:03
+15480_enter_Loading Bay_cr39;2023-06-08 14:57:03
+15485_enter_Supplier_tr5;2023-06-09 07:19:25
+15487_enter_Supplier_tr6;2023-06-09 07:21:34
+15490_enter_Supplier_tr4;2023-06-09 07:38:06
+15492_enter_Supplier_tr3;2023-06-09 07:49:01
+15494_enter_Supplier_tr2;2023-06-09 08:06:31
+15496_enter_Supplier Loading Area_tr5;2023-06-09 08:29:29
+15497_enter_Supplier Loading Area_cr69;2023-06-09 08:29:29
+15498_enter_Supplier Loading Area_tr4;2023-06-09 09:06:50
+15499_enter_Supplier Loading Area_cr54;2023-06-09 09:06:50
+15500_enter_Supplier Loading Area_tr3;2023-06-09 09:28:26
+15501_enter_Supplier Loading Area_cr67;2023-06-09 09:28:26
+15502_enter_Supplier Loading Area_tr6;2023-06-09 10:06:23
+15503_enter_Supplier Loading Area_cr58;2023-06-09 10:06:23
+15504_enter_Supplier Loading Area_tr2;2023-06-09 10:14:15
+15505_enter_Supplier Loading Area_cr68;2023-06-09 10:14:15
+15508_enter_Supplier_tr1;2023-06-09 14:05:11
+15510_enter_Supplier Loading Area_tr1;2023-06-09 15:45:31
+15511_enter_Supplier Loading Area_cr22;2023-06-09 15:45:31
+15514_enter_Loading Bay_vh14;2023-06-09 23:00:00
+15515_enter_Terminal South_tr4;2023-06-12 07:34:17
+15516_enter_Terminal South_cr54;2023-06-12 07:34:17
+15518_enter_Terminal South_fl2;2023-06-12 07:34:17
+15520_enter_Truck Depot_tr4;2023-06-12 07:34:39
+15526_enter_Loading Bay_fl2;2023-06-12 07:41:02
+15527_enter_Loading Bay_cr54;2023-06-12 07:41:02
+15528_enter_Supplier_tr4;2023-06-12 07:55:34
+15530_enter_Terminal South_tr5;2023-06-12 07:59:10
+15531_enter_Terminal South_cr69;2023-06-12 07:59:10
+15533_enter_Terminal South_fl3;2023-06-12 07:59:10
+15537_enter_Truck Depot_tr5;2023-06-12 07:59:24
+15541_enter_Loading Bay_fl3;2023-06-12 09:08:18
+15542_enter_Loading Bay_cr69;2023-06-12 09:08:18
+15545_enter_Storage_fl1;2023-06-12 09:08:23
+15546_enter_Storage_fl2;2023-06-12 09:08:23
+15549_enter_Loading Bay_fl1;2023-06-12 09:11:47
+15550_enter_Loading Bay_cr2;2023-06-12 09:11:47
+15553_enter_Loading Bay_fl2;2023-06-12 09:12:38
+15554_enter_Loading Bay_cr4;2023-06-12 09:12:38
+15555_enter_Supplier_tr5;2023-06-12 09:14:48
+15558_enter_Storage_fl3;2023-06-12 09:15:03
+15560_enter_Storage_fl1;2023-06-12 09:15:42
+15563_enter_Loading Bay_fl3;2023-06-12 09:16:26
+15564_enter_Loading Bay_cr36;2023-06-12 09:16:26
+15568_enter_Storage_fl2;2023-06-12 09:18:59
+15571_enter_Loading Bay_fl1;2023-06-12 09:20:56
+15572_enter_Loading Bay_cr3;2023-06-12 09:20:56
+15573_enter_Terminal North_tr2;2023-06-12 09:21:07
+15574_enter_Terminal North_cr68;2023-06-12 09:21:07
+15576_enter_Storage_fl3;2023-06-12 09:21:24
+15579_enter_Loading Bay_fl2;2023-06-12 09:24:24
+15580_enter_Loading Bay_cr1;2023-06-12 09:24:24
+15583_enter_Loading Bay_fl3;2023-06-12 09:24:29
+15584_enter_Loading Bay_cr19;2023-06-12 09:24:29
+15586_enter_Storage_fl1;2023-06-12 09:25:16
+15589_enter_Loading Bay_fl1;2023-06-12 09:27:33
+15590_enter_Loading Bay_cr50;2023-06-12 09:27:33
+15591_enter_Terminal South_tr1;2023-06-12 09:30:12
+15592_enter_Terminal South_cr22;2023-06-12 09:30:12
+15594_enter_Terminal North_fl1;2023-06-12 09:31:01
+15596_enter_Truck Depot_tr2;2023-06-12 09:31:05
+15599_enter_Terminal South_fl2;2023-06-12 09:32:09
+15601_enter_Truck Depot_tr1;2023-06-12 09:32:12
+15604_enter_Storage_fl3;2023-06-12 09:32:47
+15607_enter_Loading Bay_fl3;2023-06-12 09:34:05
+15608_enter_Loading Bay_cr42;2023-06-12 09:34:05
+15610_enter_Storage_fl3;2023-06-12 09:34:49
+15613_enter_Storage_fl1;2023-06-12 09:35:14
+15614_enter_Storage_cr68;2023-06-12 09:35:14
+15617_enter_Loading Bay_fl2;2023-06-12 09:37:23
+15618_enter_Loading Bay_cr22;2023-06-12 09:37:23
+15619_enter_Supplier_tr1;2023-06-12 09:39:06
+15623_enter_Loading Bay_fl3;2023-06-12 09:39:29
+15624_enter_Loading Bay_cr20;2023-06-12 09:39:29
+15625_enter_Supplier_tr2;2023-06-12 09:40:53
+15627_enter_Supplier Loading Area_tr1;2023-06-12 10:40:24
+15628_enter_Supplier Loading Area_cr75;2023-06-12 10:40:24
+15629_enter_Supplier Loading Area_tr2;2023-06-12 10:43:53
+15630_enter_Supplier Loading Area_cr63;2023-06-12 10:43:53
+15631_enter_Supplier Loading Area_tr4;2023-06-12 10:47:16
+15632_enter_Supplier Loading Area_cr66;2023-06-12 10:47:16
+15633_enter_Supplier Loading Area_tr5;2023-06-12 10:52:49
+15634_enter_Supplier Loading Area_cr65;2023-06-12 10:52:49
+15639_enter_Terminal North_tr5;2023-06-12 14:13:52
+15640_enter_Terminal North_cr65;2023-06-12 14:13:52
+15642_enter_Terminal North_fl1;2023-06-12 14:13:52
+15644_enter_Truck Depot_tr5;2023-06-12 14:13:54
+15650_enter_Storage_fl1;2023-06-12 14:17:42
+15651_enter_Storage_cr65;2023-06-12 14:17:42
+15656_enter_Terminal North_tr1;2023-06-12 14:27:26
+15657_enter_Terminal North_cr75;2023-06-12 14:27:26
+15659_enter_Terminal North_fl1;2023-06-12 14:27:26
+15661_enter_Truck Depot_tr1;2023-06-12 14:27:30
+15663_enter_Supplier_tr5;2023-06-12 14:29:38
+15665_enter_Terminal South_tr2;2023-06-12 14:31:33
+15666_enter_Terminal South_cr63;2023-06-12 14:31:33
+15668_enter_Terminal South_fl3;2023-06-12 14:31:33
+15670_enter_Truck Depot_tr2;2023-06-12 14:31:39
+15672_enter_Supplier_tr1;2023-06-12 14:33:29
+15676_enter_Storage_fl1;2023-06-12 14:36:18
+15677_enter_Storage_cr75;2023-06-12 14:36:18
+15678_enter_Supplier_tr2;2023-06-12 14:37:52
+15682_enter_Loading Bay_fl3;2023-06-12 14:38:05
+15683_enter_Loading Bay_cr63;2023-06-12 14:38:05
+15684_enter_Supplier Loading Area_tr5;2023-06-12 14:51:59
+15685_enter_Supplier Loading Area_cr40;2023-06-12 14:51:59
+15686_enter_Terminal North_tr3;2023-06-12 14:52:16
+15687_enter_Terminal North_cr67;2023-06-12 14:52:16
+15689_enter_Terminal North_fl1;2023-06-12 14:52:16
+15691_enter_Truck Depot_tr3;2023-06-12 14:52:19
+15693_enter_Supplier Loading Area_tr1;2023-06-12 14:56:06
+15694_enter_Supplier Loading Area_cr60;2023-06-12 14:56:06
+15695_enter_Terminal North_tr6;2023-06-12 15:23:42
+15696_enter_Terminal North_cr58;2023-06-12 15:23:42
+15698_enter_Terminal North_fl2;2023-06-12 15:23:42
+15700_enter_Truck Depot_tr6;2023-06-12 15:23:43
+15704_enter_Storage_fl2;2023-06-12 15:29:10
+15705_enter_Storage_cr58;2023-06-12 15:29:10
+15706_enter_Supplier_tr6;2023-06-12 15:29:58
+15708_enter_Supplier Loading Area_tr2;2023-06-12 15:38:15
+15709_enter_Supplier Loading Area_cr76;2023-06-12 15:38:15
+15710_enter_Supplier Loading Area_tr6;2023-06-12 15:51:59
+15711_enter_Supplier Loading Area_cr71;2023-06-12 15:51:59
+15712_enter_Supplier_tr3;2023-06-12 15:56:58
+15716_enter_Storage_fl1;2023-06-12 15:58:50
+15717_enter_Storage_cr67;2023-06-12 15:58:50
+15719_enter_Storage_fl2;2023-06-12 15:58:50
+15722_enter_Terminal North_tr1;2023-06-12 16:23:39
+15723_enter_Terminal North_cr60;2023-06-12 16:23:39
+15725_enter_Terminal North_fl1;2023-06-12 16:23:39
+15727_enter_Truck Depot_tr1;2023-06-12 16:23:52
+15733_enter_Storage_fl1;2023-06-12 16:27:09
+15734_enter_Storage_cr60;2023-06-12 16:27:09
+15735_enter_Supplier_tr1;2023-06-12 16:32:48
+15739_enter_Terminal North_tr4;2023-06-12 16:40:15
+15740_enter_Terminal North_cr66;2023-06-12 16:40:15
+15742_enter_Terminal North_fl1;2023-06-12 16:40:15
+15744_enter_Truck Depot_tr4;2023-06-12 16:40:28
+15748_enter_Storage_fl1;2023-06-12 16:46:14
+15749_enter_Storage_cr66;2023-06-12 16:46:14
+15750_enter_Terminal North_tr5;2023-06-12 16:47:40
+15751_enter_Terminal North_cr40;2023-06-12 16:47:40
+15753_enter_Terminal North_fl1;2023-06-12 16:47:40
+15755_enter_Truck Depot_tr5;2023-06-12 16:47:44
+15757_enter_Supplier_tr4;2023-06-12 16:48:23
+15761_enter_Storage_fl1;2023-06-12 16:55:47
+15762_enter_Storage_cr40;2023-06-12 16:55:47
+15765_enter_Loading Bay_fl2;2023-06-12 16:59:25
+15766_enter_Loading Bay_cr67;2023-06-12 16:59:25
+15767_enter_Supplier_tr5;2023-06-12 16:59:29
+15769_enter_Supplier Loading Area_tr3;2023-06-12 17:21:04
+15770_enter_Supplier Loading Area_cr62;2023-06-12 17:21:04
+15771_enter_Supplier Loading Area_tr1;2023-06-12 17:35:06
+15772_enter_Supplier Loading Area_cr70;2023-06-12 17:35:06
+15775_enter_Supplier Loading Area_tr5;2023-06-12 19:40:11
+15776_enter_Supplier Loading Area_cr23;2023-06-12 19:40:11
+15779_enter_Terminal North_tr2;2023-06-13 07:34:17
+15780_enter_Terminal North_cr76;2023-06-13 07:34:17
+15782_enter_Terminal North_fl1;2023-06-13 07:34:17
+15784_enter_Truck Depot_tr2;2023-06-13 07:34:31
+15790_enter_Storage_fl1;2023-06-13 07:42:22
+15791_enter_Storage_cr76;2023-06-13 07:42:22
+15792_enter_Supplier_tr2;2023-06-13 07:43:41
+15794_enter_Terminal North_tr1;2023-06-13 07:44:38
+15795_enter_Terminal North_cr70;2023-06-13 07:44:38
+15797_enter_Terminal North_fl1;2023-06-13 07:44:38
+15799_enter_Truck Depot_tr1;2023-06-13 07:44:42
+15803_enter_Storage_fl1;2023-06-13 07:52:50
+15804_enter_Storage_cr70;2023-06-13 07:52:50
+15805_enter_Supplier_tr1;2023-06-13 08:54:15
+15807_enter_Supplier Loading Area_tr2;2023-06-13 09:08:14
+15808_enter_Supplier Loading Area_cr8;2023-06-13 09:08:14
+15809_enter_Supplier Loading Area_tr4;2023-06-13 09:18:33
+15810_enter_Supplier Loading Area_cr26;2023-06-13 09:18:33
+15811_enter_Terminal North_tr6;2023-06-13 09:29:56
+15812_enter_Terminal North_cr71;2023-06-13 09:29:56
+15814_enter_Terminal North_fl1;2023-06-13 09:29:56
+15816_enter_Truck Depot_tr6;2023-06-13 09:30:01
+15820_enter_Storage_fl1;2023-06-13 09:32:45
+15821_enter_Storage_cr71;2023-06-13 09:32:45
+15822_enter_Supplier_tr6;2023-06-13 09:33:59
+15830_enter_Terminal North_tr5;2023-06-13 09:47:29
+15831_enter_Terminal North_cr23;2023-06-13 09:47:29
+15833_enter_Terminal North_fl1;2023-06-13 09:47:29
+15835_enter_Truck Depot_tr5;2023-06-13 09:47:38
+15839_enter_Storage_fl1;2023-06-13 09:49:38
+15840_enter_Storage_cr23;2023-06-13 09:49:38
+15841_enter_Terminal North_tr4;2023-06-13 09:51:58
+15842_enter_Terminal North_cr26;2023-06-13 09:51:58
+15844_enter_Terminal North_fl1;2023-06-13 09:51:58
+15846_enter_Truck Depot_tr4;2023-06-13 09:52:01
+15847_enter_Supplier Loading Area_tr6;2023-06-13 09:54:10
+15848_enter_Supplier Loading Area_cr87;2023-06-13 09:54:10
+15849_enter_Terminal South_tr3;2023-06-13 09:54:30
+15850_enter_Terminal South_cr62;2023-06-13 09:54:30
+15852_enter_Terminal South_fl3;2023-06-13 09:54:30
+15854_enter_Truck Depot_tr3;2023-06-13 09:54:32
+15855_enter_Supplier_tr5;2023-06-13 09:54:42
+15861_enter_Storage_fl1;2023-06-13 09:55:59
+15862_enter_Storage_cr26;2023-06-13 09:55:59
+15865_enter_Loading Bay_fl3;2023-06-13 09:59:52
+15866_enter_Loading Bay_cr62;2023-06-13 09:59:52
+15867_enter_Terminal North_tr6;2023-06-13 10:59:57
+15868_enter_Terminal North_cr87;2023-06-13 10:59:57
+15870_enter_Terminal North_fl1;2023-06-13 10:59:57
+15871_enter_Loading Bay_vh15;2023-06-13 11:00:00
+15873_enter_Supplier Loading Area_tr1;2023-06-13 11:06:49
+15874_enter_Supplier Loading Area_cr73;2023-06-13 11:06:49
+15875_enter_Supplier Loading Area_tr5;2023-06-13 11:09:37
+15876_enter_Supplier Loading Area_cr84;2023-06-13 11:09:37
+15879_enter_Terminal North_tr5;2023-06-13 11:23:26
+15880_enter_Terminal North_cr84;2023-06-13 11:23:26
+15882_enter_Terminal North_fl2;2023-06-13 11:23:26
+15884_enter_Truck Depot_tr5;2023-06-13 11:23:29
+15889_enter_Storage_fl2;2023-06-13 11:27:09
+15890_enter_Storage_cr84;2023-06-13 11:27:09
+15891_enter_Terminal North_tr1;2023-06-13 11:34:39
+15892_enter_Terminal North_cr73;2023-06-13 11:34:39
+15894_enter_Terminal North_fl2;2023-06-13 11:34:39
+15896_enter_Truck Depot_tr1;2023-06-13 11:34:42
+15899_enter_Storage_fl2;2023-06-13 11:38:22
+15900_enter_Storage_cr73;2023-06-13 11:38:22
+15902_enter_Truck Depot_tr6;2023-06-13 12:00:01
+15906_enter_Storage_fl1;2023-06-13 13:06:02
+15907_enter_Storage_cr87;2023-06-13 13:06:02
+15910_enter_Terminal South_tr2;2023-06-13 13:20:17
+15911_enter_Terminal South_cr8;2023-06-13 13:20:17
+15913_enter_Terminal South_fl3;2023-06-13 13:20:17
+15915_enter_Truck Depot_tr2;2023-06-13 13:20:20
+15918_enter_Loading Bay_fl3;2023-06-13 13:25:54
+15919_enter_Loading Bay_cr8;2023-06-13 13:25:54
+15920_enter_Supplier_tr3;2023-06-13 13:45:28
+15923_enter_Supplier_tr5;2023-06-13 14:54:10
+15925_enter_Supplier Loading Area_tr3;2023-06-13 15:48:58
+15926_enter_Supplier Loading Area_cr82;2023-06-13 15:48:58
+15929_enter_Supplier Loading Area_tr5;2023-06-13 17:06:13
+15930_enter_Supplier Loading Area_cr81;2023-06-13 17:06:13
+15934_enter_Supplier_tr4;2023-06-13 17:27:45
+15936_enter_Supplier_tr1;2023-06-13 17:29:03
+15938_enter_Supplier_tr2;2023-06-13 17:35:36
+15939_enter_Terminal South_tr3;2023-06-13 17:35:41
+15940_enter_Terminal South_cr82;2023-06-13 17:35:41
+15942_enter_Terminal South_fl3;2023-06-13 17:35:41
+15945_enter_Truck Depot_tr3;2023-06-13 17:35:51
+15948_enter_Loading Bay_fl3;2023-06-13 17:44:03
+15949_enter_Loading Bay_cr82;2023-06-13 17:44:03
+15954_enter_Supplier_tr6;2023-06-14 07:15:21
+15956_enter_Supplier_tr3;2023-06-14 07:25:58
+15958_enter_Supplier Loading Area_tr4;2023-06-14 07:38:05
+15959_enter_Supplier Loading Area_cr98;2023-06-14 07:38:05
+15960_enter_Supplier Loading Area_tr1;2023-06-14 07:39:37
+15961_enter_Supplier Loading Area_cr99;2023-06-14 07:39:37
+15962_enter_Terminal North_tr5;2023-06-14 07:46:37
+15963_enter_Terminal North_cr81;2023-06-14 07:46:37
+15965_enter_Terminal North_fl1;2023-06-14 07:46:37
+15967_enter_Truck Depot_tr5;2023-06-14 07:46:41
+15969_enter_Supplier Loading Area_tr2;2023-06-14 07:49:11
+15970_enter_Supplier Loading Area_cr96;2023-06-14 07:49:11
+15973_enter_Storage_fl1;2023-06-14 07:50:52
+15974_enter_Storage_cr81;2023-06-14 07:50:52
+15977_enter_Supplier_tr5;2023-06-14 07:53:53
+15979_enter_Supplier Loading Area_tr6;2023-06-14 07:56:12
+15980_enter_Supplier Loading Area_cr80;2023-06-14 07:56:12
+15981_enter_Supplier Loading Area_tr3;2023-06-14 08:33:15
+15982_enter_Supplier Loading Area_cr97;2023-06-14 08:33:15
+15983_enter_Supplier Loading Area_tr5;2023-06-14 09:28:41
+15984_enter_Supplier Loading Area_cr74;2023-06-14 09:28:41
+15985_enter_Terminal South_tr1;2023-06-14 10:00:22
+15986_enter_Terminal South_cr99;2023-06-14 10:00:22
+15988_enter_Terminal South_fl3;2023-06-14 10:00:22
+15990_enter_Truck Depot_tr1;2023-06-14 10:00:28
+15993_enter_Loading Bay_fl3;2023-06-14 10:03:28
+15994_enter_Loading Bay_cr99;2023-06-14 10:03:28
+16002_enter_Terminal South_tr5;2023-06-14 11:35:27
+16003_enter_Terminal South_cr74;2023-06-14 11:35:27
+16005_enter_Terminal South_fl3;2023-06-14 11:35:27
+16007_enter_Truck Depot_tr5;2023-06-14 11:35:32
+16012_enter_Loading Bay_fl3;2023-06-14 11:43:41
+16013_enter_Loading Bay_cr74;2023-06-14 11:43:41
+16014_enter_Terminal North_tr2;2023-06-14 11:44:34
+16015_enter_Terminal North_cr96;2023-06-14 11:44:34
+16017_enter_Terminal North_fl1;2023-06-14 11:44:34
+16019_enter_Truck Depot_tr2;2023-06-14 11:44:36
+16022_enter_Storage_fl1;2023-06-14 11:47:48
+16023_enter_Storage_cr96;2023-06-14 11:47:48
+16024_enter_Terminal North_tr4;2023-06-14 11:48:07
+16025_enter_Terminal North_cr98;2023-06-14 11:48:07
+16027_enter_Terminal North_fl2;2023-06-14 11:48:07
+16029_enter_Truck Depot_tr4;2023-06-14 11:48:10
+16034_enter_Storage_fl2;2023-06-14 11:53:05
+16035_enter_Storage_cr98;2023-06-14 11:53:05
+16036_enter_Supplier_tr1;2023-06-14 11:54:25
+16038_enter_Terminal North_tr6;2023-06-14 11:59:51
+16039_enter_Terminal North_cr80;2023-06-14 11:59:51
+16041_enter_Terminal North_fl1;2023-06-14 11:59:51
+16043_enter_Truck Depot_tr6;2023-06-14 11:59:54
+16044_enter_Terminal South_tr3;2023-06-14 13:35:56
+16045_enter_Terminal South_cr97;2023-06-14 13:35:56
+16047_enter_Terminal South_fl3;2023-06-14 13:35:56
+16049_enter_Truck Depot_tr3;2023-06-14 13:36:01
+16052_enter_Loading Bay_fl3;2023-06-14 13:45:32
+16053_enter_Loading Bay_cr97;2023-06-14 13:45:32
+16056_enter_Storage_fl1;2023-06-14 14:01:30
+16057_enter_Storage_cr80;2023-06-14 14:01:30
+16058_enter_Supplier Loading Area_tr1;2023-06-14 14:13:27
+16059_enter_Supplier Loading Area_cr91;2023-06-14 14:13:27
+16062_enter_Terminal North_tr1;2023-06-14 14:35:19
+16063_enter_Terminal North_cr91;2023-06-14 14:35:19
+16065_enter_Terminal North_fl2;2023-06-14 14:35:19
+16067_enter_Truck Depot_tr1;2023-06-14 14:35:23
+16070_enter_Storage_fl2;2023-06-14 14:39:42
+16071_enter_Storage_cr91;2023-06-14 14:39:42
+16075_enter_Storage_fl3;2023-06-15 02:12:38
+16076_enter_Storage_fl2;2023-06-15 02:12:38
+16077_enter_Storage_fl1;2023-06-15 02:12:38
+16080_enter_Loading Bay_fl2;2023-06-15 07:14:43
+16081_enter_Loading Bay_cr96;2023-06-15 07:14:43
+16084_enter_Loading Bay_fl1;2023-06-15 07:16:34
+16085_enter_Loading Bay_cr37;2023-06-15 07:16:34
+16088_enter_Loading Bay_fl3;2023-06-15 07:17:58
+16089_enter_Loading Bay_cr24;2023-06-15 07:17:58
+16091_enter_Storage_fl1;2023-06-15 07:18:05
+16093_enter_Storage_fl2;2023-06-15 07:19:39
+16096_enter_Loading Bay_fl1;2023-06-15 07:20:18
+16097_enter_Loading Bay_cr56;2023-06-15 07:20:18
+16099_enter_Storage_fl1;2023-06-15 07:22:10
+16101_enter_Storage_fl3;2023-06-15 07:22:13
+16104_enter_Loading Bay_fl2;2023-06-15 07:23:13
+16105_enter_Loading Bay_cr98;2023-06-15 07:23:13
+16108_enter_Loading Bay_fl3;2023-06-15 07:25:46
+16109_enter_Loading Bay_cr55;2023-06-15 07:25:46
+16112_enter_Loading Bay_fl1;2023-06-15 07:27:27
+16113_enter_Loading Bay_cr10;2023-06-15 07:27:27
+16115_enter_Storage_fl2;2023-06-15 07:32:55
+16117_enter_Storage_fl1;2023-06-15 07:34:42
+16119_enter_Storage_fl3;2023-06-15 07:38:53
+16122_enter_Loading Bay_fl1;2023-06-15 07:39:19
+16123_enter_Loading Bay_cr66;2023-06-15 07:39:19
+16126_enter_Loading Bay_fl2;2023-06-15 07:40:21
+16127_enter_Loading Bay_cr76;2023-06-15 07:40:21
+16129_enter_Storage_fl1;2023-06-15 07:40:25
+16132_enter_Loading Bay_fl1;2023-06-15 07:43:54
+16133_enter_Loading Bay_cr40;2023-06-15 07:43:54
+16136_enter_Loading Bay_fl3;2023-06-15 07:48:46
+16137_enter_Loading Bay_cr70;2023-06-15 07:48:46
+16139_enter_Storage_fl2;2023-06-15 07:51:00
+16142_enter_Loading Bay_fl2;2023-06-15 07:54:51
+16143_enter_Loading Bay_cr68;2023-06-15 07:54:51
+16145_enter_Storage_fl1;2023-06-15 07:56:25
+16148_enter_Loading Bay_fl1;2023-06-15 07:58:49
+16149_enter_Loading Bay_cr87;2023-06-15 07:58:49
+16151_enter_Storage_fl3;2023-06-15 07:59:38
+16153_enter_Storage_fl2;2023-06-15 09:00:27
+16156_enter_Loading Bay_fl2;2023-06-15 09:04:09
+16157_enter_Loading Bay_cr23;2023-06-15 09:04:09
+16160_enter_Loading Bay_fl3;2023-06-15 09:06:35
+16161_enter_Loading Bay_cr75;2023-06-15 09:06:35
+16163_enter_Storage_fl1;2023-06-15 09:06:47
+16166_enter_Loading Bay_fl1;2023-06-15 09:08:46
+16167_enter_Loading Bay_cr58;2023-06-15 09:08:46
+16171_enter_Supplier_tr4;2023-06-16 08:09:15
+16173_enter_Supplier_tr1;2023-06-16 08:09:25
+16175_enter_Supplier Loading Area_tr4;2023-06-16 08:58:47
+16176_enter_Supplier Loading Area_cr78;2023-06-16 08:58:47
+16177_enter_Supplier_tr6;2023-06-16 09:09:50
+16179_enter_Supplier Loading Area_tr6;2023-06-16 09:34:58
+16180_enter_Supplier Loading Area_cr94;2023-06-16 09:34:58
+16186_enter_Supplier Loading Area_tr1;2023-06-16 10:18:30
+16187_enter_Supplier Loading Area_cr108;2023-06-16 10:18:30
+16188_enter_Supplier_tr5;2023-06-16 10:20:37
+16190_enter_Terminal South_tr4;2023-06-16 10:25:55
+16191_enter_Terminal South_cr78;2023-06-16 10:25:55
+16193_enter_Terminal South_fl2;2023-06-16 10:25:55
+16195_enter_Truck Depot_tr4;2023-06-16 10:25:58
+16200_enter_Loading Bay_fl2;2023-06-16 10:34:40
+16201_enter_Loading Bay_cr78;2023-06-16 10:34:40
+16202_enter_Terminal North_tr1;2023-06-16 10:41:21
+16203_enter_Terminal North_cr108;2023-06-16 10:41:21
+16205_enter_Terminal North_fl3;2023-06-16 10:41:21
+16207_enter_Truck Depot_tr1;2023-06-16 10:41:31
+16210_enter_Storage_fl3;2023-06-16 10:44:07
+16211_enter_Storage_cr108;2023-06-16 10:44:07
+16212_enter_Supplier Loading Area_tr5;2023-06-16 10:45:34
+16213_enter_Supplier Loading Area_cr107;2023-06-16 10:45:34
+16214_enter_Terminal North_tr6;2023-06-16 10:48:37
+16215_enter_Terminal North_cr94;2023-06-16 10:48:37
+16217_enter_Terminal North_fl3;2023-06-16 10:48:37
+16219_enter_Truck Depot_tr6;2023-06-16 10:48:39
+16222_enter_Storage_fl3;2023-06-16 10:50:24
+16223_enter_Storage_cr94;2023-06-16 10:50:24
+16227_enter_Terminal North_tr5;2023-06-16 12:48:29
+16228_enter_Terminal North_cr107;2023-06-16 12:48:29
+16230_enter_Terminal North_fl3;2023-06-16 12:48:29
+16232_enter_Truck Depot_tr5;2023-06-16 13:48:38
+16235_enter_Storage_fl3;2023-06-16 13:54:13
+16236_enter_Storage_cr107;2023-06-16 13:54:13
+16238_enter_Supplier_tr6;2023-06-16 14:36:39
+16240_enter_Supplier Loading Area_tr6;2023-06-16 15:38:11
+16241_enter_Supplier Loading Area_cr104;2023-06-16 15:38:11
+16244_enter_Terminal North_tr6;2023-06-16 17:37:26
+16245_enter_Terminal North_cr104;2023-06-16 17:37:26
+16247_enter_Terminal North_fl3;2023-06-16 17:37:26
+16249_enter_Truck Depot_tr6;2023-06-16 17:37:42
+16252_enter_Storage_fl3;2023-06-16 17:54:01
+16253_enter_Storage_cr104;2023-06-16 17:54:01
+16256_enter_Loading Bay_vh16;2023-06-16 23:00:00
+16262_enter_Storage_fl3;2023-06-19 05:58:17
+16264_enter_Storage_fl1;2023-06-19 05:58:17
+16266_enter_Storage_fl2;2023-06-19 05:58:17
+16267_enter_Supplier_tr6;2023-06-19 07:10:51
+16269_enter_Supplier_tr4;2023-06-19 07:23:35
+16271_enter_Supplier_tr5;2023-06-19 07:36:40
+16273_enter_Supplier Loading Area_tr6;2023-06-19 07:55:50
+16274_enter_Supplier Loading Area_cr113;2023-06-19 07:55:50
+16277_enter_Loading Bay_fl2;2023-06-19 08:01:21
+16278_enter_Loading Bay_cr84;2023-06-19 08:01:21
+16281_enter_Loading Bay_fl3;2023-06-19 08:01:48
+16282_enter_Loading Bay_cr33;2023-06-19 08:01:48
+16283_enter_Supplier_tr1;2023-06-19 08:03:25
+16286_enter_Loading Bay_fl1;2023-06-19 08:03:33
+16287_enter_Loading Bay_cr81;2023-06-19 08:03:33
+16290_enter_Storage_fl3;2023-06-19 08:08:57
+16291_enter_Supplier_tr2;2023-06-19 08:09:46
+16294_enter_Storage_fl2;2023-06-19 08:14:01
+16297_enter_Loading Bay_fl3;2023-06-19 08:14:36
+16298_enter_Loading Bay_cr32;2023-06-19 08:14:36
+16301_enter_Loading Bay_fl2;2023-06-19 08:17:16
+16302_enter_Loading Bay_cr26;2023-06-19 08:17:16
+16303_enter_Supplier_tr3;2023-06-19 08:17:42
+16305_enter_Supplier Loading Area_tr4;2023-06-19 08:32:09
+16306_enter_Supplier Loading Area_cr83;2023-06-19 08:32:09
+16307_enter_Supplier Loading Area_tr1;2023-06-19 08:46:57
+16308_enter_Supplier Loading Area_cr31;2023-06-19 08:46:57
+16309_enter_Supplier Loading Area_tr2;2023-06-19 08:54:46
+16310_enter_Supplier Loading Area_cr111;2023-06-19 08:54:46
+16311_enter_Supplier Loading Area_tr5;2023-06-19 08:58:44
+16312_enter_Supplier Loading Area_cr110;2023-06-19 08:58:44
+16313_enter_Supplier Loading Area_tr3;2023-06-19 09:19:11
+16314_enter_Supplier Loading Area_cr79;2023-06-19 09:19:11
+16327_enter_Terminal North_tr4;2023-06-19 14:47:00
+16328_enter_Terminal North_cr83;2023-06-19 14:47:00
+16330_enter_Terminal North_fl3;2023-06-19 14:47:00
+16331_enter_Terminal South_tr1;2023-06-19 14:47:03
+16332_enter_Terminal South_cr31;2023-06-19 14:47:03
+16334_enter_Terminal South_fl1;2023-06-19 14:47:03
+16336_enter_Truck Depot_tr4;2023-06-19 14:47:04
+16339_enter_Truck Depot_tr1;2023-06-19 14:47:10
+16343_enter_Storage_fl3;2023-06-19 14:52:45
+16344_enter_Storage_cr83;2023-06-19 14:52:45
+16346_enter_Storage_fl3;2023-06-19 14:52:45
+16349_enter_Loading Bay_fl1;2023-06-19 14:54:18
+16350_enter_Loading Bay_cr31;2023-06-19 14:54:18
+16353_enter_Loading Bay_fl3;2023-06-19 14:54:55
+16354_enter_Loading Bay_cr83;2023-06-19 14:54:55
+16355_enter_Supplier_tr1;2023-06-19 14:55:51
+16357_enter_Terminal South_tr2;2023-06-19 15:10:45
+16358_enter_Terminal South_cr111;2023-06-19 15:10:45
+16360_enter_Terminal South_fl2;2023-06-19 15:10:45
+16362_enter_Truck Depot_tr2;2023-06-19 15:10:48
+16366_enter_Loading Bay_fl2;2023-06-19 15:17:36
+16367_enter_Loading Bay_cr111;2023-06-19 15:17:36
+16368_enter_Supplier_tr2;2023-06-19 15:18:49
+16370_enter_Supplier Loading Area_tr2;2023-06-19 15:40:58
+16371_enter_Supplier Loading Area_cr109;2023-06-19 15:40:58
+16372_enter_Terminal North_tr5;2023-06-19 15:46:37
+16373_enter_Terminal North_cr110;2023-06-19 15:46:37
+16375_enter_Terminal North_fl2;2023-06-19 15:46:37
+16377_enter_Truck Depot_tr5;2023-06-19 15:46:39
+16379_enter_Terminal South_tr6;2023-06-19 15:49:51
+16380_enter_Terminal South_cr113;2023-06-19 15:49:51
+16383_enter_Storage_fl2;2023-06-19 15:49:57
+16384_enter_Storage_cr110;2023-06-19 15:49:57
+16386_enter_Terminal South_fl2;2023-06-19 15:49:57
+16388_enter_Truck Depot_tr6;2023-06-19 15:50:00
+16390_enter_Supplier_tr4;2023-06-19 15:50:15
+16392_enter_Supplier_tr5;2023-06-19 15:50:56
+16394_enter_Terminal North_tr3;2023-06-19 16:09:48
+16395_enter_Terminal North_cr79;2023-06-19 16:09:48
+16397_enter_Terminal North_fl1;2023-06-19 16:09:48
+16399_enter_Truck Depot_tr3;2023-06-19 16:09:50
+16403_enter_Storage_fl1;2023-06-19 16:13:47
+16404_enter_Storage_cr79;2023-06-19 16:13:47
+16405_enter_Supplier Loading Area_tr1;2023-06-19 16:14:26
+16406_enter_Supplier Loading Area_cr114;2023-06-19 16:14:26
+16407_enter_Supplier_tr3;2023-06-19 16:15:37
+16409_enter_Supplier Loading Area_tr3;2023-06-19 16:43:57
+16410_enter_Supplier Loading Area_cr118;2023-06-19 16:43:57
+16411_enter_Supplier_tr6;2023-06-19 16:52:07
+16415_enter_Loading Bay_fl2;2023-06-19 16:55:18
+16416_enter_Loading Bay_cr113;2023-06-19 16:55:18
+16417_enter_Supplier Loading Area_tr4;2023-06-19 17:05:34
+16418_enter_Supplier Loading Area_cr85;2023-06-19 17:05:34
+16419_enter_Supplier Loading Area_tr5;2023-06-19 17:08:03
+16420_enter_Supplier Loading Area_cr72;2023-06-19 17:08:03
+16423_enter_Supplier Loading Area_tr6;2023-06-19 18:45:47
+16424_enter_Supplier Loading Area_cr106;2023-06-19 18:45:47
+16433_enter_Terminal North_tr5;2023-06-20 08:38:47
+16434_enter_Terminal North_cr72;2023-06-20 08:38:47
+16436_enter_Terminal North_fl1;2023-06-20 08:38:47
+16438_enter_Truck Depot_tr5;2023-06-20 08:38:57
+16442_enter_Storage_fl1;2023-06-20 08:43:39
+16443_enter_Storage_cr72;2023-06-20 08:43:39
+16444_enter_Terminal South_tr2;2023-06-20 08:51:27
+16445_enter_Terminal South_cr109;2023-06-20 08:51:27
+16447_enter_Terminal South_fl3;2023-06-20 08:51:27
+16449_enter_Truck Depot_tr2;2023-06-20 08:51:35
+16451_enter_Supplier_tr5;2023-06-20 08:52:26
+16453_enter_Terminal South_tr1;2023-06-20 08:56:38
+16454_enter_Terminal South_cr114;2023-06-20 08:56:38
+16456_enter_Terminal South_fl2;2023-06-20 08:56:38
+16458_enter_Truck Depot_tr1;2023-06-20 08:56:51
+16460_enter_Terminal North_tr4;2023-06-20 08:58:01
+16461_enter_Terminal North_cr85;2023-06-20 08:58:01
+16463_enter_Terminal North_fl1;2023-06-20 08:58:01
+16465_enter_Truck Depot_tr4;2023-06-20 08:58:04
+16468_enter_Loading Bay_fl3;2023-06-20 08:58:33
+16469_enter_Loading Bay_cr109;2023-06-20 08:58:33
+16470_enter_Supplier_tr2;2023-06-20 08:59:07
+16474_enter_Terminal North_tr3;2023-06-20 09:18:01
+16475_enter_Terminal North_cr118;2023-06-20 09:18:01
+16476_enter_Terminal North_tr6;2023-06-20 09:18:42
+16477_enter_Terminal North_cr106;2023-06-20 09:18:42
+16479_enter_Terminal North_fl3;2023-06-20 10:00:41
+16481_enter_Truck Depot_tr3;2023-06-20 10:00:45
+16484_enter_Storage_fl3;2023-06-20 10:04:57
+16485_enter_Storage_cr118;2023-06-20 10:04:57
+16487_enter_Terminal North_fl3;2023-06-20 10:04:57
+16489_enter_Truck Depot_tr6;2023-06-20 10:04:58
+16490_enter_Supplier_tr1;2023-06-20 10:06:53
+16494_enter_Storage_fl3;2023-06-20 10:07:29
+16495_enter_Storage_cr106;2023-06-20 10:07:29
+16496_enter_Supplier Loading Area_tr2;2023-06-20 10:19:25
+16497_enter_Supplier Loading Area_cr77;2023-06-20 10:19:25
+16498_enter_Supplier Loading Area_tr1;2023-06-20 10:27:05
+16499_enter_Supplier Loading Area_cr103;2023-06-20 10:27:05
+16502_enter_Loading Bay_fl2;2023-06-20 10:59:06
+16503_enter_Loading Bay_cr114;2023-06-20 10:59:06
+16506_enter_Storage_fl1;2023-06-20 10:59:53
+16507_enter_Storage_cr85;2023-06-20 10:59:53
+16508_enter_Loading Bay_vh17;2023-06-20 11:00:00
+16510_enter_Supplier Loading Area_tr5;2023-06-20 11:03:39
+16511_enter_Supplier Loading Area_cr101;2023-06-20 11:03:39
+16518_enter_Terminal North_tr2;2023-06-20 14:50:49
+16519_enter_Terminal North_cr77;2023-06-20 14:50:49
+16521_enter_Terminal North_fl3;2023-06-20 14:50:49
+16523_enter_Truck Depot_tr2;2023-06-20 14:50:51
+16526_enter_Storage_fl3;2023-06-20 14:55:31
+16527_enter_Storage_cr77;2023-06-20 14:55:31
+16528_enter_Terminal North_tr1;2023-06-20 14:59:52
+16529_enter_Terminal North_cr103;2023-06-20 14:59:52
+16531_enter_Terminal North_fl1;2023-06-20 14:59:52
+16533_enter_Truck Depot_tr1;2023-06-20 15:00:00
+16536_enter_Storage_fl1;2023-06-20 15:06:43
+16537_enter_Storage_cr103;2023-06-20 15:06:43
+16538_enter_Terminal South_tr5;2023-06-20 15:48:24
+16539_enter_Terminal South_cr101;2023-06-20 15:48:24
+16541_enter_Terminal South_fl2;2023-06-20 15:48:24
+16543_enter_Truck Depot_tr5;2023-06-20 15:48:26
+16546_enter_Loading Bay_fl2;2023-06-20 15:52:37
+16547_enter_Loading Bay_cr101;2023-06-20 15:52:37
+16549_enter_Supplier_tr4;2023-06-20 17:56:20
+16552_enter_Supplier_tr2;2023-06-21 07:30:38
+16554_enter_Supplier Loading Area_tr4;2023-06-21 08:23:30
+16555_enter_Supplier Loading Area_cr124;2023-06-21 08:23:30
+16559_enter_Supplier_tr1;2023-06-21 08:40:46
+16561_enter_Supplier Loading Area_tr2;2023-06-21 08:41:52
+16562_enter_Supplier Loading Area_cr100;2023-06-21 08:41:52
+16566_enter_Supplier_tr6;2023-06-21 09:21:53
+16568_enter_Supplier Loading Area_tr6;2023-06-21 09:42:10
+16569_enter_Supplier Loading Area_cr95;2023-06-21 09:42:10
+16570_enter_Terminal North_tr4;2023-06-21 09:47:27
+16571_enter_Terminal North_cr124;2023-06-21 09:47:27
+16573_enter_Terminal North_fl3;2023-06-21 09:47:27
+16575_enter_Truck Depot_tr4;2023-06-21 09:47:32
+16578_enter_Storage_fl3;2023-06-21 09:49:41
+16579_enter_Storage_cr124;2023-06-21 09:49:41
+16580_enter_Supplier Loading Area_tr1;2023-06-21 09:51:18
+16581_enter_Supplier Loading Area_cr123;2023-06-21 09:51:18
+16584_enter_Terminal North_tr2;2023-06-21 10:09:32
+16585_enter_Terminal North_cr100;2023-06-21 10:09:32
+16587_enter_Terminal North_fl1;2023-06-21 10:09:32
+16589_enter_Truck Depot_tr2;2023-06-21 10:09:35
+16592_enter_Storage_fl1;2023-06-21 10:12:30
+16593_enter_Storage_cr100;2023-06-21 10:12:30
+16594_enter_Terminal North_tr6;2023-06-21 11:39:37
+16595_enter_Terminal North_cr95;2023-06-21 11:39:37
+16597_enter_Terminal North_fl3;2023-06-21 11:39:37
+16599_enter_Truck Depot_tr6;2023-06-21 11:39:44
+16602_enter_Storage_fl3;2023-06-21 11:44:10
+16603_enter_Storage_cr95;2023-06-21 11:44:10
+16607_enter_Terminal South_tr1;2023-06-21 13:52:36
+16608_enter_Terminal South_cr123;2023-06-21 13:52:36
+16610_enter_Terminal South_fl2;2023-06-21 13:52:36
+16612_enter_Truck Depot_tr1;2023-06-21 13:52:46
+16613_enter_Supplier_tr2;2023-06-21 13:58:28
+16617_enter_Loading Bay_fl2;2023-06-21 15:00:30
+16618_enter_Loading Bay_cr123;2023-06-21 15:00:30
+16619_enter_Supplier Loading Area_tr2;2023-06-21 15:17:32
+16620_enter_Supplier Loading Area_cr127;2023-06-21 15:17:32
+16623_enter_Terminal North_tr2;2023-06-21 15:33:51
+16624_enter_Terminal North_cr127;2023-06-21 15:33:51
+16626_enter_Terminal North_fl1;2023-06-21 15:33:51
+16628_enter_Truck Depot_tr2;2023-06-21 15:33:54
+16631_enter_Storage_fl1;2023-06-21 15:42:24
+16632_enter_Storage_cr127;2023-06-21 15:42:24
+16636_enter_Storage_fl3;2023-06-22 00:17:16
+16641_enter_Loading Bay_fl3;2023-06-22 07:27:08
+16642_enter_Loading Bay_cr127;2023-06-22 07:27:08
+16643_enter_Supplier_tr1;2023-06-22 07:29:47
+16645_enter_Supplier_tr4;2023-06-22 07:48:14
+16647_enter_Supplier_tr6;2023-06-22 08:03:39
+16649_enter_Supplier_tr2;2023-06-22 08:18:49
+16651_enter_Supplier Loading Area_tr1;2023-06-22 08:39:21
+16652_enter_Supplier Loading Area_cr126;2023-06-22 08:39:21
+16653_enter_Supplier Loading Area_tr6;2023-06-22 08:43:47
+16654_enter_Supplier Loading Area_cr89;2023-06-22 08:43:47
+16655_enter_Supplier Loading Area_tr2;2023-06-22 08:58:28
+16656_enter_Supplier Loading Area_cr86;2023-06-22 08:58:28
+16657_enter_Supplier Loading Area_tr4;2023-06-22 10:27:46
+16658_enter_Supplier Loading Area_cr102;2023-06-22 10:27:46
+16660_enter_Supplier_tr3;2023-06-22 10:54:14
+16662_enter_Supplier Loading Area_tr3;2023-06-22 12:09:01
+16663_enter_Supplier Loading Area_cr133;2023-06-22 12:09:01
+16674_enter_Terminal North_tr2;2023-06-22 13:37:51
+16675_enter_Terminal North_cr86;2023-06-22 13:37:51
+16677_enter_Terminal North_fl1;2023-06-22 13:37:51
+16679_enter_Truck Depot_tr2;2023-06-22 13:37:57
+16682_enter_Storage_fl1;2023-06-22 13:40:42
+16683_enter_Storage_cr86;2023-06-22 13:40:42
+16684_enter_Terminal South_tr4;2023-06-22 13:44:13
+16685_enter_Terminal South_cr102;2023-06-22 13:44:13
+16687_enter_Terminal South_fl2;2023-06-22 13:44:13
+16689_enter_Truck Depot_tr4;2023-06-22 13:44:16
+16692_enter_Loading Bay_fl2;2023-06-22 13:48:47
+16693_enter_Loading Bay_cr102;2023-06-22 13:48:47
+16694_enter_Terminal North_tr3;2023-06-22 13:48:53
+16695_enter_Terminal North_cr133;2023-06-22 13:48:53
+16697_enter_Terminal North_fl1;2023-06-22 13:48:53
+16699_enter_Truck Depot_tr3;2023-06-22 13:48:55
+16700_enter_Terminal South_tr6;2023-06-22 13:50:21
+16701_enter_Terminal South_cr89;2023-06-22 13:50:21
+16703_enter_Terminal South_fl3;2023-06-22 13:50:21
+16705_enter_Truck Depot_tr6;2023-06-22 13:50:28
+16708_enter_Storage_fl1;2023-06-22 13:54:32
+16709_enter_Storage_cr133;2023-06-22 13:54:32
+16711_enter_Supplier_tr2;2023-06-22 14:26:55
+16713_enter_Supplier Loading Area_tr2;2023-06-22 14:47:10
+16714_enter_Supplier Loading Area_cr130;2023-06-22 14:47:10
+16719_enter_Loading Bay_fl3;2023-06-22 14:54:01
+16720_enter_Loading Bay_cr89;2023-06-22 14:54:01
+16721_enter_Terminal South_tr1;2023-06-22 14:54:34
+16722_enter_Terminal South_cr126;2023-06-22 14:54:34
+16724_enter_Terminal South_fl2;2023-06-22 14:54:34
+16726_enter_Truck Depot_tr1;2023-06-22 14:54:35
+16727_enter_Terminal South_tr2;2023-06-22 15:52:24
+16728_enter_Terminal South_cr130;2023-06-22 15:52:24
+16730_enter_Terminal South_fl3;2023-06-22 15:52:24
+16732_enter_Truck Depot_tr2;2023-06-22 15:52:25
+16735_enter_Loading Bay_fl2;2023-06-22 15:57:49
+16736_enter_Loading Bay_cr126;2023-06-22 15:57:49
+16739_enter_Loading Bay_fl3;2023-06-22 15:57:57
+16740_enter_Loading Bay_cr130;2023-06-22 15:57:57
+16743_enter_Supplier_tr2;2023-06-23 07:23:49
+16745_enter_Supplier_tr3;2023-06-23 07:30:19
+16748_enter_Supplier Loading Area_tr2;2023-06-23 08:38:05
+16749_enter_Supplier Loading Area_cr116;2023-06-23 08:38:05
+16750_enter_Supplier Loading Area_tr3;2023-06-23 08:51:02
+16751_enter_Supplier Loading Area_cr112;2023-06-23 08:51:02
+16752_enter_Supplier_tr6;2023-06-23 08:53:05
+16756_enter_Terminal North_tr3;2023-06-23 10:36:29
+16757_enter_Terminal North_cr112;2023-06-23 10:36:29
+16759_enter_Terminal North_fl1;2023-06-23 10:36:29
+16761_enter_Truck Depot_tr3;2023-06-23 10:36:34
+16764_enter_Storage_fl1;2023-06-23 10:44:50
+16765_enter_Storage_cr112;2023-06-23 10:44:50
+16770_enter_Supplier_tr3;2023-06-23 11:17:18
+16772_enter_Terminal North_tr2;2023-06-23 11:17:59
+16773_enter_Terminal North_cr116;2023-06-23 11:17:59
+16775_enter_Terminal North_fl1;2023-06-23 11:17:59
+16777_enter_Truck Depot_tr2;2023-06-23 11:18:05
+16780_enter_Storage_fl1;2023-06-23 11:22:21
+16781_enter_Storage_cr116;2023-06-23 11:22:21
+16782_enter_Supplier Loading Area_tr6;2023-06-23 11:24:24
+16783_enter_Supplier Loading Area_cr64;2023-06-23 11:24:24
+16784_enter_Supplier Loading Area_tr3;2023-06-23 11:42:26
+16785_enter_Supplier Loading Area_cr115;2023-06-23 11:42:26
+16788_enter_Terminal South_tr6;2023-06-23 11:55:28
+16789_enter_Terminal South_cr64;2023-06-23 11:55:28
+16791_enter_Terminal South_fl3;2023-06-23 11:55:28
+16793_enter_Truck Depot_tr6;2023-06-23 11:55:33
+16797_enter_Supplier_tr1;2023-06-23 13:38:32
+16801_enter_Loading Bay_fl3;2023-06-23 14:06:31
+16802_enter_Loading Bay_cr64;2023-06-23 14:06:31
+16803_enter_Terminal North_tr3;2023-06-23 14:13:55
+16804_enter_Terminal North_cr115;2023-06-23 14:13:55
+16806_enter_Terminal North_fl1;2023-06-23 14:13:55
+16808_enter_Truck Depot_tr3;2023-06-23 14:13:58
+16811_enter_Storage_fl1;2023-06-23 14:19:53
+16812_enter_Storage_cr115;2023-06-23 14:19:53
+16813_enter_Supplier Loading Area_tr1;2023-06-23 14:46:41
+16814_enter_Supplier Loading Area_cr128;2023-06-23 14:46:41
+16817_enter_Terminal North_tr1;2023-06-23 16:20:02
+16818_enter_Terminal North_cr128;2023-06-23 16:20:02
+16820_enter_Terminal North_fl1;2023-06-23 16:20:02
+16822_enter_Truck Depot_tr1;2023-06-23 16:20:13
+16825_enter_Storage_fl1;2023-06-23 16:25:24
+16826_enter_Storage_cr128;2023-06-23 16:25:24
+16828_enter_Loading Bay_vh18;2023-06-23 23:00:00
+16836_enter_Storage_fl1;2023-06-26 02:49:27
+16837_enter_Storage_fl2;2023-06-26 02:49:27
+16839_enter_Storage_fl3;2023-06-26 02:49:27
+16840_enter_Supplier_tr4;2023-06-26 07:28:37
+16842_enter_Supplier_tr6;2023-06-26 07:35:23
+16844_enter_Supplier_tr1;2023-06-26 07:40:36
+16848_enter_Loading Bay_fl2;2023-06-26 07:53:27
+16849_enter_Loading Bay_cr65;2023-06-26 07:53:27
+16852_enter_Loading Bay_fl1;2023-06-26 07:54:32
+16853_enter_Loading Bay_cr80;2023-06-26 07:54:32
+16856_enter_Loading Bay_fl3;2023-06-26 07:54:56
+16857_enter_Loading Bay_cr73;2023-06-26 07:54:56
+16858_enter_Supplier_tr2;2023-06-26 07:58:15
+16859_enter_Supplier_tr5;2023-06-26 07:58:21
+16862_enter_Supplier_tr3;2023-06-26 08:17:03
+16864_enter_Supplier Loading Area_tr4;2023-06-26 08:43:05
+16865_enter_Supplier Loading Area_cr88;2023-06-26 08:43:05
+16867_enter_Storage_fl1;2023-06-26 08:55:09
+16868_enter_Supplier Loading Area_tr6;2023-06-26 08:56:17
+16869_enter_Supplier Loading Area_cr119;2023-06-26 08:56:17
+16872_enter_Loading Bay_fl1;2023-06-26 08:59:50
+16873_enter_Loading Bay_cr79;2023-06-26 08:59:50
+16875_enter_Storage_fl3;2023-06-26 09:01:12
+16877_enter_Storage_fl2;2023-06-26 09:02:46
+16880_enter_Loading Bay_fl2;2023-06-26 09:04:39
+16881_enter_Loading Bay_cr77;2023-06-26 09:04:39
+16883_enter_Storage_fl2;2023-06-26 09:05:22
+16884_enter_Supplier Loading Area_tr1;2023-06-26 09:05:27
+16885_enter_Supplier Loading Area_cr125;2023-06-26 09:05:27
+16888_enter_Loading Bay_fl3;2023-06-26 09:05:29
+16889_enter_Loading Bay_cr72;2023-06-26 09:05:29
+16892_enter_Loading Bay_fl2;2023-06-26 09:08:11
+16893_enter_Loading Bay_cr71;2023-06-26 09:08:11
+16894_enter_Supplier Loading Area_tr3;2023-06-26 09:18:19
+16895_enter_Supplier Loading Area_cr120;2023-06-26 09:18:19
+16896_enter_Supplier Loading Area_tr5;2023-06-26 09:41:04
+16897_enter_Supplier Loading Area_cr139;2023-06-26 09:41:04
+16898_enter_Supplier Loading Area_tr2;2023-06-26 09:41:16
+16899_enter_Supplier Loading Area_cr121;2023-06-26 09:41:16
+16904_enter_Terminal South_tr5;2023-06-26 10:53:39
+16905_enter_Terminal South_cr139;2023-06-26 10:53:39
+16907_enter_Terminal South_fl2;2023-06-26 10:53:39
+16909_enter_Truck Depot_tr5;2023-06-26 10:53:42
+16917_enter_Loading Bay_fl2;2023-06-26 10:58:04
+16918_enter_Loading Bay_cr139;2023-06-26 10:58:04
+16921_enter_Supplier_tr5;2023-06-26 11:59:34
+16923_enter_Terminal North_tr2;2023-06-26 12:00:39
+16924_enter_Terminal North_cr121;2023-06-26 12:00:39
+16926_enter_Terminal North_fl3;2023-06-26 12:00:39
+16927_enter_Terminal South_tr3;2023-06-26 12:00:57
+16928_enter_Terminal South_cr120;2023-06-26 12:00:57
+16930_enter_Terminal South_fl1;2023-06-26 12:00:57
+16931_enter_Terminal North_tr4;2023-06-26 12:12:14
+16932_enter_Terminal North_cr88;2023-06-26 12:12:14
+16934_enter_Terminal North_fl2;2023-06-26 12:12:14
+16936_enter_Truck Depot_tr2;2023-06-26 13:00:42
+16939_enter_Truck Depot_tr3;2023-06-26 13:01:03
+16943_enter_Storage_fl3;2023-06-26 13:04:15
+16944_enter_Storage_cr121;2023-06-26 13:04:15
+16945_enter_Supplier_tr2;2023-06-26 13:08:57
+16947_enter_Supplier_tr3;2023-06-26 13:11:28
+16950_enter_Truck Depot_tr4;2023-06-26 13:12:22
+16954_enter_Loading Bay_fl1;2023-06-26 13:13:14
+16955_enter_Loading Bay_cr120;2023-06-26 13:13:14
+16956_enter_Supplier_tr4;2023-06-26 13:18:35
+16960_enter_Storage_fl2;2023-06-26 13:19:32
+16961_enter_Storage_cr88;2023-06-26 13:19:32
+16962_enter_Supplier Loading Area_tr2;2023-06-26 13:36:27
+16963_enter_Supplier Loading Area_cr131;2023-06-26 13:36:27
+16964_enter_Supplier Loading Area_tr3;2023-06-26 13:39:32
+16965_enter_Supplier Loading Area_cr132;2023-06-26 13:39:32
+16966_enter_Supplier Loading Area_tr4;2023-06-26 13:46:40
+16967_enter_Supplier Loading Area_cr142;2023-06-26 13:46:40
+16970_enter_Supplier Loading Area_tr5;2023-06-26 14:26:25
+16971_enter_Supplier Loading Area_cr122;2023-06-26 14:26:25
+16972_enter_Terminal South_tr1;2023-06-26 14:49:59
+16973_enter_Terminal South_cr125;2023-06-26 14:49:59
+16975_enter_Terminal South_fl1;2023-06-26 14:49:59
+16977_enter_Truck Depot_tr1;2023-06-26 14:50:00
+16979_enter_Terminal South_tr6;2023-06-26 14:53:57
+16980_enter_Terminal South_cr119;2023-06-26 14:53:57
+16982_enter_Terminal South_fl3;2023-06-26 14:53:57
+16984_enter_Truck Depot_tr6;2023-06-26 14:53:59
+16990_enter_Loading Bay_fl3;2023-06-26 14:58:55
+16991_enter_Loading Bay_cr119;2023-06-26 14:58:55
+16994_enter_Loading Bay_fl1;2023-06-26 15:55:10
+16995_enter_Loading Bay_cr125;2023-06-26 15:55:10
+16996_enter_Supplier_tr1;2023-06-26 15:56:27
+16998_enter_Supplier_tr6;2023-06-26 16:02:47
+17000_enter_Terminal North_tr2;2023-06-26 16:41:46
+17001_enter_Terminal North_cr131;2023-06-26 16:41:46
+17003_enter_Terminal North_fl2;2023-06-26 16:41:46
+17005_enter_Truck Depot_tr2;2023-06-26 16:41:53
+17009_enter_Storage_fl2;2023-06-26 16:44:49
+17010_enter_Storage_cr131;2023-06-26 16:44:49
+17011_enter_Supplier Loading Area_tr1;2023-06-26 17:20:01
+17012_enter_Supplier Loading Area_cr138;2023-06-26 17:20:01
+17013_enter_Supplier_tr2;2023-06-26 17:46:12
+17015_enter_Supplier Loading Area_tr6;2023-06-27 07:28:22
+17016_enter_Supplier Loading Area_cr141;2023-06-27 07:28:22
+17019_enter_Supplier Loading Area_tr2;2023-06-27 08:09:21
+17020_enter_Supplier Loading Area_cr148;2023-06-27 08:09:21
+17021_enter_Terminal North_tr5;2023-06-27 08:54:24
+17022_enter_Terminal North_cr122;2023-06-27 08:54:24
+17024_enter_Terminal North_fl2;2023-06-27 08:54:24
+17026_enter_Truck Depot_tr5;2023-06-27 08:54:27
+17032_enter_Terminal North_tr3;2023-06-27 09:18:08
+17033_enter_Terminal North_cr132;2023-06-27 09:18:08
+17035_enter_Terminal North_fl3;2023-06-27 09:18:08
+17037_enter_Truck Depot_tr3;2023-06-27 09:18:16
+17043_enter_Terminal North_tr1;2023-06-27 09:20:56
+17044_enter_Terminal North_cr138;2023-06-27 09:20:56
+17046_enter_Terminal North_fl1;2023-06-27 09:20:56
+17048_enter_Truck Depot_tr1;2023-06-27 09:20:59
+17052_enter_Storage_fl3;2023-06-27 09:23:19
+17053_enter_Storage_cr132;2023-06-27 09:23:19
+17056_enter_Storage_fl1;2023-06-27 09:23:26
+17057_enter_Storage_cr138;2023-06-27 09:23:26
+17058_enter_Supplier_tr1;2023-06-27 09:26:19
+17060_enter_Supplier_tr3;2023-06-27 09:29:54
+17062_enter_Supplier Loading Area_tr1;2023-06-27 09:46:58
+17063_enter_Supplier Loading Area_cr105;2023-06-27 09:46:58
+17064_enter_Supplier Loading Area_tr3;2023-06-27 09:50:15
+17065_enter_Supplier Loading Area_cr143;2023-06-27 09:50:15
+17070_enter_Storage_fl2;2023-06-27 09:55:40
+17071_enter_Storage_cr122;2023-06-27 09:55:40
+17074_enter_Terminal North_tr2;2023-06-27 09:59:39
+17075_enter_Terminal North_cr148;2023-06-27 09:59:39
+17077_enter_Terminal North_fl3;2023-06-27 09:59:39
+17079_enter_Truck Depot_tr2;2023-06-27 09:59:42
+17081_enter_Supplier_tr5;2023-06-27 10:02:39
+17083_enter_Terminal North_tr6;2023-06-27 10:20:41
+17084_enter_Terminal North_cr141;2023-06-27 10:20:41
+17086_enter_Terminal North_fl1;2023-06-27 10:20:41
+17088_enter_Truck Depot_tr6;2023-06-27 10:20:42
+17090_enter_Supplier Loading Area_tr5;2023-06-27 10:22:54
+17091_enter_Supplier Loading Area_cr90;2023-06-27 10:22:54
+17094_enter_Storage_fl1;2023-06-27 10:23:34
+17095_enter_Storage_cr141;2023-06-27 10:23:34
+17096_enter_Supplier_tr6;2023-06-27 10:30:27
+17100_enter_Terminal South_tr5;2023-06-27 10:45:49
+17101_enter_Terminal South_cr90;2023-06-27 10:45:49
+17103_enter_Terminal South_fl2;2023-06-27 10:45:49
+17105_enter_Truck Depot_tr5;2023-06-27 10:45:51
+17107_enter_Terminal North_tr3;2023-06-27 10:55:40
+17108_enter_Terminal North_cr143;2023-06-27 10:55:40
+17110_enter_Terminal North_fl1;2023-06-27 10:55:40
+17112_enter_Truck Depot_tr3;2023-06-27 10:55:43
+17114_enter_Supplier_tr5;2023-06-27 10:56:24
+17118_enter_Loading Bay_fl2;2023-06-27 10:58:09
+17119_enter_Loading Bay_cr90;2023-06-27 10:58:09
+17120_enter_Loading Bay_vh19;2023-06-27 11:00:00
+17124_enter_Storage_fl3;2023-06-27 11:01:30
+17125_enter_Storage_cr148;2023-06-27 11:01:30
+17128_enter_Supplier_tr2;2023-06-27 11:03:46
+17130_enter_Terminal North_tr4;2023-06-27 11:04:25
+17131_enter_Terminal North_cr142;2023-06-27 11:04:25
+17133_enter_Terminal North_fl3;2023-06-27 11:04:25
+17135_enter_Truck Depot_tr4;2023-06-27 11:04:29
+17137_enter_Supplier_tr4;2023-06-27 11:08:08
+17141_enter_Storage_fl3;2023-06-27 11:11:43
+17142_enter_Storage_cr142;2023-06-27 11:11:43
+17143_enter_Terminal North_tr1;2023-06-27 11:12:54
+17144_enter_Terminal North_cr105;2023-06-27 11:12:54
+17146_enter_Terminal North_fl3;2023-06-27 11:12:54
+17148_enter_Truck Depot_tr1;2023-06-27 11:13:02
+17152_enter_Storage_fl3;2023-06-27 11:20:21
+17153_enter_Storage_cr105;2023-06-27 11:20:21
+17154_enter_Supplier_tr1;2023-06-27 11:21:09
+17156_enter_Supplier Loading Area_tr4;2023-06-27 11:28:17
+17157_enter_Supplier Loading Area_cr151;2023-06-27 11:28:17
+17158_enter_Supplier Loading Area_tr1;2023-06-27 11:41:26
+17159_enter_Supplier Loading Area_cr149;2023-06-27 11:41:26
+17162_enter_Storage_fl1;2023-06-27 12:00:16
+17163_enter_Storage_cr143;2023-06-27 12:00:16
+17164_enter_Supplier_tr3;2023-06-27 12:02:19
+17165_enter_Supplier Loading Area_tr5;2023-06-27 12:13:28
+17166_enter_Supplier Loading Area_cr150;2023-06-27 12:13:28
+17167_enter_Supplier Loading Area_tr6;2023-06-27 12:16:03
+17168_enter_Supplier Loading Area_cr137;2023-06-27 12:16:03
+17170_enter_Supplier Loading Area_tr2;2023-06-27 13:26:43
+17171_enter_Supplier Loading Area_cr135;2023-06-27 13:26:43
+17172_enter_Supplier Loading Area_tr3;2023-06-27 13:27:21
+17173_enter_Supplier Loading Area_cr147;2023-06-27 13:27:21
+17178_enter_Terminal North_tr3;2023-06-27 14:29:19
+17179_enter_Terminal North_cr147;2023-06-27 14:29:19
+17181_enter_Terminal North_fl3;2023-06-27 14:29:19
+17183_enter_Truck Depot_tr3;2023-06-27 14:29:29
+17191_enter_Storage_fl3;2023-06-27 14:32:10
+17192_enter_Storage_cr147;2023-06-27 14:32:10
+17195_enter_Terminal North_tr5;2023-06-27 14:39:54
+17196_enter_Terminal North_cr150;2023-06-27 14:39:54
+17198_enter_Terminal North_fl1;2023-06-27 14:39:54
+17200_enter_Truck Depot_tr5;2023-06-27 14:39:59
+17202_enter_Terminal North_tr4;2023-06-27 14:41:24
+17203_enter_Terminal North_cr151;2023-06-27 14:41:24
+17205_enter_Terminal North_fl3;2023-06-27 14:41:24
+17207_enter_Truck Depot_tr4;2023-06-27 14:41:30
+17208_enter_Supplier_tr3;2023-06-27 14:42:10
+17212_enter_Storage_fl1;2023-06-27 14:44:13
+17213_enter_Storage_cr150;2023-06-27 14:44:13
+17216_enter_Storage_fl3;2023-06-27 14:45:51
+17217_enter_Storage_cr151;2023-06-27 14:45:51
+17218_enter_Supplier_tr5;2023-06-27 14:48:47
+17222_enter_Terminal North_tr1;2023-06-27 15:11:54
+17223_enter_Terminal North_cr149;2023-06-27 15:11:54
+17225_enter_Terminal North_fl1;2023-06-27 15:11:54
+17227_enter_Truck Depot_tr1;2023-06-27 15:11:56
+17230_enter_Storage_fl1;2023-06-27 15:16:36
+17231_enter_Storage_cr149;2023-06-27 15:16:36
+17232_enter_Terminal North_tr2;2023-06-27 15:34:42
+17233_enter_Terminal North_cr135;2023-06-27 15:34:42
+17235_enter_Terminal North_fl3;2023-06-27 15:34:42
+17237_enter_Truck Depot_tr2;2023-06-27 15:34:52
+17240_enter_Storage_fl3;2023-06-27 15:38:24
+17241_enter_Storage_cr135;2023-06-27 15:38:24
+17242_enter_Supplier Loading Area_tr3;2023-06-27 15:43:56
+17243_enter_Supplier Loading Area_cr93;2023-06-27 15:43:56
+17244_enter_Terminal North_tr6;2023-06-27 15:44:33
+17245_enter_Terminal North_cr137;2023-06-27 15:44:33
+17247_enter_Terminal North_fl1;2023-06-27 15:44:33
+17249_enter_Truck Depot_tr6;2023-06-27 15:44:37
+17252_enter_Storage_fl1;2023-06-27 15:46:30
+17253_enter_Storage_cr137;2023-06-27 15:46:30
+17254_enter_Supplier Loading Area_tr5;2023-06-27 15:58:02
+17255_enter_Supplier Loading Area_cr134;2023-06-27 15:58:02
+17258_enter_Terminal North_tr3;2023-06-27 17:12:31
+17259_enter_Terminal North_cr93;2023-06-27 17:12:31
+17261_enter_Terminal North_fl3;2023-06-27 17:12:31
+17263_enter_Truck Depot_tr3;2023-06-27 17:12:42
+17268_enter_Storage_fl3;2023-06-27 17:38:24
+17269_enter_Storage_cr93;2023-06-27 17:38:24
+17270_enter_Terminal North_tr5;2023-06-27 17:50:54
+17271_enter_Terminal North_cr134;2023-06-27 17:50:54
+17273_enter_Terminal North_fl1;2023-06-27 17:50:54
+17275_enter_Truck Depot_tr5;2023-06-27 17:51:10
+17278_enter_Storage_fl1;2023-06-27 18:55:38
+17279_enter_Storage_cr134;2023-06-27 18:55:38
+17284_enter_Supplier_tr4;2023-06-28 07:27:51
+17286_enter_Supplier_tr2;2023-06-28 07:29:30
+17288_enter_Supplier_tr5;2023-06-28 07:37:44
+17290_enter_Supplier_tr3;2023-06-28 07:38:44
+17292_enter_Supplier Loading Area_tr4;2023-06-28 08:36:09
+17293_enter_Supplier Loading Area_cr159;2023-06-28 08:36:09
+17294_enter_Supplier Loading Area_tr2;2023-06-28 08:39:36
+17295_enter_Supplier Loading Area_cr145;2023-06-28 08:39:36
+17296_enter_Supplier Loading Area_tr5;2023-06-28 08:56:12
+17297_enter_Supplier Loading Area_cr92;2023-06-28 08:56:12
+17298_enter_Supplier Loading Area_tr3;2023-06-28 08:57:53
+17299_enter_Supplier Loading Area_cr146;2023-06-28 08:57:53
+17307_enter_Supplier_tr1;2023-06-28 11:49:29
+17309_enter_Terminal North_tr4;2023-06-28 11:58:18
+17310_enter_Terminal North_cr159;2023-06-28 11:58:18
+17312_enter_Terminal North_fl3;2023-06-28 11:58:18
+17314_enter_Truck Depot_tr4;2023-06-28 11:58:19
+17315_enter_Terminal North_tr2;2023-06-28 12:19:39
+17316_enter_Terminal North_cr145;2023-06-28 12:19:39
+17318_enter_Terminal North_fl1;2023-06-28 12:19:39
+17319_enter_Terminal South_tr3;2023-06-28 12:38:08
+17320_enter_Terminal South_cr146;2023-06-28 12:38:08
+17322_enter_Terminal South_fl2;2023-06-28 12:38:08
+17326_enter_Truck Depot_tr2;2023-06-28 13:19:45
+17329_enter_Storage_fl1;2023-06-28 13:24:05
+17330_enter_Storage_cr145;2023-06-28 13:24:05
+17332_enter_Truck Depot_tr3;2023-06-28 13:38:09
+17335_enter_Loading Bay_fl2;2023-06-28 13:43:44
+17336_enter_Loading Bay_cr146;2023-06-28 13:43:44
+17337_enter_Terminal South_tr5;2023-06-28 13:53:18
+17338_enter_Terminal South_cr92;2023-06-28 13:53:18
+17340_enter_Terminal South_fl2;2023-06-28 13:53:18
+17342_enter_Truck Depot_tr5;2023-06-28 13:53:20
+17345_enter_Loading Bay_fl2;2023-06-28 14:58:51
+17346_enter_Loading Bay_cr92;2023-06-28 14:58:51
+17349_enter_Storage_fl3;2023-06-28 15:00:08
+17350_enter_Storage_cr159;2023-06-28 15:00:08
+17351_enter_Supplier Loading Area_tr1;2023-06-28 15:06:24
+17352_enter_Supplier Loading Area_cr161;2023-06-28 15:06:24
+17355_enter_Terminal North_tr1;2023-06-28 15:27:48
+17356_enter_Terminal North_cr161;2023-06-28 15:27:48
+17358_enter_Terminal North_fl1;2023-06-28 15:27:48
+17360_enter_Truck Depot_tr1;2023-06-28 15:27:50
+17363_enter_Storage_fl1;2023-06-28 15:36:37
+17364_enter_Storage_cr161;2023-06-28 15:36:37
+17366_enter_Supplier_tr4;2023-06-28 16:23:01
+17368_enter_Supplier Loading Area_tr4;2023-06-28 16:48:23
+17369_enter_Supplier Loading Area_cr136;2023-06-28 16:48:23
+17372_enter_Storage_fl3;2023-06-28 18:49:31
+17373_enter_Storage_fl1;2023-06-28 18:49:31
+17375_enter_Storage_fl2;2023-06-28 18:49:31
+17380_enter_Loading Bay_fl1;2023-06-29 07:53:26
+17381_enter_Loading Bay_cr149;2023-06-29 07:53:26
+17384_enter_Loading Bay_fl2;2023-06-29 07:55:27
+17385_enter_Loading Bay_cr147;2023-06-29 07:55:27
+17388_enter_Loading Bay_fl3;2023-06-29 07:56:56
+17389_enter_Loading Bay_cr148;2023-06-29 07:56:56
+17391_enter_Storage_fl1;2023-06-29 07:57:52
+17392_enter_Terminal North_tr4;2023-06-29 08:41:33
+17393_enter_Terminal North_cr136;2023-06-29 08:41:33
+17395_enter_Terminal North_fl2;2023-06-29 08:57:01
+17397_enter_Truck Depot_tr4;2023-06-29 08:57:14
+17399_enter_Storage_fl3;2023-06-29 08:57:28
+17402_enter_Loading Bay_fl1;2023-06-29 08:58:02
+17403_enter_Loading Bay_cr143;2023-06-29 08:58:02
+17406_enter_Loading Bay_fl3;2023-06-29 08:59:57
+17407_enter_Loading Bay_cr88;2023-06-29 08:59:57
+17409_enter_Storage_fl1;2023-06-29 10:00:48
+17412_enter_Storage_fl2;2023-06-29 10:01:42
+17413_enter_Storage_cr136;2023-06-29 10:01:42
+17415_enter_Storage_fl2;2023-06-29 10:01:42
+17417_enter_Storage_fl3;2023-06-29 10:03:00
+17420_enter_Loading Bay_fl1;2023-06-29 10:03:50
+17421_enter_Loading Bay_cr151;2023-06-29 10:03:50
+17424_enter_Loading Bay_fl2;2023-06-29 10:04:04
+17425_enter_Loading Bay_cr60;2023-06-29 10:04:04
+17427_enter_Storage_fl1;2023-06-29 10:04:28
+17430_enter_Loading Bay_fl3;2023-06-29 10:05:21
+17431_enter_Loading Bay_cr59;2023-06-29 10:05:21
+17434_enter_Loading Bay_fl1;2023-06-29 10:07:03
+17435_enter_Loading Bay_cr161;2023-06-29 10:07:03
+17437_enter_Storage_fl1;2023-06-29 10:08:17
+17439_enter_Storage_fl2;2023-06-29 10:10:07
+17442_enter_Loading Bay_fl2;2023-06-29 10:11:59
+17443_enter_Loading Bay_cr133;2023-06-29 10:11:59
+17446_enter_Loading Bay_fl1;2023-06-29 10:12:56
+17447_enter_Loading Bay_cr150;2023-06-29 10:12:56
+17450_enter_Supplier_tr4;2023-06-30 07:31:21
+17452_enter_Supplier_tr1;2023-06-30 08:10:10
+17454_enter_Supplier Loading Area_tr4;2023-06-30 08:52:59
+17455_enter_Supplier Loading Area_cr153;2023-06-30 08:52:59
+17456_enter_Supplier Loading Area_tr1;2023-06-30 09:11:10
+17457_enter_Supplier Loading Area_cr154;2023-06-30 09:11:10
+17462_enter_Terminal South_tr1;2023-06-30 09:37:57
+17463_enter_Terminal South_cr154;2023-06-30 09:37:57
+17465_enter_Terminal South_fl3;2023-06-30 09:37:57
+17467_enter_Truck Depot_tr1;2023-06-30 09:38:02
+17470_enter_Loading Bay_fl3;2023-06-30 09:40:26
+17471_enter_Loading Bay_cr154;2023-06-30 09:40:26
+17472_enter_Terminal South_tr4;2023-06-30 09:40:27
+17473_enter_Terminal South_cr153;2023-06-30 09:40:27
+17475_enter_Terminal South_fl2;2023-06-30 09:40:27
+17477_enter_Truck Depot_tr4;2023-06-30 09:40:34
+17480_enter_Loading Bay_fl2;2023-06-30 09:48:40
+17481_enter_Loading Bay_cr153;2023-06-30 09:48:40
+17483_enter_Supplier_tr3;2023-06-30 10:28:33
+17485_enter_Supplier Loading Area_tr3;2023-06-30 10:53:36
+17486_enter_Supplier Loading Area_cr129;2023-06-30 10:53:36
+17490_enter_Terminal North_tr3;2023-06-30 13:29:14
+17491_enter_Terminal North_cr129;2023-06-30 13:29:14
+17493_enter_Terminal North_fl1;2023-06-30 13:29:14
+17495_enter_Truck Depot_tr3;2023-06-30 13:29:21
+17498_enter_Storage_fl1;2023-06-30 13:37:31
+17499_enter_Storage_cr129;2023-06-30 13:37:31
+17501_enter_Supplier_tr1;2023-06-30 14:23:22
+17503_enter_Supplier Loading Area_tr1;2023-06-30 16:20:27
+17504_enter_Supplier Loading Area_cr140;2023-06-30 16:20:27
+17507_enter_Terminal South_tr1;2023-06-30 16:51:30
+17508_enter_Terminal South_cr140;2023-06-30 16:51:30
+17510_enter_Terminal South_fl3;2023-06-30 16:51:30
+17512_enter_Truck Depot_tr1;2023-06-30 16:51:45
+17516_enter_Loading Bay_fl3;2023-06-30 18:10:22
+17517_enter_Loading Bay_cr140;2023-06-30 18:10:22
+17519_enter_Loading Bay_vh20;2023-06-30 23:00:00
+17525_enter_Storage_fl3;2023-07-02 18:09:31
+17527_enter_Storage_fl2;2023-07-02 18:09:31
+17529_enter_Storage_fl1;2023-07-02 18:09:31
+17532_enter_Loading Bay_fl1;2023-07-03 07:14:25
+17533_enter_Loading Bay_cr105;2023-07-03 07:14:25
+17536_enter_Loading Bay_fl2;2023-07-03 07:17:47
+17537_enter_Loading Bay_cr100;2023-07-03 07:17:47
+17540_enter_Loading Bay_fl3;2023-07-03 07:21:17
+17541_enter_Loading Bay_cr128;2023-07-03 07:21:17
+17543_enter_Storage_fl1;2023-07-03 07:24:38
+17546_enter_Loading Bay_fl1;2023-07-03 07:28:55
+17547_enter_Loading Bay_cr136;2023-07-03 07:28:55
+17549_enter_Storage_fl2;2023-07-03 07:32:00
+17551_enter_Storage_fl1;2023-07-03 07:39:46
+17553_enter_Storage_fl3;2023-07-03 07:43:26
+17554_enter_Supplier_tr5;2023-07-03 07:45:30
+17558_enter_Loading Bay_fl2;2023-07-03 07:46:34
+17559_enter_Loading Bay_cr122;2023-07-03 07:46:34
+17562_enter_Loading Bay_fl1;2023-07-03 07:48:23
+17563_enter_Loading Bay_cr129;2023-07-03 07:48:23
+17566_enter_Loading Bay_fl3;2023-07-03 07:48:33
+17567_enter_Loading Bay_cr93;2023-07-03 07:48:33
+17568_enter_Supplier_tr3;2023-07-03 07:53:16
+17571_enter_Storage_fl1;2023-07-03 07:55:35
+17573_enter_Storage_fl2;2023-07-03 07:59:48
+17574_enter_Supplier_tr6;2023-07-03 08:00:15
+17576_enter_Supplier_tr1;2023-07-03 08:10:20
+17578_enter_Supplier_tr4;2023-07-03 08:18:53
+17580_enter_Supplier_tr2;2023-07-03 08:28:27
+17583_enter_Storage_fl3;2023-07-03 08:55:36
+17586_enter_Loading Bay_fl1;2023-07-03 08:59:07
+17587_enter_Loading Bay_cr134;2023-07-03 08:59:07
+17588_enter_Supplier Loading Area_tr6;2023-07-03 09:03:35
+17589_enter_Supplier Loading Area_cr162;2023-07-03 09:03:35
+17592_enter_Loading Bay_fl2;2023-07-03 09:08:13
+17593_enter_Loading Bay_cr135;2023-07-03 09:08:13
+17595_enter_Storage_fl2;2023-07-03 09:14:40
+17596_enter_Supplier Loading Area_tr1;2023-07-03 09:18:07
+17597_enter_Supplier Loading Area_cr117;2023-07-03 09:18:07
+17600_enter_Loading Bay_fl2;2023-07-03 09:22:17
+17601_enter_Loading Bay_cr104;2023-07-03 09:22:17
+17603_enter_Storage_fl2;2023-07-03 09:33:25
+17604_enter_Supplier Loading Area_tr5;2023-07-03 09:35:30
+17605_enter_Supplier Loading Area_cr144;2023-07-03 09:35:30
+17608_enter_Loading Bay_fl2;2023-07-03 09:39:22
+17609_enter_Loading Bay_cr107;2023-07-03 09:39:22
+17610_enter_Supplier Loading Area_tr2;2023-07-03 09:44:54
+17611_enter_Supplier Loading Area_cr167;2023-07-03 09:44:54
+17613_enter_Storage_fl2;2023-07-03 09:49:44
+17614_enter_Supplier Loading Area_tr3;2023-07-03 09:51:06
+17615_enter_Supplier Loading Area_cr157;2023-07-03 09:51:06
+17618_enter_Loading Bay_fl2;2023-07-03 09:54:21
+17619_enter_Loading Bay_cr94;2023-07-03 09:54:21
+17622_enter_Loading Bay_fl3;2023-07-03 09:57:07
+17623_enter_Loading Bay_cr112;2023-07-03 09:57:07
+17625_enter_Storage_fl2;2023-07-03 09:58:54
+17627_enter_Storage_fl3;2023-07-03 09:59:09
+17629_enter_Storage_fl1;2023-07-03 10:04:13
+17632_enter_Loading Bay_fl1;2023-07-03 10:06:08
+17633_enter_Loading Bay_cr91;2023-07-03 10:06:08
+17635_enter_Storage_fl1;2023-07-03 10:11:19
+17638_enter_Loading Bay_fl1;2023-07-03 10:15:44
+17639_enter_Loading Bay_cr124;2023-07-03 10:15:44
+17641_enter_Storage_fl1;2023-07-03 10:25:19
+17644_enter_Loading Bay_fl1;2023-07-03 10:29:42
+17645_enter_Loading Bay_cr137;2023-07-03 10:29:42
+17647_enter_Storage_fl1;2023-07-03 10:31:12
+17650_enter_Loading Bay_fl1;2023-07-03 10:36:03
+17651_enter_Loading Bay_cr108;2023-07-03 10:36:03
+17653_enter_Storage_fl1;2023-07-03 10:38:54
+17656_enter_Loading Bay_fl1;2023-07-03 10:46:01
+17657_enter_Loading Bay_cr106;2023-07-03 10:46:01
+17659_enter_Storage_fl1;2023-07-03 10:52:13
+17662_enter_Loading Bay_fl1;2023-07-03 10:55:35
+17663_enter_Loading Bay_cr103;2023-07-03 10:55:35
+17664_enter_Supplier Loading Area_tr4;2023-07-03 10:57:26
+17665_enter_Supplier Loading Area_cr168;2023-07-03 10:57:26
+17668_enter_Loading Bay_fl3;2023-07-03 11:00:30
+17669_enter_Loading Bay_cr121;2023-07-03 11:00:30
+17672_enter_Loading Bay_fl2;2023-07-03 11:00:44
+17673_enter_Loading Bay_cr95;2023-07-03 11:00:44
+17680_enter_Terminal North_tr5;2023-07-03 15:51:21
+17681_enter_Terminal North_cr144;2023-07-03 15:51:21
+17683_enter_Terminal North_fl1;2023-07-03 15:51:21
+17685_enter_Truck Depot_tr5;2023-07-03 15:51:25
+17687_enter_Supplier_tr5;2023-07-03 15:59:17
+17691_enter_Terminal South_tr2;2023-07-03 16:13:13
+17692_enter_Terminal South_cr167;2023-07-03 16:13:13
+17694_enter_Terminal South_fl2;2023-07-03 16:13:13
+17696_enter_Truck Depot_tr2;2023-07-03 16:13:18
+17698_enter_Supplier_tr2;2023-07-03 16:19:57
+17702_enter_Loading Bay_fl2;2023-07-03 16:27:23
+17703_enter_Loading Bay_cr167;2023-07-03 16:27:23
+17704_enter_Terminal North_tr3;2023-07-03 16:46:42
+17705_enter_Terminal North_cr157;2023-07-03 16:46:42
+17707_enter_Terminal North_fl3;2023-07-03 16:46:42
+17709_enter_Truck Depot_tr3;2023-07-03 16:46:47
+17713_enter_Storage_fl3;2023-07-03 16:53:37
+17714_enter_Storage_cr157;2023-07-03 16:53:37
+17717_enter_Storage_fl1;2023-07-03 16:55:08
+17718_enter_Storage_cr144;2023-07-03 16:55:08
+17719_enter_Terminal North_tr1;2023-07-03 17:18:19
+17720_enter_Terminal North_cr117;2023-07-03 17:18:19
+17722_enter_Terminal North_fl3;2023-07-03 17:18:19
+17724_enter_Truck Depot_tr1;2023-07-03 17:18:27
+17725_enter_Supplier Loading Area_tr2;2023-07-03 17:20:21
+17726_enter_Supplier Loading Area_cr152;2023-07-03 17:20:21
+17727_enter_Supplier Loading Area_tr5;2023-07-03 17:39:03
+17728_enter_Supplier Loading Area_cr163;2023-07-03 17:39:03
+17731_enter_Storage_fl3;2023-07-03 17:56:05
+17732_enter_Storage_cr117;2023-07-03 17:56:05
+17733_enter_Supplier_tr3;2023-07-03 18:04:31
+17736_enter_Supplier_tr1;2023-07-04 07:37:08
+17738_enter_Supplier Loading Area_tr3;2023-07-04 07:53:53
+17739_enter_Supplier Loading Area_cr158;2023-07-04 07:53:53
+17744_enter_Supplier Loading Area_tr1;2023-07-04 09:12:14
+17745_enter_Supplier Loading Area_cr173;2023-07-04 09:12:14
+17746_enter_Terminal South_tr6;2023-07-04 10:05:23
+17747_enter_Terminal South_cr162;2023-07-04 10:05:23
+17749_enter_Terminal South_fl2;2023-07-04 10:05:23
+17751_enter_Truck Depot_tr6;2023-07-04 10:05:25
+17755_enter_Loading Bay_fl2;2023-07-04 10:12:53
+17756_enter_Loading Bay_cr162;2023-07-04 10:12:53
+17757_enter_Terminal North_tr4;2023-07-04 10:19:18
+17758_enter_Terminal North_cr168;2023-07-04 10:19:18
+17760_enter_Terminal North_fl1;2023-07-04 10:19:18
+17762_enter_Truck Depot_tr4;2023-07-04 10:19:27
+17764_enter_Supplier_tr6;2023-07-04 10:25:30
+17768_enter_Storage_fl1;2023-07-04 10:28:47
+17769_enter_Storage_cr168;2023-07-04 10:28:47
+17770_enter_Supplier_tr4;2023-07-04 10:31:44
+17772_enter_Supplier Loading Area_tr6;2023-07-04 10:55:03
+17773_enter_Supplier Loading Area_cr182;2023-07-04 10:55:03
+17774_enter_Loading Bay_vh21;2023-07-04 11:00:00
+17776_enter_Supplier Loading Area_tr4;2023-07-04 11:32:17
+17777_enter_Supplier Loading Area_cr171;2023-07-04 11:32:17
+17786_enter_Terminal North_tr4;2023-07-04 14:40:48
+17787_enter_Terminal North_cr171;2023-07-04 14:40:48
+17789_enter_Terminal North_fl3;2023-07-04 14:40:48
+17791_enter_Truck Depot_tr4;2023-07-04 14:40:51
+17799_enter_Storage_fl3;2023-07-04 14:45:52
+17800_enter_Storage_cr171;2023-07-04 14:45:52
+17801_enter_Supplier_tr4;2023-07-04 14:54:21
+17803_enter_Terminal North_tr6;2023-07-04 14:56:12
+17804_enter_Terminal North_cr182;2023-07-04 14:56:12
+17806_enter_Terminal North_fl1;2023-07-04 14:56:12
+17808_enter_Truck Depot_tr6;2023-07-04 14:56:25
+17810_enter_Terminal North_tr2;2023-07-04 15:35:35
+17811_enter_Terminal North_cr152;2023-07-04 15:35:35
+17813_enter_Terminal North_fl3;2023-07-04 15:35:35
+17815_enter_Truck Depot_tr2;2023-07-04 15:35:43
+17819_enter_Storage_fl3;2023-07-04 15:38:22
+17820_enter_Storage_cr152;2023-07-04 15:38:22
+17821_enter_Terminal North_tr5;2023-07-04 15:48:16
+17822_enter_Terminal North_cr163;2023-07-04 15:48:16
+17824_enter_Terminal North_fl3;2023-07-04 15:48:16
+17826_enter_Truck Depot_tr5;2023-07-04 15:48:19
+17828_enter_Supplier_tr2;2023-07-04 15:48:37
+17832_enter_Storage_fl3;2023-07-04 15:56:26
+17833_enter_Storage_cr163;2023-07-04 15:56:26
+17834_enter_Supplier_tr5;2023-07-04 15:57:04
+17836_enter_Supplier_tr6;2023-07-04 15:59:15
+17840_enter_Storage_fl1;2023-07-04 15:59:32
+17841_enter_Storage_cr182;2023-07-04 15:59:32
+17842_enter_Terminal South_tr3;2023-07-04 16:14:38
+17843_enter_Terminal South_cr158;2023-07-04 16:14:38
+17845_enter_Terminal South_fl2;2023-07-04 16:14:38
+17847_enter_Truck Depot_tr3;2023-07-04 16:14:53
+17849_enter_Supplier Loading Area_tr4;2023-07-04 16:18:02
+17850_enter_Supplier Loading Area_cr166;2023-07-04 16:18:02
+17851_enter_Terminal North_tr1;2023-07-04 16:19:13
+17852_enter_Terminal North_cr173;2023-07-04 16:19:13
+17854_enter_Terminal North_fl3;2023-07-04 16:19:13
+17856_enter_Truck Depot_tr1;2023-07-04 16:19:16
+17857_enter_Supplier_tr3;2023-07-04 16:22:40
+17861_enter_Loading Bay_fl2;2023-07-04 16:24:39
+17862_enter_Loading Bay_cr158;2023-07-04 16:24:39
+17865_enter_Storage_fl3;2023-07-04 16:27:04
+17866_enter_Storage_cr173;2023-07-04 16:27:04
+17867_enter_Supplier Loading Area_tr3;2023-07-04 16:58:27
+17868_enter_Supplier Loading Area_cr184;2023-07-04 16:58:27
+17869_enter_Supplier Loading Area_tr2;2023-07-04 17:10:26
+17870_enter_Supplier Loading Area_cr185;2023-07-04 17:10:26
+17871_enter_Supplier Loading Area_tr5;2023-07-04 17:30:01
+17872_enter_Supplier Loading Area_cr183;2023-07-04 17:30:01
+17873_enter_Supplier Loading Area_tr6;2023-07-04 17:33:57
+17874_enter_Supplier Loading Area_cr170;2023-07-04 17:33:57
+17876_enter_Supplier_tr1;2023-07-05 07:31:30
+17878_enter_Supplier Loading Area_tr1;2023-07-05 10:35:07
+17879_enter_Supplier Loading Area_cr178;2023-07-05 10:35:07
+17886_enter_Terminal South_tr5;2023-07-05 14:27:12
+17887_enter_Terminal South_cr183;2023-07-05 14:27:12
+17889_enter_Terminal South_fl2;2023-07-05 14:27:12
+17891_enter_Truck Depot_tr5;2023-07-05 14:27:14
+17895_enter_Loading Bay_fl2;2023-07-05 14:31:23
+17896_enter_Loading Bay_cr183;2023-07-05 14:31:23
+17897_enter_Supplier_tr5;2023-07-05 14:43:50
+17899_enter_Terminal North_tr3;2023-07-05 15:02:23
+17900_enter_Terminal North_cr184;2023-07-05 15:02:23
+17902_enter_Terminal North_fl3;2023-07-05 15:02:23
+17904_enter_Truck Depot_tr3;2023-07-05 15:02:27
+17909_enter_Storage_fl3;2023-07-05 15:11:08
+17910_enter_Storage_cr184;2023-07-05 15:11:08
+17911_enter_Terminal North_tr4;2023-07-05 15:19:06
+17912_enter_Terminal North_cr166;2023-07-05 15:19:06
+17914_enter_Terminal North_fl1;2023-07-05 15:19:06
+17916_enter_Truck Depot_tr4;2023-07-05 15:19:13
+17921_enter_Storage_fl1;2023-07-05 15:23:25
+17922_enter_Storage_cr166;2023-07-05 15:23:25
+17925_enter_Terminal North_tr2;2023-07-05 15:43:53
+17926_enter_Terminal North_cr185;2023-07-05 15:43:53
+17928_enter_Terminal North_fl3;2023-07-05 15:43:53
+17930_enter_Truck Depot_tr2;2023-07-05 15:44:02
+17933_enter_Storage_fl3;2023-07-05 15:48:41
+17934_enter_Storage_cr185;2023-07-05 15:48:41
+17935_enter_Supplier Loading Area_tr5;2023-07-05 15:56:07
+17936_enter_Supplier Loading Area_cr165;2023-07-05 15:56:07
+17937_enter_Terminal North_tr6;2023-07-05 16:20:51
+17938_enter_Terminal North_cr170;2023-07-05 16:20:51
+17940_enter_Terminal North_fl1;2023-07-05 16:20:51
+17942_enter_Truck Depot_tr6;2023-07-05 16:21:00
+17945_enter_Storage_fl1;2023-07-05 16:25:46
+17946_enter_Storage_cr170;2023-07-05 16:25:46
+17947_enter_Terminal North_tr1;2023-07-05 16:42:30
+17948_enter_Terminal North_cr178;2023-07-05 16:42:30
+17950_enter_Terminal North_fl3;2023-07-05 16:42:30
+17952_enter_Truck Depot_tr1;2023-07-05 16:42:39
+17955_enter_Storage_fl3;2023-07-05 16:54:13
+17956_enter_Storage_cr178;2023-07-05 16:54:13
+17959_enter_Terminal North_tr5;2023-07-05 18:40:50
+17960_enter_Terminal North_cr165;2023-07-05 18:40:50
+17962_enter_Terminal North_fl1;2023-07-05 18:40:50
+17964_enter_Truck Depot_tr5;2023-07-05 18:43:10
+17969_enter_Storage_fl3;2023-07-06 00:45:19
+17971_enter_Storage_fl2;2023-07-06 00:45:19
+17975_enter_Supplier_tr3;2023-07-06 07:23:33
+17977_enter_Supplier_tr5;2023-07-06 07:27:00
+17979_enter_Supplier_tr4;2023-07-06 07:34:51
+17981_enter_Supplier_tr1;2023-07-06 07:47:04
+17985_enter_Loading Bay_fl3;2023-07-06 07:49:15
+17986_enter_Loading Bay_cr116;2023-07-06 07:49:15
+17988_enter_Storage_fl3;2023-07-06 07:51:57
+17991_enter_Storage_fl1;2023-07-06 07:54:50
+17992_enter_Storage_cr165;2023-07-06 07:54:50
+17994_enter_Storage_fl1;2023-07-06 07:54:50
+17997_enter_Loading Bay_fl2;2023-07-06 07:55:04
+17998_enter_Loading Bay_cr86;2023-07-06 07:55:04
+18001_enter_Loading Bay_fl3;2023-07-06 07:57:32
+18002_enter_Loading Bay_cr173;2023-07-06 07:57:32
+18003_enter_Supplier_tr6;2023-07-06 08:02:33
+18005_enter_Supplier_tr2;2023-07-06 08:04:15
+18007_enter_Supplier Loading Area_tr3;2023-07-06 08:44:03
+18008_enter_Supplier Loading Area_cr193;2023-07-06 08:44:03
+18009_enter_Supplier Loading Area_tr5;2023-07-06 08:52:23
+18010_enter_Supplier Loading Area_cr194;2023-07-06 08:52:23
+18013_enter_Loading Bay_fl1;2023-07-06 08:56:37
+18014_enter_Loading Bay_cr85;2023-07-06 08:56:37
+18015_enter_Supplier Loading Area_tr6;2023-07-06 08:59:46
+18016_enter_Supplier Loading Area_cr181;2023-07-06 08:59:46
+18018_enter_Storage_fl3;2023-07-06 09:01:46
+18021_enter_Loading Bay_fl3;2023-07-06 09:04:55
+18022_enter_Loading Bay_cr132;2023-07-06 09:04:55
+18023_enter_Supplier Loading Area_tr2;2023-07-06 09:05:06
+18024_enter_Supplier Loading Area_cr187;2023-07-06 09:05:06
+18025_enter_Supplier Loading Area_tr4;2023-07-06 09:07:20
+18026_enter_Supplier Loading Area_cr195;2023-07-06 09:07:20
+18028_enter_Storage_fl2;2023-07-06 09:07:53
+18030_enter_Storage_fl3;2023-07-06 09:09:47
+18033_enter_Loading Bay_fl2;2023-07-06 09:10:38
+18034_enter_Loading Bay_cr184;2023-07-06 09:10:38
+18036_enter_Storage_fl2;2023-07-06 09:11:25
+18039_enter_Loading Bay_fl2;2023-07-06 09:14:21
+18040_enter_Loading Bay_cr110;2023-07-06 09:14:21
+18043_enter_Loading Bay_fl3;2023-07-06 09:15:42
+18044_enter_Loading Bay_cr182;2023-07-06 09:15:42
+18046_enter_Storage_fl2;2023-07-06 09:16:27
+18048_enter_Storage_fl3;2023-07-06 09:17:17
+18051_enter_Loading Bay_fl2;2023-07-06 09:18:22
+18052_enter_Loading Bay_cr170;2023-07-06 09:18:22
+18055_enter_Loading Bay_fl3;2023-07-06 09:19:05
+18056_enter_Loading Bay_cr152;2023-07-06 09:19:05
+18058_enter_Storage_fl3;2023-07-06 09:20:22
+18061_enter_Loading Bay_fl3;2023-07-06 09:26:25
+18062_enter_Loading Bay_cr171;2023-07-06 09:26:25
+18064_enter_Storage_fl2;2023-07-06 09:28:18
+18066_enter_Storage_fl3;2023-07-06 09:28:58
+18069_enter_Loading Bay_fl3;2023-07-06 09:31:26
+18070_enter_Loading Bay_cr118;2023-07-06 09:31:26
+18073_enter_Loading Bay_fl2;2023-07-06 09:32:05
+18074_enter_Loading Bay_cr185;2023-07-06 09:32:05
+18075_enter_Supplier Loading Area_tr1;2023-07-06 09:32:07
+18076_enter_Supplier Loading Area_cr175;2023-07-06 09:32:07
+18078_enter_Storage_fl3;2023-07-06 09:34:29
+18080_enter_Storage_fl2;2023-07-06 09:34:59
+18083_enter_Loading Bay_fl3;2023-07-06 09:37:43
+18084_enter_Loading Bay_cr131;2023-07-06 09:37:43
+18087_enter_Loading Bay_fl2;2023-07-06 09:39:35
+18088_enter_Loading Bay_cr115;2023-07-06 09:39:35
+18090_enter_Storage_fl3;2023-07-06 09:43:06
+18093_enter_Loading Bay_fl3;2023-07-06 09:47:25
+18094_enter_Loading Bay_cr117;2023-07-06 09:47:25
+18099_enter_Terminal North_tr3;2023-07-06 10:53:50
+18100_enter_Terminal North_cr193;2023-07-06 10:53:50
+18102_enter_Terminal North_fl2;2023-07-06 10:53:50
+18104_enter_Truck Depot_tr3;2023-07-06 10:53:53
+18105_enter_Terminal North_tr2;2023-07-06 11:53:07
+18106_enter_Terminal North_cr187;2023-07-06 11:53:07
+18108_enter_Terminal North_fl3;2023-07-06 11:53:07
+18110_enter_Truck Depot_tr2;2023-07-06 11:53:14
+18113_enter_Storage_fl2;2023-07-06 12:00:31
+18114_enter_Storage_cr193;2023-07-06 12:00:31
+18123_enter_Terminal North_tr5;2023-07-06 13:47:40
+18124_enter_Terminal North_cr194;2023-07-06 13:47:40
+18126_enter_Terminal North_fl2;2023-07-06 13:47:40
+18128_enter_Truck Depot_tr5;2023-07-06 13:47:55
+18131_enter_Storage_fl2;2023-07-06 13:52:48
+18132_enter_Storage_cr194;2023-07-06 13:52:48
+18135_enter_Storage_fl3;2023-07-06 14:01:53
+18136_enter_Storage_cr187;2023-07-06 14:01:53
+18138_enter_Supplier_tr2;2023-07-06 14:09:26
+18140_enter_Terminal South_tr1;2023-07-06 14:22:33
+18141_enter_Terminal South_cr175;2023-07-06 14:22:33
+18143_enter_Terminal South_fl1;2023-07-06 14:22:33
+18145_enter_Truck Depot_tr1;2023-07-06 14:22:44
+18148_enter_Loading Bay_fl1;2023-07-06 14:33:15
+18149_enter_Loading Bay_cr175;2023-07-06 14:33:15
+18150_enter_Supplier Loading Area_tr2;2023-07-06 14:37:51
+18151_enter_Supplier Loading Area_cr196;2023-07-06 14:37:51
+18152_enter_Terminal South_tr6;2023-07-06 14:48:27
+18153_enter_Terminal South_cr181;2023-07-06 14:48:27
+18155_enter_Terminal South_fl1;2023-07-06 14:48:27
+18157_enter_Truck Depot_tr6;2023-07-06 14:48:32
+18160_enter_Loading Bay_fl1;2023-07-06 14:51:20
+18161_enter_Loading Bay_cr181;2023-07-06 14:51:20
+18162_enter_Terminal North_tr4;2023-07-06 15:02:09
+18163_enter_Terminal North_cr195;2023-07-06 15:02:09
+18165_enter_Terminal North_fl3;2023-07-06 15:02:09
+18167_enter_Truck Depot_tr4;2023-07-06 15:02:16
+18170_enter_Storage_fl3;2023-07-06 15:04:49
+18171_enter_Storage_cr195;2023-07-06 15:04:49
+18174_enter_Terminal South_tr2;2023-07-06 16:18:41
+18175_enter_Terminal South_cr196;2023-07-06 16:18:41
+18177_enter_Terminal South_fl1;2023-07-06 16:18:41
+18179_enter_Truck Depot_tr2;2023-07-06 16:18:54
+18182_enter_Loading Bay_fl1;2023-07-06 16:23:04
+18183_enter_Loading Bay_cr196;2023-07-06 16:23:04
+18185_enter_Supplier_tr5;2023-07-06 18:47:06
+18190_enter_Supplier_tr2;2023-07-07 07:34:00
+18192_enter_Supplier_tr1;2023-07-07 07:40:25
+18194_enter_Supplier_tr3;2023-07-07 08:13:19
+18196_enter_Supplier Loading Area_tr5;2023-07-07 08:56:07
+18197_enter_Supplier Loading Area_cr169;2023-07-07 08:56:07
+18199_enter_Supplier_tr6;2023-07-07 09:18:16
+18201_enter_Supplier Loading Area_tr2;2023-07-07 09:21:15
+18202_enter_Supplier Loading Area_cr192;2023-07-07 09:21:15
+18203_enter_Supplier Loading Area_tr3;2023-07-07 09:25:44
+18204_enter_Supplier Loading Area_cr180;2023-07-07 09:25:44
+18205_enter_Supplier Loading Area_tr1;2023-07-07 09:32:49
+18206_enter_Supplier Loading Area_cr179;2023-07-07 09:32:49
+18207_enter_Supplier Loading Area_tr6;2023-07-07 09:54:39
+18208_enter_Supplier Loading Area_cr160;2023-07-07 09:54:39
+18212_enter_Terminal North_tr5;2023-07-07 11:21:37
+18213_enter_Terminal North_cr169;2023-07-07 11:21:37
+18215_enter_Terminal North_fl2;2023-07-07 11:21:37
+18217_enter_Truck Depot_tr5;2023-07-07 11:21:42
+18220_enter_Storage_fl2;2023-07-07 11:30:30
+18221_enter_Storage_cr169;2023-07-07 11:30:30
+18230_enter_Terminal North_tr1;2023-07-07 14:23:29
+18231_enter_Terminal North_cr179;2023-07-07 14:23:29
+18233_enter_Terminal North_fl3;2023-07-07 14:23:29
+18235_enter_Truck Depot_tr1;2023-07-07 14:23:33
+18238_enter_Storage_fl3;2023-07-07 14:28:09
+18239_enter_Storage_cr179;2023-07-07 14:28:09
+18240_enter_Terminal North_tr3;2023-07-07 14:39:08
+18241_enter_Terminal North_cr180;2023-07-07 14:39:08
+18243_enter_Terminal North_fl2;2023-07-07 14:39:08
+18245_enter_Truck Depot_tr3;2023-07-07 14:39:16
+18248_enter_Storage_fl2;2023-07-07 14:43:39
+18249_enter_Storage_cr180;2023-07-07 14:43:39
+18250_enter_Terminal North_tr6;2023-07-07 15:13:35
+18251_enter_Terminal North_cr160;2023-07-07 15:13:35
+18253_enter_Terminal North_fl3;2023-07-07 15:13:35
+18255_enter_Truck Depot_tr6;2023-07-07 15:13:46
+18258_enter_Storage_fl3;2023-07-07 15:23:05
+18259_enter_Storage_cr160;2023-07-07 15:23:05
+18260_enter_Terminal North_tr2;2023-07-07 15:36:25
+18261_enter_Terminal North_cr192;2023-07-07 15:36:25
+18263_enter_Terminal North_fl2;2023-07-07 15:36:25
+18265_enter_Truck Depot_tr2;2023-07-07 15:36:33
+18268_enter_Storage_fl2;2023-07-07 15:43:16
+18269_enter_Storage_cr192;2023-07-07 15:43:16
+18272_enter_Loading Bay_vh22;2023-07-07 23:00:00
+18279_enter_Storage_fl2;2023-07-09 21:14:08
+18280_enter_Storage_fl3;2023-07-09 21:14:08
+18282_enter_Storage_fl1;2023-07-09 21:14:08
+18285_enter_Loading Bay_fl2;2023-07-10 07:24:11
+18286_enter_Loading Bay_cr141;2023-07-10 07:24:11
+18289_enter_Loading Bay_fl3;2023-07-10 07:26:19
+18290_enter_Loading Bay_cr145;2023-07-10 07:26:19
+18293_enter_Loading Bay_fl1;2023-07-10 07:28:06
+18294_enter_Loading Bay_cr157;2023-07-10 07:28:06
+18296_enter_Storage_fl2;2023-07-10 07:30:32
+18298_enter_Storage_fl1;2023-07-10 07:30:35
+18301_enter_Loading Bay_fl2;2023-07-10 07:34:26
+18302_enter_Loading Bay_cr144;2023-07-10 07:34:26
+18303_enter_Supplier_tr5;2023-07-10 07:34:28
+18306_enter_Storage_fl3;2023-07-10 07:35:53
+18309_enter_Loading Bay_fl1;2023-07-10 07:36:46
+18310_enter_Loading Bay_cr187;2023-07-10 07:36:46
+18313_enter_Loading Bay_fl3;2023-07-10 07:40:40
+18314_enter_Loading Bay_cr159;2023-07-10 07:40:40
+18316_enter_Storage_fl2;2023-07-10 07:42:18
+18318_enter_Storage_fl1;2023-07-10 07:43:12
+18321_enter_Loading Bay_fl2;2023-07-10 07:47:05
+18322_enter_Loading Bay_cr160;2023-07-10 07:47:05
+18323_enter_Supplier_tr2;2023-07-10 07:48:14
+18327_enter_Loading Bay_fl1;2023-07-10 07:51:49
+18328_enter_Loading Bay_cr142;2023-07-10 07:51:49
+18329_enter_Supplier_tr1;2023-07-10 07:53:52
+18331_enter_Supplier_tr3;2023-07-10 07:58:49
+18333_enter_Supplier_tr4;2023-07-10 08:02:39
+18335_enter_Supplier_tr6;2023-07-10 08:23:03
+18337_enter_Supplier Loading Area_tr5;2023-07-10 09:12:49
+18338_enter_Supplier Loading Area_cr155;2023-07-10 09:12:49
+18339_enter_Supplier Loading Area_tr6;2023-07-10 09:36:32
+18340_enter_Supplier Loading Area_cr156;2023-07-10 09:36:32
+18341_enter_Supplier Loading Area_tr2;2023-07-10 09:41:11
+18342_enter_Supplier Loading Area_cr190;2023-07-10 09:41:11
+18343_enter_Supplier Loading Area_tr1;2023-07-10 09:51:17
+18344_enter_Supplier Loading Area_cr198;2023-07-10 09:51:17
+18345_enter_Supplier Loading Area_tr3;2023-07-10 10:01:32
+18346_enter_Supplier Loading Area_cr186;2023-07-10 10:01:32
+18347_enter_Supplier Loading Area_tr4;2023-07-10 10:33:48
+18348_enter_Supplier Loading Area_cr205;2023-07-10 10:33:48
+18351_enter_Terminal North_tr1;2023-07-10 11:27:54
+18352_enter_Terminal North_cr198;2023-07-10 11:27:54
+18354_enter_Terminal North_fl3;2023-07-10 11:27:54
+18356_enter_Truck Depot_tr1;2023-07-10 11:28:00
+18360_enter_Storage_fl3;2023-07-10 11:33:03
+18361_enter_Storage_cr198;2023-07-10 11:33:03
+18362_enter_Supplier_tr1;2023-07-10 11:44:15
+18364_enter_Supplier Loading Area_tr1;2023-07-10 14:04:57
+18365_enter_Supplier Loading Area_cr188;2023-07-10 14:04:57
+18372_enter_Terminal North_tr2;2023-07-10 18:43:30
+18373_enter_Terminal North_cr190;2023-07-10 18:43:30
+18375_enter_Terminal North_fl3;2023-07-10 18:43:30
+18377_enter_Truck Depot_tr2;2023-07-10 18:45:04
+18385_enter_Terminal South_tr4;2023-07-11 07:40:48
+18386_enter_Terminal South_cr205;2023-07-11 07:40:48
+18388_enter_Terminal South_fl1;2023-07-11 07:40:48
+18390_enter_Truck Depot_tr4;2023-07-11 07:40:59
+18392_enter_Terminal North_tr5;2023-07-11 07:50:21
+18393_enter_Terminal North_cr155;2023-07-11 07:50:21
+18395_enter_Terminal North_fl2;2023-07-11 07:50:21
+18397_enter_Truck Depot_tr5;2023-07-11 07:50:26
+18401_enter_Loading Bay_fl1;2023-07-11 07:50:27
+18402_enter_Loading Bay_cr205;2023-07-11 07:50:27
+18405_enter_Storage_fl3;2023-07-11 07:55:58
+18406_enter_Storage_cr190;2023-07-11 07:55:58
+18407_enter_Supplier_tr2;2023-07-11 08:00:20
+18409_enter_Terminal South_tr3;2023-07-11 08:49:49
+18410_enter_Terminal South_cr186;2023-07-11 08:49:49
+18412_enter_Terminal South_fl3;2023-07-11 08:49:49
+18414_enter_Truck Depot_tr3;2023-07-11 08:50:14
+18416_enter_Supplier_tr4;2023-07-11 08:52:19
+18418_enter_Supplier Loading Area_tr2;2023-07-11 08:57:37
+18419_enter_Supplier Loading Area_cr176;2023-07-11 08:57:37
+18420_enter_Supplier_tr5;2023-07-11 09:09:26
+18422_enter_Terminal South_tr6;2023-07-11 09:10:48
+18423_enter_Terminal South_cr156;2023-07-11 09:10:48
+18425_enter_Terminal South_fl1;2023-07-11 09:10:48
+18427_enter_Truck Depot_tr6;2023-07-11 09:10:51
+18429_enter_Supplier_tr6;2023-07-11 09:15:15
+18433_enter_Loading Bay_fl1;2023-07-11 09:23:52
+18434_enter_Loading Bay_cr156;2023-07-11 09:23:52
+18435_enter_Supplier Loading Area_tr5;2023-07-11 09:38:14
+18436_enter_Supplier Loading Area_cr199;2023-07-11 09:38:14
+18437_enter_Supplier Loading Area_tr6;2023-07-11 09:43:43
+18438_enter_Supplier Loading Area_cr174;2023-07-11 09:43:43
+18439_enter_Terminal North_tr1;2023-07-11 09:48:54
+18440_enter_Terminal North_cr188;2023-07-11 09:48:54
+18442_enter_Terminal North_fl1;2023-07-11 09:48:54
+18444_enter_Truck Depot_tr1;2023-07-11 09:48:58
+18446_enter_Supplier_tr3;2023-07-11 09:52:40
+18450_enter_Storage_fl1;2023-07-11 09:59:32
+18451_enter_Storage_cr188;2023-07-11 09:59:32
+18454_enter_Storage_fl2;2023-07-11 10:00:16
+18455_enter_Storage_cr155;2023-07-11 10:00:16
+18458_enter_Loading Bay_fl3;2023-07-11 10:05:32
+18459_enter_Loading Bay_cr186;2023-07-11 10:05:32
+18460_enter_Supplier Loading Area_tr4;2023-07-11 10:18:09
+18461_enter_Supplier Loading Area_cr172;2023-07-11 10:18:09
+18462_enter_Supplier_tr1;2023-07-11 10:49:53
+18464_enter_Loading Bay_vh23;2023-07-11 11:00:00
+18466_enter_Supplier Loading Area_tr3;2023-07-11 11:14:27
+18467_enter_Supplier Loading Area_cr209;2023-07-11 11:14:27
+18468_enter_Supplier Loading Area_tr1;2023-07-11 12:08:43
+18469_enter_Supplier Loading Area_cr206;2023-07-11 12:08:43
+18476_enter_Terminal North_tr5;2023-07-11 14:43:32
+18477_enter_Terminal North_cr199;2023-07-11 14:43:32
+18479_enter_Terminal North_fl1;2023-07-11 14:43:32
+18481_enter_Truck Depot_tr5;2023-07-11 14:43:36
+18485_enter_Storage_fl1;2023-07-11 14:46:22
+18486_enter_Storage_cr199;2023-07-11 14:46:22
+18487_enter_Terminal South_tr4;2023-07-11 14:51:21
+18488_enter_Terminal South_cr172;2023-07-11 14:51:21
+18490_enter_Terminal South_fl3;2023-07-11 14:51:21
+18492_enter_Truck Depot_tr4;2023-07-11 14:51:31
+18494_enter_Supplier_tr5;2023-07-11 14:56:48
+18496_enter_Terminal North_tr1;2023-07-11 14:57:28
+18497_enter_Terminal North_cr206;2023-07-11 14:57:28
+18499_enter_Terminal North_fl2;2023-07-11 14:57:28
+18501_enter_Truck Depot_tr1;2023-07-11 14:57:33
+18503_enter_Supplier_tr4;2023-07-11 15:54:49
+18507_enter_Loading Bay_fl3;2023-07-11 15:58:22
+18508_enter_Loading Bay_cr172;2023-07-11 15:58:22
+18511_enter_Supplier_tr1;2023-07-11 16:00:08
+18513_enter_Supplier Loading Area_tr5;2023-07-11 16:22:28
+18514_enter_Supplier Loading Area_cr223;2023-07-11 16:22:28
+18515_enter_Supplier Loading Area_tr1;2023-07-11 16:36:10
+18516_enter_Supplier Loading Area_cr197;2023-07-11 16:36:10
+18519_enter_Storage_fl2;2023-07-11 17:03:37
+18520_enter_Storage_cr206;2023-07-11 17:03:37
+18521_enter_Supplier Loading Area_tr4;2023-07-11 17:24:23
+18522_enter_Supplier Loading Area_cr214;2023-07-11 17:24:23
+18523_enter_Terminal North_tr3;2023-07-11 18:25:07
+18524_enter_Terminal North_cr209;2023-07-11 18:25:07
+18526_enter_Terminal North_fl1;2023-07-11 18:25:07
+18528_enter_Truck Depot_tr3;2023-07-11 18:26:17
+18532_enter_Storage_fl1;2023-07-12 07:34:29
+18533_enter_Storage_cr209;2023-07-12 07:34:29
+18534_enter_Supplier_tr3;2023-07-12 07:42:03
+18536_enter_Supplier Loading Area_tr3;2023-07-12 09:22:29
+18537_enter_Supplier Loading Area_cr210;2023-07-12 09:22:29
+18542_enter_Terminal North_tr6;2023-07-12 10:17:21
+18543_enter_Terminal North_cr174;2023-07-12 10:17:21
+18545_enter_Terminal North_fl2;2023-07-12 10:17:21
+18547_enter_Truck Depot_tr6;2023-07-12 10:17:34
+18551_enter_Storage_fl2;2023-07-12 10:22:11
+18552_enter_Storage_cr174;2023-07-12 10:22:11
+18557_enter_Terminal North_tr2;2023-07-12 10:29:09
+18558_enter_Terminal North_cr176;2023-07-12 10:29:09
+18560_enter_Terminal North_fl1;2023-07-12 10:29:09
+18562_enter_Truck Depot_tr2;2023-07-12 10:29:20
+18564_enter_Supplier_tr6;2023-07-12 10:32:42
+18566_enter_Supplier_tr2;2023-07-12 10:34:59
+18570_enter_Storage_fl1;2023-07-12 10:35:58
+18571_enter_Storage_cr176;2023-07-12 10:35:58
+18572_enter_Terminal South_tr5;2023-07-12 10:39:45
+18573_enter_Terminal South_cr223;2023-07-12 10:39:45
+18575_enter_Terminal South_fl3;2023-07-12 10:39:45
+18577_enter_Truck Depot_tr5;2023-07-12 10:39:56
+18579_enter_Terminal South_tr4;2023-07-12 10:40:11
+18580_enter_Terminal South_cr214;2023-07-12 10:40:11
+18582_enter_Terminal South_fl2;2023-07-12 10:40:11
+18584_enter_Truck Depot_tr4;2023-07-12 10:40:16
+18588_enter_Loading Bay_fl2;2023-07-12 10:44:57
+18589_enter_Loading Bay_cr214;2023-07-12 10:44:57
+18590_enter_Supplier_tr5;2023-07-12 10:45:11
+18594_enter_Loading Bay_fl3;2023-07-12 10:46:03
+18595_enter_Loading Bay_cr223;2023-07-12 10:46:03
+18596_enter_Supplier_tr4;2023-07-12 10:49:21
+18598_enter_Supplier Loading Area_tr6;2023-07-12 11:34:25
+18599_enter_Supplier Loading Area_cr215;2023-07-12 11:34:25
+18600_enter_Supplier Loading Area_tr2;2023-07-12 11:39:06
+18601_enter_Supplier Loading Area_cr222;2023-07-12 11:39:06
+18602_enter_Supplier Loading Area_tr5;2023-07-12 11:59:41
+18603_enter_Supplier Loading Area_cr224;2023-07-12 11:59:41
+18604_enter_Supplier Loading Area_tr4;2023-07-12 12:07:31
+18605_enter_Supplier Loading Area_cr226;2023-07-12 12:07:31
+18610_enter_Terminal North_tr2;2023-07-12 15:33:47
+18611_enter_Terminal North_cr222;2023-07-12 15:33:47
+18613_enter_Terminal North_fl1;2023-07-12 15:33:47
+18615_enter_Truck Depot_tr2;2023-07-12 15:33:49
+18619_enter_Storage_fl1;2023-07-12 15:39:51
+18620_enter_Storage_cr222;2023-07-12 15:39:51
+18623_enter_Supplier_tr2;2023-07-12 15:50:39
+18625_enter_Terminal North_tr4;2023-07-12 15:54:37
+18626_enter_Terminal North_cr226;2023-07-12 15:54:37
+18628_enter_Terminal North_fl1;2023-07-12 15:54:37
+18630_enter_Truck Depot_tr4;2023-07-12 15:54:42
+18632_enter_Terminal North_tr1;2023-07-12 15:59:03
+18633_enter_Terminal North_cr197;2023-07-12 15:59:03
+18635_enter_Terminal North_fl3;2023-07-12 15:59:03
+18637_enter_Truck Depot_tr1;2023-07-12 15:59:06
+18640_enter_Storage_fl1;2023-07-12 16:58:32
+18641_enter_Storage_cr226;2023-07-12 16:58:32
+18644_enter_Supplier_tr4;2023-07-12 17:06:11
+18646_enter_Supplier Loading Area_tr2;2023-07-12 17:15:03
+18647_enter_Supplier Loading Area_cr228;2023-07-12 17:15:03
+18650_enter_Storage_fl3;2023-07-12 18:06:29
+18651_enter_Storage_cr197;2023-07-12 18:06:29
+18653_enter_Terminal North_tr5;2023-07-12 18:44:41
+18654_enter_Terminal North_cr224;2023-07-12 18:44:41
+18656_enter_Terminal North_fl1;2023-07-12 18:44:41
+18658_enter_Truck Depot_tr5;2023-07-12 18:46:05
+18662_enter_Storage_fl3;2023-07-12 22:22:41
+18663_enter_Storage_fl2;2023-07-12 22:22:41
+18664_enter_Supplier Loading Area_tr4;2023-07-13 07:19:44
+18665_enter_Supplier Loading Area_cr227;2023-07-13 07:19:44
+18666_enter_Supplier_tr1;2023-07-13 07:25:58
+18670_enter_Loading Bay_fl2;2023-07-13 07:26:05
+18671_enter_Loading Bay_cr194;2023-07-13 07:26:05
+18674_enter_Loading Bay_fl3;2023-07-13 07:26:29
+18675_enter_Loading Bay_cr195;2023-07-13 07:26:29
+18677_enter_Storage_fl2;2023-07-13 07:30:40
+18679_enter_Storage_fl3;2023-07-13 07:35:42
+18684_enter_Loading Bay_fl2;2023-07-13 07:41:34
+18685_enter_Loading Bay_cr197;2023-07-13 07:41:34
+18687_enter_Storage_fl2;2023-07-13 07:47:06
+18690_enter_Loading Bay_fl3;2023-07-13 07:48:04
+18691_enter_Loading Bay_cr155;2023-07-13 07:48:04
+18693_enter_Storage_fl3;2023-07-13 07:51:13
+18694_enter_Supplier_tr5;2023-07-13 07:53:56
+18698_enter_Loading Bay_fl2;2023-07-13 08:47:47
+18699_enter_Loading Bay_cr166;2023-07-13 08:47:47
+18700_enter_Supplier Loading Area_tr1;2023-07-13 08:49:33
+18701_enter_Supplier Loading Area_cr202;2023-07-13 08:49:33
+18704_enter_Loading Bay_fl3;2023-07-13 08:51:48
+18705_enter_Loading Bay_cr206;2023-07-13 08:51:48
+18708_enter_Storage_fl1;2023-07-13 08:58:53
+18709_enter_Storage_cr224;2023-07-13 08:58:53
+18711_enter_Storage_fl1;2023-07-13 08:58:53
+18712_enter_Supplier Loading Area_tr5;2023-07-13 09:45:13
+18713_enter_Supplier Loading Area_cr203;2023-07-13 09:45:13
+18715_enter_Storage_fl2;2023-07-13 09:47:47
+18718_enter_Loading Bay_fl2;2023-07-13 09:49:43
+18719_enter_Loading Bay_cr198;2023-07-13 09:49:43
+18721_enter_Storage_fl2;2023-07-13 09:52:06
+18723_enter_Storage_fl3;2023-07-13 09:53:06
+18724_enter_Terminal North_tr6;2023-07-13 09:53:30
+18725_enter_Terminal North_cr215;2023-07-13 09:53:30
+18728_enter_Loading Bay_fl2;2023-07-13 09:54:47
+18729_enter_Loading Bay_cr169;2023-07-13 09:54:47
+18731_enter_Terminal North_fl2;2023-07-13 09:55:38
+18733_enter_Truck Depot_tr6;2023-07-13 09:55:41
+18737_enter_Loading Bay_fl3;2023-07-13 09:56:54
+18738_enter_Loading Bay_cr224;2023-07-13 09:56:54
+18741_enter_Loading Bay_fl1;2023-07-13 10:00:33
+18742_enter_Loading Bay_cr138;2023-07-13 10:00:33
+18744_enter_Storage_fl1;2023-07-13 10:01:38
+18747_enter_Loading Bay_fl1;2023-07-13 10:03:34
+18748_enter_Loading Bay_cr168;2023-07-13 10:03:34
+18749_enter_Supplier_tr6;2023-07-13 10:58:30
+18753_enter_Storage_fl2;2023-07-13 11:57:01
+18754_enter_Storage_cr215;2023-07-13 11:57:01
+18755_enter_Supplier Loading Area_tr6;2023-07-13 12:26:04
+18756_enter_Supplier Loading Area_cr213;2023-07-13 12:26:04
+18763_enter_Terminal South_tr3;2023-07-13 14:42:51
+18764_enter_Terminal South_cr210;2023-07-13 14:42:51
+18766_enter_Terminal South_fl1;2023-07-13 14:42:51
+18768_enter_Truck Depot_tr3;2023-07-13 14:42:59
+18772_enter_Loading Bay_fl1;2023-07-13 14:49:17
+18773_enter_Loading Bay_cr210;2023-07-13 14:49:17
+18774_enter_Supplier_tr3;2023-07-13 14:52:47
+18776_enter_Terminal North_tr1;2023-07-13 14:55:59
+18777_enter_Terminal North_cr202;2023-07-13 14:55:59
+18779_enter_Terminal North_fl2;2023-07-13 14:55:59
+18781_enter_Truck Depot_tr1;2023-07-13 14:56:04
+18787_enter_Terminal North_tr4;2023-07-13 15:44:47
+18788_enter_Terminal North_cr227;2023-07-13 15:44:47
+18790_enter_Terminal North_fl3;2023-07-13 15:44:47
+18792_enter_Truck Depot_tr4;2023-07-13 15:44:57
+18796_enter_Storage_fl3;2023-07-13 15:47:01
+18797_enter_Storage_cr227;2023-07-13 15:47:01
+18798_enter_Terminal North_tr6;2023-07-13 15:50:05
+18799_enter_Terminal North_cr213;2023-07-13 15:50:05
+18801_enter_Terminal North_fl3;2023-07-13 15:50:05
+18803_enter_Truck Depot_tr6;2023-07-13 15:50:13
+18809_enter_Storage_fl3;2023-07-13 15:54:53
+18810_enter_Storage_cr213;2023-07-13 15:54:53
+18811_enter_Supplier_tr4;2023-07-13 15:57:16
+18813_enter_Supplier_tr1;2023-07-13 15:58:01
+18815_enter_Terminal South_tr5;2023-07-13 16:06:31
+18816_enter_Terminal South_cr203;2023-07-13 16:06:31
+18818_enter_Terminal South_fl1;2023-07-13 16:06:31
+18820_enter_Truck Depot_tr5;2023-07-13 16:06:42
+18824_enter_Loading Bay_fl1;2023-07-13 16:10:44
+18825_enter_Loading Bay_cr203;2023-07-13 16:10:44
+18826_enter_Supplier_tr5;2023-07-13 16:24:46
+18830_enter_Storage_fl2;2023-07-13 16:58:57
+18831_enter_Storage_cr202;2023-07-13 16:58:57
+18832_enter_Supplier_tr6;2023-07-13 17:00:01
+18834_enter_Supplier Loading Area_tr4;2023-07-13 17:30:03
+18835_enter_Supplier Loading Area_cr220;2023-07-13 17:30:03
+18836_enter_Supplier Loading Area_tr1;2023-07-13 17:32:31
+18837_enter_Supplier Loading Area_cr225;2023-07-13 17:32:31
+18838_enter_Supplier Loading Area_tr3;2023-07-13 17:42:53
+18839_enter_Supplier Loading Area_cr234;2023-07-13 17:42:53
+18840_enter_Terminal North_tr2;2023-07-13 18:06:14
+18841_enter_Terminal North_cr228;2023-07-13 18:06:14
+18843_enter_Terminal North_fl3;2023-07-13 18:06:14
+18845_enter_Truck Depot_tr2;2023-07-13 18:08:02
+18849_enter_Storage_fl3;2023-07-13 18:46:38
+18850_enter_Storage_cr228;2023-07-13 18:46:38
+18851_enter_Supplier Loading Area_tr6;2023-07-14 07:15:09
+18852_enter_Supplier Loading Area_cr221;2023-07-14 07:15:09
+18855_enter_Supplier_tr2;2023-07-14 07:25:13
+18859_enter_Terminal South_tr1;2023-07-14 08:25:23
+18860_enter_Terminal South_cr225;2023-07-14 08:25:23
+18862_enter_Terminal South_fl1;2023-07-14 08:25:23
+18864_enter_Truck Depot_tr1;2023-07-14 08:25:32
+18868_enter_Loading Bay_fl1;2023-07-14 08:37:27
+18869_enter_Loading Bay_cr225;2023-07-14 08:37:27
+18870_enter_Supplier_tr1;2023-07-14 08:52:28
+18872_enter_Supplier Loading Area_tr2;2023-07-14 09:02:45
+18873_enter_Supplier Loading Area_cr207;2023-07-14 09:02:45
+18874_enter_Supplier Loading Area_tr5;2023-07-14 09:34:42
+18875_enter_Supplier Loading Area_cr232;2023-07-14 09:34:42
+18876_enter_Terminal North_tr3;2023-07-14 10:06:47
+18877_enter_Terminal North_cr234;2023-07-14 10:06:47
+18879_enter_Terminal North_fl2;2023-07-14 10:06:47
+18881_enter_Truck Depot_tr3;2023-07-14 10:06:58
+18885_enter_Storage_fl2;2023-07-14 10:11:25
+18886_enter_Storage_cr234;2023-07-14 10:11:25
+18887_enter_Supplier_tr3;2023-07-14 10:13:30
+18889_enter_Supplier Loading Area_tr3;2023-07-14 10:50:12
+18890_enter_Supplier Loading Area_cr177;2023-07-14 10:50:12
+18892_enter_Supplier Loading Area_tr1;2023-07-14 12:03:06
+18893_enter_Supplier Loading Area_cr238;2023-07-14 12:03:06
+18904_enter_Terminal North_tr1;2023-07-14 14:37:31
+18905_enter_Terminal North_cr238;2023-07-14 14:37:31
+18907_enter_Terminal North_fl3;2023-07-14 14:37:31
+18909_enter_Truck Depot_tr1;2023-07-14 14:37:38
+18915_enter_Storage_fl3;2023-07-14 14:48:02
+18916_enter_Storage_cr238;2023-07-14 14:48:02
+18917_enter_Supplier_tr1;2023-07-14 14:58:50
+18919_enter_Terminal North_tr4;2023-07-14 15:30:39
+18920_enter_Terminal North_cr220;2023-07-14 15:30:39
+18922_enter_Terminal North_fl2;2023-07-14 15:30:39
+18924_enter_Truck Depot_tr4;2023-07-14 15:30:55
+18926_enter_Supplier_tr4;2023-07-14 15:40:55
+18930_enter_Storage_fl2;2023-07-14 15:41:49
+18931_enter_Storage_cr220;2023-07-14 15:41:49
+18932_enter_Terminal North_tr2;2023-07-14 16:03:48
+18933_enter_Terminal North_cr207;2023-07-14 16:03:48
+18935_enter_Terminal North_fl3;2023-07-14 16:03:48
+18937_enter_Truck Depot_tr2;2023-07-14 16:03:52
+18939_enter_Terminal North_tr5;2023-07-14 16:12:05
+18940_enter_Terminal North_cr232;2023-07-14 16:12:05
+18942_enter_Terminal North_fl2;2023-07-14 16:12:05
+18944_enter_Truck Depot_tr5;2023-07-14 16:12:12
+18946_enter_Supplier_tr2;2023-07-14 16:12:50
+18950_enter_Storage_fl3;2023-07-14 16:12:57
+18951_enter_Storage_cr207;2023-07-14 16:12:57
+18954_enter_Storage_fl2;2023-07-14 16:17:11
+18955_enter_Storage_cr232;2023-07-14 16:17:11
+18956_enter_Terminal North_tr3;2023-07-14 16:19:35
+18957_enter_Terminal North_cr177;2023-07-14 16:19:35
+18959_enter_Terminal North_fl3;2023-07-14 16:19:35
+18961_enter_Truck Depot_tr3;2023-07-14 16:19:43
+18964_enter_Storage_fl3;2023-07-14 16:26:34
+18965_enter_Storage_cr177;2023-07-14 16:26:34
+18966_enter_Terminal North_tr6;2023-07-14 16:28:44
+18967_enter_Terminal North_cr221;2023-07-14 16:28:44
+18969_enter_Terminal North_fl2;2023-07-14 16:28:44
+18971_enter_Truck Depot_tr6;2023-07-14 16:28:49
+18972_enter_Supplier Loading Area_tr1;2023-07-14 16:33:59
+18973_enter_Supplier Loading Area_cr229;2023-07-14 16:33:59
+18974_enter_Supplier_tr5;2023-07-14 16:36:11
+18978_enter_Storage_fl2;2023-07-14 16:44:54
+18979_enter_Storage_cr221;2023-07-14 16:44:54
+18982_enter_Supplier Loading Area_tr2;2023-07-14 16:56:47
+18983_enter_Supplier Loading Area_cr212;2023-07-14 16:56:47
+18984_enter_Supplier Loading Area_tr4;2023-07-14 17:00:58
+18985_enter_Supplier Loading Area_cr164;2023-07-14 17:00:58
+18986_enter_Supplier Loading Area_tr5;2023-07-14 18:33:53
+18987_enter_Supplier Loading Area_cr241;2023-07-14 18:33:53
+18988_enter_Terminal South_tr1;2023-07-14 18:46:33
+18989_enter_Terminal South_cr229;2023-07-14 18:46:33
+18991_enter_Terminal South_fl1;2023-07-14 18:46:33
+18993_enter_Truck Depot_tr1;2023-07-14 18:48:08
+18994_enter_Loading Bay_vh24;2023-07-14 23:00:00
+19000_enter_Storage_fl3;2023-07-17 02:00:39
+19001_enter_Storage_fl2;2023-07-17 02:00:39
+19004_enter_Loading Bay_fl3;2023-07-17 07:06:24
+19005_enter_Loading Bay_cr221;2023-07-17 07:06:24
+19007_enter_Storage_fl3;2023-07-17 07:12:52
+19010_enter_Loading Bay_fl2;2023-07-17 07:14:58
+19011_enter_Loading Bay_cr177;2023-07-17 07:14:58
+19013_enter_Storage_fl2;2023-07-17 07:16:52
+19016_enter_Loading Bay_fl3;2023-07-17 07:18:50
+19017_enter_Loading Bay_cr220;2023-07-17 07:18:50
+19020_enter_Loading Bay_fl2;2023-07-17 07:26:56
+19021_enter_Loading Bay_cr178;2023-07-17 07:26:56
+19022_enter_Supplier_tr1;2023-07-17 07:33:13
+19025_enter_Storage_fl2;2023-07-17 07:38:30
+19027_enter_Storage_fl3;2023-07-17 07:40:20
+19030_enter_Loading Bay_fl2;2023-07-17 07:42:11
+19031_enter_Loading Bay_cr179;2023-07-17 07:42:11
+19034_enter_Loading Bay_fl3;2023-07-17 07:46:35
+19035_enter_Loading Bay_cr222;2023-07-17 07:46:35
+19037_enter_Storage_fl2;2023-07-17 07:52:08
+19040_enter_Supplier_tr6;2023-07-17 08:01:20
+19042_enter_Supplier_tr3;2023-07-17 08:13:32
+19046_enter_Terminal South_tr4;2023-07-17 08:45:34
+19047_enter_Terminal South_cr164;2023-07-17 08:45:34
+19049_enter_Terminal South_fl3;2023-07-17 08:47:25
+19051_enter_Truck Depot_tr4;2023-07-17 08:47:41
+19055_enter_Loading Bay_fl2;2023-07-17 08:54:23
+19056_enter_Loading Bay_cr180;2023-07-17 08:54:23
+19059_enter_Loading Bay_fl1;2023-07-17 08:55:32
+19060_enter_Loading Bay_cr229;2023-07-17 08:55:32
+19062_enter_Storage_fl2;2023-07-17 08:56:06
+19064_enter_Storage_fl1;2023-07-17 08:57:31
+19067_enter_Supplier Loading Area_tr6;2023-07-17 09:04:03
+19068_enter_Supplier Loading Area_cr211;2023-07-17 09:04:03
+19069_enter_Supplier Loading Area_tr1;2023-07-17 09:10:16
+19070_enter_Supplier Loading Area_cr189;2023-07-17 09:10:16
+19071_enter_Terminal North_tr2;2023-07-17 09:31:25
+19072_enter_Terminal North_cr212;2023-07-17 09:31:25
+19077_enter_Loading Bay_fl3;2023-07-17 09:56:03
+19078_enter_Loading Bay_cr164;2023-07-17 09:56:03
+19081_enter_Loading Bay_fl2;2023-07-17 09:56:59
+19082_enter_Loading Bay_cr165;2023-07-17 09:56:59
+19084_enter_Terminal North_fl3;2023-07-17 09:57:55
+19086_enter_Truck Depot_tr2;2023-07-17 09:57:59
+19090_enter_Loading Bay_fl1;2023-07-17 09:59:36
+19091_enter_Loading Bay_cr163;2023-07-17 09:59:36
+19092_enter_Supplier_tr4;2023-07-17 09:59:49
+19094_enter_Terminal South_tr5;2023-07-17 10:10:33
+19095_enter_Terminal South_cr241;2023-07-17 10:10:33
+19096_enter_Supplier Loading Area_tr3;2023-07-17 10:49:01
+19097_enter_Supplier Loading Area_cr208;2023-07-17 10:49:01
+19099_enter_Terminal South_fl2;2023-07-17 11:00:22
+19101_enter_Truck Depot_tr5;2023-07-17 11:00:25
+19103_enter_Supplier_tr5;2023-07-17 11:09:05
+19106_enter_Loading Bay_fl2;2023-07-17 11:09:10
+19107_enter_Loading Bay_cr241;2023-07-17 11:09:10
+19111_enter_Storage_fl3;2023-07-17 11:10:01
+19112_enter_Storage_cr212;2023-07-17 11:10:01
+19113_enter_Supplier_tr2;2023-07-17 11:18:13
+19117_enter_Supplier Loading Area_tr4;2023-07-17 11:31:32
+19118_enter_Supplier Loading Area_cr218;2023-07-17 11:31:32
+19119_enter_Supplier Loading Area_tr5;2023-07-17 11:41:36
+19120_enter_Supplier Loading Area_cr201;2023-07-17 11:41:36
+19121_enter_Terminal North_tr1;2023-07-17 11:41:57
+19122_enter_Terminal North_cr189;2023-07-17 11:41:57
+19124_enter_Terminal North_fl3;2023-07-17 11:41:57
+19126_enter_Truck Depot_tr1;2023-07-17 11:42:04
+19130_enter_Terminal North_tr6;2023-07-17 11:49:17
+19131_enter_Terminal North_cr211;2023-07-17 11:49:17
+19133_enter_Terminal North_fl2;2023-07-17 11:49:17
+19135_enter_Truck Depot_tr6;2023-07-17 11:49:25
+19137_enter_Supplier Loading Area_tr2;2023-07-17 11:49:59
+19138_enter_Supplier Loading Area_cr233;2023-07-17 11:49:59
+19139_enter_Supplier_tr1;2023-07-17 11:53:09
+19141_enter_Supplier_tr6;2023-07-17 11:54:53
+19145_enter_Storage_fl3;2023-07-17 11:55:27
+19146_enter_Storage_cr189;2023-07-17 11:55:27
+19149_enter_Storage_fl2;2023-07-17 11:57:44
+19150_enter_Storage_cr211;2023-07-17 11:57:44
+19151_enter_Supplier Loading Area_tr1;2023-07-17 14:25:27
+19152_enter_Supplier Loading Area_cr242;2023-07-17 14:25:27
+19153_enter_Supplier Loading Area_tr6;2023-07-17 14:29:10
+19154_enter_Supplier Loading Area_cr191;2023-07-17 14:29:10
+19155_enter_Terminal South_tr5;2023-07-17 14:48:09
+19156_enter_Terminal South_cr201;2023-07-17 14:48:09
+19158_enter_Terminal South_fl1;2023-07-17 14:48:09
+19160_enter_Truck Depot_tr5;2023-07-17 14:48:21
+19162_enter_Supplier_tr5;2023-07-17 14:56:17
+19166_enter_Loading Bay_fl1;2023-07-17 15:51:02
+19167_enter_Loading Bay_cr201;2023-07-17 15:51:02
+19170_enter_Supplier Loading Area_tr5;2023-07-17 16:24:22
+19171_enter_Supplier Loading Area_cr230;2023-07-17 16:24:22
+19172_enter_Terminal South_tr3;2023-07-17 16:39:57
+19173_enter_Terminal South_cr208;2023-07-17 16:39:57
+19175_enter_Terminal South_fl1;2023-07-17 16:39:57
+19177_enter_Truck Depot_tr3;2023-07-17 16:40:00
+19181_enter_Loading Bay_fl1;2023-07-17 16:51:31
+19182_enter_Loading Bay_cr208;2023-07-17 16:51:31
+19183_enter_Supplier_tr3;2023-07-17 17:41:33
+19187_enter_Supplier Loading Area_tr3;2023-07-18 08:19:12
+19188_enter_Supplier Loading Area_cr235;2023-07-18 08:19:12
+19193_enter_Terminal North_tr2;2023-07-18 09:24:21
+19194_enter_Terminal North_cr233;2023-07-18 09:24:21
+19196_enter_Terminal North_fl2;2023-07-18 09:24:21
+19198_enter_Truck Depot_tr2;2023-07-18 09:24:27
+19202_enter_Storage_fl2;2023-07-18 09:31:44
+19203_enter_Storage_cr233;2023-07-18 09:31:44
+19204_enter_Supplier_tr2;2023-07-18 09:32:30
+19206_enter_Terminal South_tr4;2023-07-18 09:34:58
+19207_enter_Terminal South_cr218;2023-07-18 09:34:58
+19209_enter_Terminal South_fl1;2023-07-18 09:34:58
+19211_enter_Truck Depot_tr4;2023-07-18 09:35:02
+19213_enter_Terminal South_tr3;2023-07-18 09:35:45
+19214_enter_Terminal South_cr235;2023-07-18 09:35:45
+19216_enter_Terminal South_fl3;2023-07-18 09:35:45
+19218_enter_Truck Depot_tr3;2023-07-18 09:35:56
+19222_enter_Supplier_tr4;2023-07-18 09:41:05
+19226_enter_Loading Bay_fl1;2023-07-18 09:42:44
+19227_enter_Loading Bay_cr218;2023-07-18 09:42:44
+19230_enter_Loading Bay_fl3;2023-07-18 09:44:44
+19231_enter_Loading Bay_cr235;2023-07-18 09:44:44
+19232_enter_Supplier_tr3;2023-07-18 09:53:38
+19234_enter_Supplier Loading Area_tr2;2023-07-18 10:33:42
+19235_enter_Supplier Loading Area_cr217;2023-07-18 10:33:42
+19236_enter_Supplier Loading Area_tr4;2023-07-18 10:50:37
+19237_enter_Supplier Loading Area_cr243;2023-07-18 10:50:37
+19238_enter_Loading Bay_vh25;2023-07-18 11:00:00
+19242_enter_Supplier Loading Area_tr3;2023-07-18 11:16:06
+19243_enter_Supplier Loading Area_cr236;2023-07-18 11:16:06
+19244_enter_Terminal North_tr6;2023-07-18 11:18:09
+19245_enter_Terminal North_cr191;2023-07-18 11:18:09
+19247_enter_Terminal North_fl2;2023-07-18 11:18:09
+19249_enter_Truck Depot_tr6;2023-07-18 11:18:12
+19253_enter_Storage_fl2;2023-07-18 11:22:53
+19254_enter_Storage_cr191;2023-07-18 11:22:53
+19255_enter_Supplier_tr6;2023-07-18 11:23:03
+19259_enter_Terminal South_tr1;2023-07-18 11:45:23
+19260_enter_Terminal South_cr242;2023-07-18 11:45:23
+19262_enter_Terminal South_fl1;2023-07-18 11:45:23
+19264_enter_Truck Depot_tr1;2023-07-18 11:45:35
+19268_enter_Loading Bay_fl1;2023-07-18 11:49:11
+19269_enter_Loading Bay_cr242;2023-07-18 11:49:11
+19272_enter_Supplier Loading Area_tr6;2023-07-18 11:51:39
+19273_enter_Supplier Loading Area_cr231;2023-07-18 11:51:39
+19274_enter_Supplier_tr1;2023-07-18 11:53:14
+19276_enter_Terminal North_tr5;2023-07-18 11:57:45
+19277_enter_Terminal North_cr230;2023-07-18 11:57:45
+19279_enter_Terminal North_fl2;2023-07-18 11:57:45
+19281_enter_Truck Depot_tr5;2023-07-18 11:57:49
+19284_enter_Storage_fl2;2023-07-18 14:01:56
+19285_enter_Storage_cr230;2023-07-18 14:01:56
+19286_enter_Supplier Loading Area_tr1;2023-07-18 14:20:37
+19287_enter_Supplier Loading Area_cr237;2023-07-18 14:20:37
+19296_enter_Terminal South_tr4;2023-07-18 14:48:19
+19297_enter_Terminal South_cr243;2023-07-18 14:48:19
+19299_enter_Terminal South_fl3;2023-07-18 14:48:19
+19301_enter_Truck Depot_tr4;2023-07-18 14:48:33
+19302_enter_Terminal South_tr3;2023-07-18 14:49:20
+19303_enter_Terminal South_cr236;2023-07-18 14:49:20
+19305_enter_Terminal South_fl1;2023-07-18 14:49:20
+19307_enter_Truck Depot_tr3;2023-07-18 14:49:22
+19308_enter_Terminal North_tr2;2023-07-18 14:51:21
+19309_enter_Terminal North_cr217;2023-07-18 14:51:21
+19311_enter_Terminal North_fl2;2023-07-18 14:51:21
+19313_enter_Truck Depot_tr2;2023-07-18 14:51:34
+19316_enter_Loading Bay_fl3;2023-07-18 14:54:44
+19317_enter_Loading Bay_cr243;2023-07-18 14:54:44
+19318_enter_Terminal South_tr1;2023-07-18 14:58:23
+19319_enter_Terminal South_cr237;2023-07-18 14:58:23
+19321_enter_Terminal South_fl3;2023-07-18 14:58:23
+19323_enter_Truck Depot_tr1;2023-07-18 14:58:25
+19326_enter_Storage_fl2;2023-07-18 14:58:27
+19327_enter_Storage_cr217;2023-07-18 14:58:27
+19330_enter_Loading Bay_fl1;2023-07-18 15:53:57
+19331_enter_Loading Bay_cr236;2023-07-18 15:53:57
+19337_enter_Loading Bay_fl3;2023-07-18 16:04:31
+19338_enter_Loading Bay_cr237;2023-07-18 16:04:31
+19339_enter_Terminal South_tr6;2023-07-18 16:10:28
+19340_enter_Terminal South_cr231;2023-07-18 16:10:28
+19342_enter_Terminal South_fl1;2023-07-18 16:10:28
+19344_enter_Truck Depot_tr6;2023-07-18 16:10:32
+19347_enter_Loading Bay_fl1;2023-07-18 16:17:40
+19348_enter_Loading Bay_cr231;2023-07-18 16:17:40
+19350_enter_Supplier_tr5;2023-07-18 17:03:20
+19352_enter_Supplier_tr1;2023-07-18 17:07:32
+19354_enter_Supplier_tr2;2023-07-18 17:12:30
+19356_enter_Supplier_tr4;2023-07-18 18:18:44
+19359_enter_Supplier Loading Area_tr5;2023-07-19 07:15:31
+19360_enter_Supplier Loading Area_cr249;2023-07-19 07:15:31
+19361_enter_Supplier Loading Area_tr1;2023-07-19 07:21:30
+19362_enter_Supplier Loading Area_cr248;2023-07-19 07:21:30
+19363_enter_Supplier Loading Area_tr2;2023-07-19 07:29:46
+19364_enter_Supplier Loading Area_cr247;2023-07-19 07:29:46
+19365_enter_Supplier Loading Area_tr4;2023-07-19 08:11:15
+19366_enter_Supplier Loading Area_cr253;2023-07-19 08:11:15
+19367_enter_Supplier_tr6;2023-07-19 08:12:51
+19371_enter_Supplier Loading Area_tr6;2023-07-19 09:18:37
+19372_enter_Supplier Loading Area_cr239;2023-07-19 09:18:37
+19379_enter_Terminal North_tr1;2023-07-19 10:31:53
+19380_enter_Terminal North_cr248;2023-07-19 10:31:53
+19382_enter_Terminal North_fl2;2023-07-19 10:31:53
+19384_enter_Truck Depot_tr1;2023-07-19 10:31:55
+19387_enter_Terminal North_tr4;2023-07-19 10:33:20
+19388_enter_Terminal North_cr253;2023-07-19 10:33:20
+19390_enter_Terminal North_fl3;2023-07-19 10:33:20
+19392_enter_Truck Depot_tr4;2023-07-19 10:33:29
+19395_enter_Storage_fl2;2023-07-19 10:40:52
+19396_enter_Storage_cr248;2023-07-19 10:40:52
+19399_enter_Storage_fl3;2023-07-19 10:41:33
+19400_enter_Storage_cr253;2023-07-19 10:41:33
+19401_enter_Terminal North_tr5;2023-07-19 10:44:32
+19402_enter_Terminal North_cr249;2023-07-19 10:44:32
+19404_enter_Terminal North_fl2;2023-07-19 10:44:32
+19406_enter_Truck Depot_tr5;2023-07-19 10:44:34
+19407_enter_Terminal North_tr2;2023-07-19 10:47:40
+19408_enter_Terminal North_cr247;2023-07-19 10:47:40
+19410_enter_Terminal North_fl3;2023-07-19 10:47:40
+19412_enter_Truck Depot_tr2;2023-07-19 10:47:45
+19415_enter_Storage_fl2;2023-07-19 10:48:05
+19416_enter_Storage_cr249;2023-07-19 10:48:05
+19419_enter_Storage_fl3;2023-07-19 10:50:23
+19420_enter_Storage_cr247;2023-07-19 10:50:23
+19421_enter_Terminal North_tr6;2023-07-19 11:31:15
+19422_enter_Terminal North_cr239;2023-07-19 11:31:15
+19424_enter_Terminal North_fl2;2023-07-19 11:31:15
+19426_enter_Truck Depot_tr6;2023-07-19 11:31:17
+19429_enter_Storage_fl2;2023-07-19 11:39:39
+19430_enter_Storage_cr239;2023-07-19 11:39:39
+19435_enter_Storage_fl3;2023-07-20 07:08:46
+19438_enter_Loading Bay_fl1;2023-07-20 07:08:46
+19439_enter_Storage_fl2;2023-07-20 07:08:46
+19442_enter_Loading Bay_fl3;2023-07-20 07:13:06
+19443_enter_Loading Bay_cr226;2023-07-20 07:13:06
+19446_enter_Loading Bay_fl2;2023-07-20 07:16:45
+19447_enter_Loading Bay_cr213;2023-07-20 07:16:45
+19449_enter_Storage_fl1;2023-07-20 07:17:10
+19453_enter_Loading Bay_fl1;2023-07-20 07:22:48
+19454_enter_Loading Bay_cr227;2023-07-20 07:22:48
+19456_enter_Storage_fl2;2023-07-20 07:23:16
+19459_enter_Loading Bay_fl2;2023-07-20 07:26:42
+19460_enter_Loading Bay_cr253;2023-07-20 07:26:42
+19462_enter_Storage_fl3;2023-07-20 07:28:46
+19465_enter_Loading Bay_fl3;2023-07-20 07:33:16
+19466_enter_Loading Bay_cr233;2023-07-20 07:33:16
+19467_enter_Supplier_tr4;2023-07-20 07:38:48
+19470_enter_Storage_fl3;2023-07-20 07:42:00
+19472_enter_Storage_fl1;2023-07-20 07:43:53
+19474_enter_Storage_fl2;2023-07-20 07:44:03
+19477_enter_Loading Bay_fl3;2023-07-20 07:46:15
+19478_enter_Loading Bay_cr248;2023-07-20 07:46:15
+19481_enter_Loading Bay_fl1;2023-07-20 07:49:11
+19482_enter_Loading Bay_cr232;2023-07-20 07:49:11
+19484_enter_Storage_fl3;2023-07-20 07:50:35
+19485_enter_Supplier_tr6;2023-07-20 07:51:43
+19489_enter_Loading Bay_fl2;2023-07-20 07:55:50
+19490_enter_Loading Bay_cr249;2023-07-20 07:55:50
+19492_enter_Storage_fl1;2023-07-20 07:57:51
+19493_enter_Supplier_tr2;2023-07-20 07:58:28
+19495_enter_Supplier_tr3;2023-07-20 08:23:47
+19499_enter_Loading Bay_fl3;2023-07-20 08:51:41
+19500_enter_Loading Bay_cr228;2023-07-20 08:51:41
+19502_enter_Storage_fl2;2023-07-20 09:06:30
+19505_enter_Loading Bay_fl1;2023-07-20 09:08:24
+19506_enter_Loading Bay_cr247;2023-07-20 09:08:24
+19509_enter_Loading Bay_fl2;2023-07-20 09:12:28
+19510_enter_Loading Bay_cr174;2023-07-20 09:12:28
+19512_enter_Storage_fl1;2023-07-20 09:12:34
+19514_enter_Storage_fl2;2023-07-20 09:13:21
+19515_enter_Supplier Loading Area_tr4;2023-07-20 09:14:33
+19516_enter_Supplier Loading Area_cr216;2023-07-20 09:14:33
+19519_enter_Loading Bay_fl2;2023-07-20 09:17:13
+19520_enter_Loading Bay_cr234;2023-07-20 09:17:13
+19523_enter_Loading Bay_fl1;2023-07-20 09:17:28
+19524_enter_Loading Bay_cr212;2023-07-20 09:17:28
+19526_enter_Storage_fl2;2023-07-20 09:17:59
+19529_enter_Loading Bay_fl2;2023-07-20 09:20:25
+19530_enter_Loading Bay_cr176;2023-07-20 09:20:25
+19532_enter_Storage_fl2;2023-07-20 09:23:00
+19535_enter_Loading Bay_fl2;2023-07-20 09:29:58
+19536_enter_Loading Bay_cr211;2023-07-20 09:29:58
+19537_enter_Supplier Loading Area_tr6;2023-07-20 09:41:52
+19538_enter_Supplier Loading Area_cr244;2023-07-20 09:41:52
+19539_enter_Supplier Loading Area_tr2;2023-07-20 09:53:27
+19540_enter_Supplier Loading Area_cr200;2023-07-20 09:53:27
+19541_enter_Supplier Loading Area_tr3;2023-07-20 10:53:03
+19542_enter_Supplier Loading Area_cr252;2023-07-20 10:53:03
+19549_enter_Terminal North_tr4;2023-07-20 11:23:17
+19550_enter_Terminal North_cr216;2023-07-20 11:23:17
+19552_enter_Terminal North_fl1;2023-07-20 11:23:17
+19554_enter_Truck Depot_tr4;2023-07-20 11:23:25
+19557_enter_Storage_fl1;2023-07-20 11:29:47
+19558_enter_Storage_cr216;2023-07-20 11:29:47
+19559_enter_Terminal North_tr6;2023-07-20 11:35:38
+19560_enter_Terminal North_cr244;2023-07-20 11:35:38
+19562_enter_Terminal North_fl1;2023-07-20 11:35:38
+19563_enter_Terminal South_tr2;2023-07-20 11:35:41
+19564_enter_Terminal South_cr200;2023-07-20 11:35:41
+19566_enter_Terminal South_fl3;2023-07-20 11:35:41
+19568_enter_Truck Depot_tr6;2023-07-20 11:35:43
+19570_enter_Truck Depot_tr2;2023-07-20 11:35:51
+19573_enter_Storage_fl1;2023-07-20 11:39:29
+19574_enter_Storage_cr244;2023-07-20 11:39:29
+19577_enter_Loading Bay_fl3;2023-07-20 11:45:12
+19578_enter_Loading Bay_cr200;2023-07-20 11:45:12
+19582_enter_Terminal North_tr3;2023-07-20 14:25:34
+19583_enter_Terminal North_cr252;2023-07-20 14:25:34
+19585_enter_Terminal North_fl1;2023-07-20 14:25:34
+19587_enter_Truck Depot_tr3;2023-07-20 14:25:40
+19590_enter_Storage_fl1;2023-07-20 14:30:58
+19591_enter_Storage_cr252;2023-07-20 14:30:58
+19592_enter_Supplier_tr6;2023-07-20 14:38:23
+19594_enter_Supplier Loading Area_tr6;2023-07-20 15:45:52
+19595_enter_Supplier Loading Area_cr255;2023-07-20 15:45:52
+19599_enter_Supplier_tr4;2023-07-21 07:32:43
+19602_enter_Supplier Loading Area_tr4;2023-07-21 09:18:10
+19603_enter_Supplier Loading Area_cr250;2023-07-21 09:18:10
+19606_enter_Terminal South_tr6;2023-07-21 09:38:26
+19607_enter_Terminal South_cr255;2023-07-21 09:38:26
+19609_enter_Terminal South_fl2;2023-07-21 09:38:26
+19611_enter_Truck Depot_tr6;2023-07-21 09:38:33
+19614_enter_Loading Bay_fl2;2023-07-21 09:51:50
+19615_enter_Loading Bay_cr255;2023-07-21 09:51:50
+19616_enter_Terminal North_tr4;2023-07-21 09:53:03
+19617_enter_Terminal North_cr250;2023-07-21 09:53:03
+19619_enter_Terminal North_fl1;2023-07-21 09:53:03
+19621_enter_Truck Depot_tr4;2023-07-21 09:53:19
+19624_enter_Storage_fl1;2023-07-21 09:58:52
+19625_enter_Storage_cr250;2023-07-21 09:58:52
+19626_enter_Supplier_tr2;2023-07-21 10:00:01
+19628_enter_Supplier Loading Area_tr2;2023-07-21 10:36:10
+19629_enter_Supplier Loading Area_cr204;2023-07-21 10:36:10
+19633_enter_Terminal North_tr2;2023-07-21 14:05:20
+19634_enter_Terminal North_cr204;2023-07-21 14:05:20
+19636_enter_Terminal North_fl1;2023-07-21 14:05:20
+19638_enter_Truck Depot_tr2;2023-07-21 14:05:28
+19641_enter_Storage_fl1;2023-07-21 14:16:02
+19642_enter_Storage_cr204;2023-07-21 14:16:02
+19644_enter_Supplier_tr3;2023-07-21 15:41:19
+19647_enter_Supplier Loading Area_tr3;2023-07-21 17:03:32
+19648_enter_Supplier Loading Area_cr258;2023-07-21 17:03:32
+19649_enter_Supplier_tr6;2023-07-21 18:14:44
+19655_enter_Loading Bay_vh26;2023-07-21 23:00:00
+19659_enter_Storage_fl1;2023-07-23 19:16:44
+19661_enter_Storage_fl3;2023-07-23 19:16:44
+19663_enter_Storage_fl2;2023-07-23 19:16:44
+19666_enter_Loading Bay_fl1;2023-07-24 07:20:18
+19667_enter_Loading Bay_cr204;2023-07-24 07:20:18
+19669_enter_Storage_fl1;2023-07-24 07:22:29
+19672_enter_Loading Bay_fl2;2023-07-24 07:25:13
+19673_enter_Loading Bay_cr199;2023-07-24 07:25:13
+19676_enter_Loading Bay_fl3;2023-07-24 07:28:52
+19677_enter_Loading Bay_cr202;2023-07-24 07:28:52
+19678_enter_Supplier_tr2;2023-07-24 07:32:08
+19681_enter_Storage_fl3;2023-07-24 07:35:14
+19684_enter_Loading Bay_fl1;2023-07-24 07:37:27
+19685_enter_Loading Bay_cr191;2023-07-24 07:37:27
+19686_enter_Supplier_tr5;2023-07-24 07:41:18
+19690_enter_Loading Bay_fl3;2023-07-24 07:42:19
+19691_enter_Loading Bay_cr192;2023-07-24 07:42:19
+19692_enter_Terminal North_tr3;2023-07-24 07:42:40
+19693_enter_Terminal North_cr258;2023-07-24 07:42:40
+19695_enter_Terminal North_fl2;2023-07-24 07:48:35
+19697_enter_Truck Depot_tr3;2023-07-24 07:49:02
+19699_enter_Supplier_tr1;2023-07-24 07:52:46
+19702_enter_Storage_fl1;2023-07-24 07:53:08
+19704_enter_Storage_fl3;2023-07-24 07:54:43
+19705_enter_Supplier_tr4;2023-07-24 08:02:52
+19707_enter_Supplier Loading Area_tr6;2023-07-24 08:16:01
+19708_enter_Supplier Loading Area_cr245;2023-07-24 08:16:01
+19709_enter_Supplier_tr3;2023-07-24 08:51:39
+19713_enter_Loading Bay_fl3;2023-07-24 08:55:59
+19714_enter_Loading Bay_cr193;2023-07-24 08:55:59
+19717_enter_Loading Bay_fl1;2023-07-24 08:56:35
+19718_enter_Loading Bay_cr190;2023-07-24 08:56:35
+19721_enter_Storage_fl2;2023-07-24 08:58:36
+19722_enter_Storage_cr258;2023-07-24 08:58:36
+19724_enter_Storage_fl2;2023-07-24 08:58:36
+19725_enter_Supplier Loading Area_tr2;2023-07-24 09:08:32
+19726_enter_Supplier Loading Area_cr262;2023-07-24 09:08:32
+19729_enter_Supplier Loading Area_tr5;2023-07-24 09:27:30
+19730_enter_Supplier Loading Area_cr254;2023-07-24 09:27:30
+19735_enter_Supplier Loading Area_tr1;2023-07-24 09:50:07
+19736_enter_Supplier Loading Area_cr261;2023-07-24 09:50:07
+19739_enter_Loading Bay_fl2;2023-07-24 10:01:49
+19740_enter_Loading Bay_cr258;2023-07-24 10:01:49
+19741_enter_Supplier Loading Area_tr3;2023-07-24 10:19:20
+19742_enter_Supplier Loading Area_cr257;2023-07-24 10:19:20
+19745_enter_Terminal North_tr2;2023-07-24 10:26:06
+19746_enter_Terminal North_cr262;2023-07-24 10:26:06
+19748_enter_Terminal North_fl3;2023-07-24 10:26:06
+19750_enter_Truck Depot_tr2;2023-07-24 10:26:09
+19754_enter_Storage_fl3;2023-07-24 10:31:11
+19755_enter_Storage_cr262;2023-07-24 10:31:11
+19756_enter_Supplier Loading Area_tr4;2023-07-24 10:34:54
+19757_enter_Supplier Loading Area_cr251;2023-07-24 10:34:54
+19758_enter_Supplier_tr2;2023-07-24 10:37:29
+19760_enter_Terminal South_tr3;2023-07-24 10:40:28
+19761_enter_Terminal South_cr257;2023-07-24 10:40:28
+19763_enter_Terminal South_fl1;2023-07-24 10:40:28
+19765_enter_Truck Depot_tr3;2023-07-24 10:40:34
+19767_enter_Terminal South_tr5;2023-07-24 10:45:53
+19768_enter_Terminal South_cr254;2023-07-24 10:45:53
+19770_enter_Terminal South_fl2;2023-07-24 10:45:53
+19772_enter_Truck Depot_tr5;2023-07-24 10:46:08
+19776_enter_Loading Bay_fl1;2023-07-24 10:47:37
+19777_enter_Loading Bay_cr257;2023-07-24 10:47:37
+19778_enter_Supplier_tr3;2023-07-24 10:49:25
+19780_enter_Supplier_tr5;2023-07-24 10:53:51
+19786_enter_Loading Bay_fl2;2023-07-24 10:59:35
+19787_enter_Loading Bay_cr254;2023-07-24 10:59:35
+19790_enter_Terminal North_tr6;2023-07-24 11:18:51
+19791_enter_Terminal North_cr245;2023-07-24 11:18:51
+19793_enter_Terminal North_fl3;2023-07-24 11:18:51
+19795_enter_Truck Depot_tr6;2023-07-24 11:18:57
+19797_enter_Terminal North_tr1;2023-07-24 11:19:30
+19798_enter_Terminal North_cr261;2023-07-24 11:19:30
+19800_enter_Terminal North_fl1;2023-07-24 11:19:30
+19802_enter_Truck Depot_tr1;2023-07-24 11:19:35
+19806_enter_Storage_fl1;2023-07-24 11:25:04
+19807_enter_Storage_cr261;2023-07-24 11:25:04
+19809_enter_Storage_fl1;2023-07-24 11:25:04
+19812_enter_Storage_fl3;2023-07-24 11:25:21
+19813_enter_Storage_cr245;2023-07-24 11:25:21
+19814_enter_Supplier_tr1;2023-07-24 11:25:45
+19818_enter_Loading Bay_fl1;2023-07-24 11:28:56
+19819_enter_Loading Bay_cr261;2023-07-24 11:28:56
+19820_enter_Supplier_tr6;2023-07-24 11:34:31
+19822_enter_Supplier Loading Area_tr1;2023-07-24 11:58:04
+19823_enter_Supplier Loading Area_cr264;2023-07-24 11:58:04
+19824_enter_Supplier Loading Area_tr3;2023-07-24 12:11:44
+19825_enter_Supplier Loading Area_cr263;2023-07-24 12:11:44
+19826_enter_Supplier Loading Area_tr6;2023-07-24 13:43:13
+19827_enter_Supplier Loading Area_cr266;2023-07-24 13:43:13
+19828_enter_Terminal North_tr4;2023-07-24 14:00:52
+19829_enter_Terminal North_cr251;2023-07-24 14:00:52
+19831_enter_Terminal North_fl3;2023-07-24 14:00:52
+19833_enter_Truck Depot_tr4;2023-07-24 14:00:57
+19837_enter_Storage_fl3;2023-07-24 14:06:21
+19838_enter_Storage_cr251;2023-07-24 14:06:21
+19839_enter_Supplier_tr4;2023-07-24 14:10:56
+19841_enter_Supplier Loading Area_tr2;2023-07-24 14:24:13
+19842_enter_Supplier Loading Area_cr240;2023-07-24 14:24:13
+19845_enter_Supplier Loading Area_tr4;2023-07-24 14:42:37
+19846_enter_Supplier Loading Area_cr267;2023-07-24 14:42:37
+19847_enter_Supplier Loading Area_tr5;2023-07-24 14:58:57
+19848_enter_Supplier Loading Area_cr219;2023-07-24 14:58:57
+19853_enter_Terminal North_tr3;2023-07-24 16:16:01
+19854_enter_Terminal North_cr263;2023-07-24 16:16:01
+19856_enter_Terminal North_fl3;2023-07-24 16:16:01
+19858_enter_Truck Depot_tr3;2023-07-24 16:16:13
+19861_enter_Storage_fl3;2023-07-24 16:21:11
+19862_enter_Storage_cr263;2023-07-24 16:21:11
+19863_enter_Terminal South_tr2;2023-07-24 16:24:59
+19864_enter_Terminal South_cr240;2023-07-24 16:24:59
+19866_enter_Terminal South_fl2;2023-07-24 16:24:59
+19868_enter_Truck Depot_tr2;2023-07-24 16:25:11
+19871_enter_Loading Bay_fl2;2023-07-24 16:37:06
+19872_enter_Loading Bay_cr240;2023-07-24 16:37:06
+19877_enter_Terminal North_tr1;2023-07-24 17:09:11
+19878_enter_Terminal North_cr264;2023-07-24 17:09:11
+19880_enter_Terminal North_fl3;2023-07-24 17:09:11
+19882_enter_Truck Depot_tr1;2023-07-24 17:09:50
+19887_enter_Storage_fl3;2023-07-24 17:51:26
+19888_enter_Storage_cr264;2023-07-24 17:51:26
+19889_enter_Terminal South_tr4;2023-07-24 17:55:28
+19890_enter_Terminal South_cr267;2023-07-24 17:55:28
+19892_enter_Terminal South_fl1;2023-07-24 17:55:28
+19894_enter_Truck Depot_tr4;2023-07-24 17:55:34
+19896_enter_Terminal North_tr6;2023-07-24 18:34:46
+19897_enter_Terminal North_cr266;2023-07-24 18:34:46
+19899_enter_Terminal North_fl3;2023-07-24 18:34:46
+19901_enter_Truck Depot_tr6;2023-07-24 18:35:12
+19902_enter_Supplier_tr3;2023-07-25 07:46:35
+19906_enter_Storage_fl3;2023-07-25 07:54:54
+19907_enter_Storage_cr266;2023-07-25 07:54:54
+19908_enter_Terminal South_tr5;2023-07-25 07:57:38
+19909_enter_Terminal South_cr219;2023-07-25 07:57:38
+19911_enter_Terminal South_fl2;2023-07-25 07:57:38
+19913_enter_Truck Depot_tr5;2023-07-25 07:57:57
+19916_enter_Loading Bay_fl1;2023-07-25 08:16:25
+19917_enter_Loading Bay_cr267;2023-07-25 08:16:25
+19920_enter_Loading Bay_fl2;2023-07-25 09:06:32
+19921_enter_Loading Bay_cr219;2023-07-25 09:06:32
+19922_enter_Supplier Loading Area_tr3;2023-07-25 09:32:02
+19923_enter_Supplier Loading Area_cr265;2023-07-25 09:32:02
+19926_enter_Terminal South_tr3;2023-07-25 10:57:12
+19927_enter_Terminal South_cr265;2023-07-25 10:57:12
+19929_enter_Terminal South_fl1;2023-07-25 10:57:12
+19931_enter_Truck Depot_tr3;2023-07-25 10:57:20
+19934_enter_Loading Bay_vh27;2023-07-25 11:00:00
+19936_enter_Supplier_tr2;2023-07-25 11:26:56
+19938_enter_Supplier Loading Area_tr2;2023-07-25 11:55:52
+19939_enter_Supplier Loading Area_cr273;2023-07-25 11:55:52
+19940_enter_Supplier_tr6;2023-07-25 12:13:02
+19947_enter_Loading Bay_fl1;2023-07-25 14:08:16
+19948_enter_Loading Bay_cr265;2023-07-25 14:08:16
+19949_enter_Terminal South_tr2;2023-07-25 14:45:11
+19950_enter_Terminal South_cr273;2023-07-25 14:45:11
+19952_enter_Terminal South_fl2;2023-07-25 14:45:11
+19954_enter_Truck Depot_tr2;2023-07-25 14:45:13
+19957_enter_Loading Bay_fl2;2023-07-25 14:52:39
+19958_enter_Loading Bay_cr273;2023-07-25 14:52:39
+19959_enter_Supplier_tr4;2023-07-25 15:01:10
+19961_enter_Supplier Loading Area_tr6;2023-07-25 15:24:15
+19962_enter_Supplier Loading Area_cr276;2023-07-25 15:24:15
+19963_enter_Supplier Loading Area_tr4;2023-07-25 15:30:03
+19964_enter_Supplier Loading Area_cr269;2023-07-25 15:30:03
+19969_enter_Terminal North_tr4;2023-07-25 15:54:19
+19970_enter_Terminal North_cr269;2023-07-25 15:54:19
+19972_enter_Terminal North_fl3;2023-07-25 15:54:19
+19974_enter_Truck Depot_tr4;2023-07-25 15:54:21
+19977_enter_Storage_fl3;2023-07-25 15:59:03
+19978_enter_Storage_cr269;2023-07-25 15:59:03
+19980_enter_Supplier_tr4;2023-07-25 16:47:56
+19982_enter_Terminal North_tr6;2023-07-25 16:50:20
+19983_enter_Terminal North_cr276;2023-07-25 16:50:20
+19985_enter_Terminal North_fl3;2023-07-25 16:50:20
+19987_enter_Truck Depot_tr6;2023-07-25 16:50:36
+19989_enter_Supplier_tr3;2023-07-25 17:45:40
+19993_enter_Storage_fl3;2023-07-25 17:54:30
+19994_enter_Storage_cr276;2023-07-25 17:54:30
+19995_enter_Supplier Loading Area_tr4;2023-07-25 18:57:05
+19996_enter_Supplier Loading Area_cr272;2023-07-25 18:57:05
+19998_enter_Supplier_tr6;2023-07-26 07:51:02
+20000_enter_Supplier Loading Area_tr3;2023-07-26 08:23:45
+20001_enter_Supplier Loading Area_cr259;2023-07-26 08:23:45
+20004_enter_Terminal North_tr4;2023-07-26 08:57:28
+20005_enter_Terminal North_cr272;2023-07-26 08:57:28
+20007_enter_Terminal North_fl3;2023-07-26 08:57:28
+20009_enter_Truck Depot_tr4;2023-07-26 08:57:51
+20010_enter_Supplier Loading Area_tr6;2023-07-26 09:38:43
+20011_enter_Supplier Loading Area_cr246;2023-07-26 09:38:43
+20014_enter_Storage_fl3;2023-07-26 10:59:33
+20015_enter_Storage_cr272;2023-07-26 10:59:33
+20020_enter_Terminal South_tr6;2023-07-26 12:13:33
+20021_enter_Terminal South_cr246;2023-07-26 12:13:33
+20023_enter_Terminal South_fl1;2023-07-26 12:13:33
+20024_enter_Terminal North_tr3;2023-07-26 13:04:36
+20025_enter_Terminal North_cr259;2023-07-26 13:04:36
+20027_enter_Terminal North_fl3;2023-07-26 13:04:36
+20029_enter_Truck Depot_tr3;2023-07-26 13:04:38
+20032_enter_Storage_fl3;2023-07-26 13:12:51
+20033_enter_Storage_cr259;2023-07-26 13:12:51
+20035_enter_Truck Depot_tr6;2023-07-26 13:13:43
+20038_enter_Loading Bay_fl1;2023-07-26 13:29:09
+20039_enter_Loading Bay_cr246;2023-07-26 13:29:09
+20042_enter_Supplier_tr6;2023-07-26 16:22:31
+20044_enter_Supplier_tr4;2023-07-26 16:25:19
+20046_enter_Supplier Loading Area_tr4;2023-07-26 17:30:22
+20047_enter_Supplier Loading Area_cr282;2023-07-26 17:30:22
+20050_enter_Storage_fl2;2023-07-27 00:12:03
+20051_enter_Storage_fl3;2023-07-27 00:12:03
+20053_enter_Storage_fl1;2023-07-27 00:12:03
+20056_enter_Loading Bay_fl2;2023-07-27 07:16:36
+20057_enter_Loading Bay_cr209;2023-07-27 07:16:36
+20060_enter_Loading Bay_fl1;2023-07-27 07:19:19
+20061_enter_Loading Bay_cr239;2023-07-27 07:19:19
+20063_enter_Storage_fl1;2023-07-27 07:24:08
+20066_enter_Loading Bay_fl3;2023-07-27 07:25:40
+20067_enter_Loading Bay_cr207;2023-07-27 07:25:40
+20070_enter_Loading Bay_fl1;2023-07-27 07:27:06
+20071_enter_Loading Bay_cr217;2023-07-27 07:27:06
+20073_enter_Storage_fl3;2023-07-27 07:27:15
+20075_enter_Storage_fl2;2023-07-27 07:27:34
+20078_enter_Loading Bay_fl3;2023-07-27 07:30:45
+20079_enter_Loading Bay_cr215;2023-07-27 07:30:45
+20082_enter_Loading Bay_fl2;2023-07-27 07:31:24
+20083_enter_Loading Bay_cr188;2023-07-27 07:31:24
+20085_enter_Storage_fl1;2023-07-27 07:34:44
+20089_enter_Loading Bay_fl1;2023-07-27 07:37:44
+20090_enter_Loading Bay_cr189;2023-07-27 07:37:44
+20092_enter_Storage_fl1;2023-07-27 07:39:24
+20094_enter_Storage_fl3;2023-07-27 07:39:26
+20096_enter_Storage_fl2;2023-07-27 07:43:05
+20099_enter_Loading Bay_fl1;2023-07-27 07:47:02
+20100_enter_Loading Bay_cr276;2023-07-27 07:47:02
+20101_enter_Supplier_tr5;2023-07-27 07:47:32
+20105_enter_Loading Bay_fl3;2023-07-27 07:48:05
+20106_enter_Loading Bay_cr216;2023-07-27 07:48:05
+20111_enter_Loading Bay_fl2;2023-07-27 07:54:58
+20112_enter_Loading Bay_cr238;2023-07-27 07:54:58
+20114_enter_Supplier_tr1;2023-07-27 08:40:25
+20116_enter_Supplier Loading Area_tr6;2023-07-27 09:09:02
+20117_enter_Supplier Loading Area_cr280;2023-07-27 09:09:02
+20120_enter_Terminal North_tr6;2023-07-27 09:41:57
+20121_enter_Terminal North_cr280;2023-07-27 09:41:57
+20123_enter_Terminal North_fl3;2023-07-27 09:41:57
+20125_enter_Truck Depot_tr6;2023-07-27 09:42:03
+20128_enter_Storage_fl3;2023-07-27 09:48:02
+20129_enter_Storage_cr280;2023-07-27 09:48:02
+20131_enter_Storage_fl1;2023-07-27 09:48:02
+20134_enter_Loading Bay_fl1;2023-07-27 09:50:00
+20135_enter_Loading Bay_cr280;2023-07-27 09:50:00
+20136_enter_Supplier Loading Area_tr1;2023-07-27 09:59:03
+20137_enter_Supplier Loading Area_cr288;2023-07-27 09:59:03
+20138_enter_Terminal South_tr4;2023-07-27 10:15:19
+20139_enter_Terminal South_cr282;2023-07-27 10:15:19
+20141_enter_Terminal South_fl2;2023-07-27 10:15:19
+20143_enter_Truck Depot_tr4;2023-07-27 10:15:27
+20146_enter_Loading Bay_fl2;2023-07-27 10:19:55
+20147_enter_Loading Bay_cr282;2023-07-27 10:19:55
+20150_enter_Supplier Loading Area_tr5;2023-07-27 10:59:07
+20151_enter_Supplier Loading Area_cr283;2023-07-27 10:59:07
+20152_enter_Terminal North_tr1;2023-07-27 11:43:48
+20153_enter_Terminal North_cr288;2023-07-27 11:43:48
+20155_enter_Terminal North_fl3;2023-07-27 11:43:48
+20157_enter_Truck Depot_tr1;2023-07-27 11:43:50
+20160_enter_Storage_fl3;2023-07-27 11:54:59
+20161_enter_Storage_cr288;2023-07-27 11:54:59
+20163_enter_Storage_fl1;2023-07-27 11:54:59
+20166_enter_Loading Bay_fl1;2023-07-27 11:57:54
+20167_enter_Loading Bay_cr288;2023-07-27 11:57:54
+20170_enter_Terminal North_tr5;2023-07-27 14:47:49
+20171_enter_Terminal North_cr283;2023-07-27 14:47:49
+20173_enter_Terminal North_fl3;2023-07-27 14:47:49
+20175_enter_Truck Depot_tr5;2023-07-27 14:47:53
+20178_enter_Storage_fl3;2023-07-27 14:57:44
+20179_enter_Storage_cr283;2023-07-27 14:57:44
+20181_enter_Storage_fl3;2023-07-27 14:57:44
+20184_enter_Loading Bay_fl3;2023-07-27 16:02:28
+20185_enter_Loading Bay_cr283;2023-07-27 16:02:28
+20187_enter_Supplier_tr2;2023-07-27 17:48:41
+20190_enter_Supplier_tr5;2023-07-28 08:01:06
+20192_enter_Supplier Loading Area_tr5;2023-07-28 09:07:30
+20193_enter_Supplier Loading Area_cr292;2023-07-28 09:07:30
+20195_enter_Supplier_tr1;2023-07-28 09:52:55
+20197_enter_Supplier Loading Area_tr2;2023-07-28 10:52:54
+20198_enter_Supplier Loading Area_cr270;2023-07-28 10:52:54
+20203_enter_Supplier_tr6;2023-07-28 11:48:35
+20206_enter_Supplier_tr3;2023-07-28 13:29:37
+20208_enter_Supplier Loading Area_tr1;2023-07-28 14:02:49
+20209_enter_Supplier Loading Area_cr271;2023-07-28 14:02:49
+20210_enter_Terminal North_tr5;2023-07-28 14:13:17
+20211_enter_Terminal North_cr292;2023-07-28 14:13:17
+20213_enter_Terminal North_fl1;2023-07-28 14:13:17
+20215_enter_Truck Depot_tr5;2023-07-28 14:13:23
+20216_enter_Supplier Loading Area_tr6;2023-07-28 14:20:06
+20217_enter_Supplier Loading Area_cr296;2023-07-28 14:20:06
+20222_enter_Storage_fl1;2023-07-28 14:21:46
+20223_enter_Storage_cr292;2023-07-28 14:21:46
+20226_enter_Terminal South_tr1;2023-07-28 14:38:43
+20227_enter_Terminal South_cr271;2023-07-28 14:38:43
+20229_enter_Terminal South_fl2;2023-07-28 14:38:43
+20231_enter_Truck Depot_tr1;2023-07-28 14:38:50
+20232_enter_Supplier Loading Area_tr3;2023-07-28 14:41:00
+20233_enter_Supplier Loading Area_cr256;2023-07-28 14:41:00
+20236_enter_Loading Bay_fl2;2023-07-28 14:44:26
+20237_enter_Loading Bay_cr271;2023-07-28 14:44:26
+20240_enter_Terminal North_tr2;2023-07-28 15:30:28
+20241_enter_Terminal North_cr270;2023-07-28 15:30:28
+20243_enter_Terminal North_fl1;2023-07-28 15:30:28
+20245_enter_Truck Depot_tr2;2023-07-28 15:30:36
+20248_enter_Storage_fl1;2023-07-28 15:42:57
+20249_enter_Storage_cr270;2023-07-28 15:42:57
+20252_enter_Terminal North_tr6;2023-07-28 16:10:37
+20253_enter_Terminal North_cr296;2023-07-28 16:10:37
+20255_enter_Terminal North_fl1;2023-07-28 16:10:37
+20257_enter_Truck Depot_tr6;2023-07-28 16:10:56
+20258_enter_Terminal North_tr3;2023-07-28 16:28:24
+20259_enter_Terminal North_cr256;2023-07-28 16:28:24
+20261_enter_Terminal North_fl2;2023-07-28 16:28:24
+20263_enter_Truck Depot_tr3;2023-07-28 16:28:34
+20266_enter_Storage_fl1;2023-07-28 16:28:35
+20267_enter_Storage_cr296;2023-07-28 16:28:35
+20270_enter_Storage_fl2;2023-07-28 16:33:39
+20271_enter_Storage_cr256;2023-07-28 16:33:39
+20273_enter_Loading Bay_vh28;2023-07-28 23:00:00
+20280_enter_Storage_fl1;2023-07-30 22:24:26
+20283_enter_Storage_fl2;2023-07-30 22:24:26
+20284_enter_Storage_fl3;2023-07-30 22:24:26
+20285_enter_Supplier_tr1;2023-07-31 07:20:23
+20287_enter_Supplier_tr5;2023-07-31 07:22:04
+20291_enter_Loading Bay_fl2;2023-07-31 07:27:50
+20292_enter_Loading Bay_cr230;2023-07-31 07:27:50
+20295_enter_Loading Bay_fl1;2023-07-31 07:29:02
+20296_enter_Loading Bay_cr263;2023-07-31 07:29:02
+20299_enter_Loading Bay_fl3;2023-07-31 07:33:08
+20300_enter_Loading Bay_cr264;2023-07-31 07:33:08
+20302_enter_Storage_fl1;2023-07-31 07:37:48
+20303_enter_Supplier_tr4;2023-07-31 07:47:41
+20306_enter_Storage_fl2;2023-07-31 07:48:12
+20308_enter_Storage_fl3;2023-07-31 07:53:14
+20311_enter_Loading Bay_fl1;2023-07-31 07:53:30
+20312_enter_Loading Bay_cr296;2023-07-31 07:53:30
+20313_enter_Supplier_tr2;2023-07-31 07:55:30
+20317_enter_Loading Bay_fl2;2023-07-31 07:56:56
+20318_enter_Loading Bay_cr256;2023-07-31 07:56:56
+20319_enter_Supplier_tr3;2023-07-31 08:07:39
+20321_enter_Supplier_tr6;2023-07-31 08:22:39
+20323_enter_Supplier Loading Area_tr1;2023-07-31 08:45:30
+20324_enter_Supplier Loading Area_cr260;2023-07-31 08:45:30
+20325_enter_Supplier Loading Area_tr5;2023-07-31 08:48:19
+20326_enter_Supplier Loading Area_cr286;2023-07-31 08:48:19
+20329_enter_Loading Bay_fl3;2023-07-31 09:00:33
+20330_enter_Loading Bay_cr270;2023-07-31 09:00:33
+20331_enter_Supplier Loading Area_tr3;2023-07-31 09:14:15
+20332_enter_Supplier Loading Area_cr277;2023-07-31 09:14:15
+20333_enter_Supplier Loading Area_tr6;2023-07-31 09:35:56
+20334_enter_Supplier Loading Area_cr268;2023-07-31 09:35:56
+20335_enter_Supplier Loading Area_tr4;2023-07-31 09:39:08
+20336_enter_Supplier Loading Area_cr285;2023-07-31 09:39:08
+20337_enter_Supplier Loading Area_tr2;2023-07-31 09:54:43
+20338_enter_Supplier Loading Area_cr275;2023-07-31 09:54:43
+20345_enter_Terminal North_tr6;2023-07-31 13:46:31
+20346_enter_Terminal North_cr268;2023-07-31 13:46:31
+20348_enter_Terminal North_fl3;2023-07-31 13:46:31
+20350_enter_Truck Depot_tr6;2023-07-31 13:46:50
+20354_enter_Supplier_tr6;2023-07-31 13:53:17
+20358_enter_Storage_fl3;2023-07-31 13:54:24
+20359_enter_Storage_cr268;2023-07-31 13:54:24
+20360_enter_Terminal North_tr3;2023-07-31 13:56:24
+20361_enter_Terminal North_cr277;2023-07-31 13:56:24
+20363_enter_Terminal North_fl3;2023-07-31 13:56:24
+20365_enter_Truck Depot_tr3;2023-07-31 13:56:31
+20366_enter_Terminal North_tr4;2023-07-31 14:37:35
+20367_enter_Terminal North_cr285;2023-07-31 14:37:35
+20369_enter_Terminal North_fl2;2023-07-31 14:37:35
+20371_enter_Truck Depot_tr4;2023-07-31 14:37:39
+20374_enter_Storage_fl2;2023-07-31 14:48:18
+20375_enter_Storage_cr285;2023-07-31 14:48:18
+20376_enter_Supplier Loading Area_tr6;2023-07-31 15:20:13
+20377_enter_Supplier Loading Area_cr274;2023-07-31 15:20:13
+20378_enter_Terminal North_tr2;2023-07-31 15:42:16
+20379_enter_Terminal North_cr275;2023-07-31 15:42:16
+20381_enter_Terminal North_fl2;2023-07-31 15:42:16
+20383_enter_Truck Depot_tr2;2023-07-31 15:42:25
+20392_enter_Storage_fl2;2023-07-31 15:57:24
+20393_enter_Storage_cr275;2023-07-31 15:57:24
+20394_enter_Supplier_tr3;2023-07-31 15:59:59
+20398_enter_Storage_fl3;2023-07-31 16:00:02
+20399_enter_Storage_cr277;2023-07-31 16:00:02
+20400_enter_Supplier_tr2;2023-07-31 16:52:40
+20402_enter_Terminal North_tr1;2023-07-31 16:58:26
+20403_enter_Terminal North_cr260;2023-07-31 16:58:26
+20405_enter_Terminal North_fl2;2023-07-31 16:58:26
+20407_enter_Truck Depot_tr1;2023-07-31 16:58:35
+20409_enter_Terminal North_tr5;2023-07-31 18:36:01
+20410_enter_Terminal North_cr286;2023-07-31 18:36:01
+20412_enter_Terminal North_fl3;2023-07-31 18:36:01
+20414_enter_Truck Depot_tr5;2023-07-31 18:37:12
+20417_enter_Storage_fl2;2023-07-31 18:42:13
+20418_enter_Storage_cr260;2023-07-31 18:42:13
+20419_enter_Supplier_tr4;2023-07-31 18:42:37
+20427_enter_Storage_fl3;2023-08-01 07:40:16
+20428_enter_Storage_cr286;2023-08-01 07:40:16
+20429_enter_Supplier Loading Area_tr2;2023-08-01 07:58:19
+20430_enter_Supplier Loading Area_cr301;2023-08-01 07:58:19
+20431_enter_Terminal South_tr6;2023-08-01 08:03:45
+20432_enter_Terminal South_cr274;2023-08-01 08:03:45
+20434_enter_Terminal South_fl1;2023-08-01 08:03:45
+20436_enter_Truck Depot_tr6;2023-08-01 08:04:16
+20438_enter_Supplier_tr5;2023-08-01 08:15:01
+20440_enter_Supplier_tr6;2023-08-01 08:21:34
+20442_enter_Supplier_tr1;2023-08-01 08:23:44
+20446_enter_Loading Bay_fl1;2023-08-01 08:32:51
+20447_enter_Loading Bay_cr274;2023-08-01 08:32:51
+20448_enter_Supplier Loading Area_tr4;2023-08-01 09:02:05
+20449_enter_Supplier Loading Area_cr287;2023-08-01 09:02:05
+20450_enter_Supplier Loading Area_tr5;2023-08-01 09:33:36
+20451_enter_Supplier Loading Area_cr304;2023-08-01 09:33:36
+20452_enter_Supplier Loading Area_tr1;2023-08-01 09:46:20
+20453_enter_Supplier Loading Area_cr294;2023-08-01 09:46:20
+20454_enter_Supplier Loading Area_tr3;2023-08-01 09:59:05
+20455_enter_Supplier Loading Area_cr302;2023-08-01 09:59:05
+20457_enter_Loading Bay_vh29;2023-08-01 11:00:00
+20460_enter_Supplier Loading Area_tr6;2023-08-01 11:32:32
+20461_enter_Supplier Loading Area_cr278;2023-08-01 11:32:32
+20462_enter_Terminal North_tr3;2023-08-01 13:28:54
+20463_enter_Terminal North_cr302;2023-08-01 13:28:54
+20465_enter_Terminal North_fl2;2023-08-01 13:28:54
+20467_enter_Truck Depot_tr3;2023-08-01 13:29:10
+20471_enter_Storage_fl2;2023-08-01 13:40:02
+20472_enter_Storage_cr302;2023-08-01 13:40:02
+20473_enter_Supplier_tr3;2023-08-01 14:29:31
+20475_enter_Supplier Loading Area_tr3;2023-08-01 15:39:58
+20476_enter_Supplier Loading Area_cr279;2023-08-01 15:39:58
+20481_enter_Terminal South_tr6;2023-08-02 08:33:26
+20482_enter_Terminal South_cr278;2023-08-02 08:33:26
+20484_enter_Terminal South_fl1;2023-08-02 08:33:26
+20486_enter_Truck Depot_tr6;2023-08-02 08:33:55
+20488_enter_Supplier_tr6;2023-08-02 08:53:00
+20494_enter_Terminal North_tr2;2023-08-02 09:39:25
+20495_enter_Terminal North_cr301;2023-08-02 09:39:25
+20497_enter_Terminal North_fl3;2023-08-02 09:39:25
+20499_enter_Truck Depot_tr2;2023-08-02 09:39:32
+20503_enter_Loading Bay_fl1;2023-08-02 09:43:12
+20504_enter_Loading Bay_cr278;2023-08-02 09:43:12
+20505_enter_Supplier_tr2;2023-08-02 09:47:44
+20509_enter_Storage_fl3;2023-08-02 09:48:01
+20510_enter_Storage_cr301;2023-08-02 09:48:01
+20511_enter_Terminal North_tr4;2023-08-02 10:08:12
+20512_enter_Terminal North_cr287;2023-08-02 10:08:12
+20514_enter_Terminal North_fl2;2023-08-02 10:08:12
+20516_enter_Truck Depot_tr4;2023-08-02 10:08:16
+20520_enter_Storage_fl2;2023-08-02 10:14:41
+20521_enter_Storage_cr287;2023-08-02 10:14:41
+20522_enter_Supplier_tr4;2023-08-02 10:22:00
+20524_enter_Supplier Loading Area_tr6;2023-08-02 10:30:21
+20525_enter_Supplier Loading Area_cr281;2023-08-02 10:30:21
+20526_enter_Supplier Loading Area_tr2;2023-08-02 11:16:18
+20527_enter_Supplier Loading Area_cr307;2023-08-02 11:16:18
+20528_enter_Supplier Loading Area_tr4;2023-08-02 11:24:42
+20529_enter_Supplier Loading Area_cr284;2023-08-02 11:24:42
+20530_enter_Terminal North_tr5;2023-08-02 11:33:15
+20531_enter_Terminal North_cr304;2023-08-02 11:33:15
+20533_enter_Terminal North_fl3;2023-08-02 11:33:15
+20535_enter_Truck Depot_tr5;2023-08-02 11:33:17
+20539_enter_Storage_fl3;2023-08-02 11:37:56
+20540_enter_Storage_cr304;2023-08-02 11:37:56
+20541_enter_Supplier_tr5;2023-08-02 11:43:29
+20545_enter_Supplier Loading Area_tr5;2023-08-02 14:14:30
+20546_enter_Supplier Loading Area_cr306;2023-08-02 14:14:30
+20547_enter_Terminal North_tr6;2023-08-02 14:49:00
+20548_enter_Terminal North_cr281;2023-08-02 14:49:00
+20550_enter_Terminal North_fl2;2023-08-02 14:49:00
+20552_enter_Truck Depot_tr6;2023-08-02 14:49:07
+20554_enter_Supplier_tr6;2023-08-02 14:56:27
+20562_enter_Terminal North_tr5;2023-08-02 15:43:24
+20563_enter_Terminal North_cr306;2023-08-02 15:43:24
+20565_enter_Terminal North_fl3;2023-08-02 15:43:24
+20567_enter_Truck Depot_tr5;2023-08-02 15:43:34
+20571_enter_Storage_fl3;2023-08-02 15:55:50
+20572_enter_Storage_cr306;2023-08-02 15:55:50
+20575_enter_Storage_fl2;2023-08-02 15:59:01
+20576_enter_Storage_cr281;2023-08-02 15:59:01
+20577_enter_Supplier_tr5;2023-08-02 15:59:33
+20579_enter_Supplier Loading Area_tr6;2023-08-02 16:33:34
+20580_enter_Supplier Loading Area_cr309;2023-08-02 16:33:34
+20581_enter_Terminal North_tr4;2023-08-02 16:42:03
+20582_enter_Terminal North_cr284;2023-08-02 16:42:03
+20584_enter_Terminal North_fl3;2023-08-02 16:42:03
+20586_enter_Truck Depot_tr4;2023-08-02 16:42:08
+20590_enter_Terminal North_tr3;2023-08-02 17:24:25
+20591_enter_Terminal North_cr279;2023-08-02 17:24:25
+20593_enter_Terminal North_fl2;2023-08-02 17:24:25
+20595_enter_Truck Depot_tr3;2023-08-02 17:24:57
+20597_enter_Supplier Loading Area_tr5;2023-08-02 17:49:24
+20598_enter_Supplier Loading Area_cr310;2023-08-02 17:49:24
+20599_enter_Supplier_tr3;2023-08-02 17:52:36
+20603_enter_Storage_fl3;2023-08-02 18:05:51
+20604_enter_Storage_cr284;2023-08-02 18:05:51
+20605_enter_Supplier_tr4;2023-08-02 18:22:44
+20609_enter_Storage_fl2;2023-08-02 19:03:48
+20610_enter_Storage_cr279;2023-08-02 19:03:48
+20612_enter_Storage_fl2;2023-08-03 02:33:57
+20614_enter_Storage_fl3;2023-08-03 02:33:57
+20616_enter_Storage_fl1;2023-08-03 02:33:57
+20619_enter_Loading Bay_fl1;2023-08-03 07:40:16
+20620_enter_Loading Bay_cr250;2023-08-03 07:40:16
+20623_enter_Loading Bay_fl2;2023-08-03 07:42:56
+20624_enter_Loading Bay_cr252;2023-08-03 07:42:56
+20628_enter_Storage_fl1;2023-08-03 07:43:42
+20631_enter_Loading Bay_fl3;2023-08-03 07:43:47
+20632_enter_Loading Bay_cr251;2023-08-03 07:43:47
+20634_enter_Storage_fl3;2023-08-03 07:49:47
+20637_enter_Loading Bay_fl1;2023-08-03 07:51:34
+20638_enter_Loading Bay_cr245;2023-08-03 07:51:34
+20640_enter_Storage_fl1;2023-08-03 07:54:47
+20643_enter_Loading Bay_fl1;2023-08-03 07:59:12
+20644_enter_Loading Bay_cr266;2023-08-03 07:59:12
+20645_enter_Supplier Loading Area_tr4;2023-08-03 08:39:19
+20646_enter_Supplier Loading Area_cr290;2023-08-03 08:39:19
+20648_enter_Storage_fl2;2023-08-03 08:46:55
+20651_enter_Loading Bay_fl3;2023-08-03 08:55:22
+20652_enter_Loading Bay_cr302;2023-08-03 08:55:22
+20655_enter_Loading Bay_fl2;2023-08-03 08:56:16
+20656_enter_Loading Bay_cr268;2023-08-03 08:56:16
+20657_enter_Supplier Loading Area_tr3;2023-08-03 08:58:19
+20658_enter_Supplier Loading Area_cr291;2023-08-03 08:58:19
+20660_enter_Storage_fl2;2023-08-03 08:58:36
+20662_enter_Storage_fl1;2023-08-03 09:07:01
+20663_enter_Terminal North_tr2;2023-08-03 09:15:57
+20664_enter_Terminal North_cr307;2023-08-03 09:15:57
+20667_enter_Loading Bay_fl1;2023-08-03 09:16:55
+20668_enter_Loading Bay_cr269;2023-08-03 09:16:55
+20670_enter_Storage_fl1;2023-08-03 09:25:39
+20673_enter_Loading Bay_fl1;2023-08-03 09:30:05
+20674_enter_Loading Bay_cr244;2023-08-03 09:30:05
+20676_enter_Storage_fl1;2023-08-03 09:41:44
+20679_enter_Loading Bay_fl1;2023-08-03 09:50:14
+20680_enter_Loading Bay_cr304;2023-08-03 09:50:14
+20682_enter_Terminal North_fl3;2023-08-03 09:57:46
+20684_enter_Truck Depot_tr2;2023-08-03 09:57:52
+20688_enter_Loading Bay_fl2;2023-08-03 10:01:48
+20689_enter_Loading Bay_cr301;2023-08-03 10:01:48
+20694_enter_Terminal North_tr6;2023-08-03 10:24:40
+20695_enter_Terminal North_cr309;2023-08-03 10:24:40
+20697_enter_Terminal North_fl2;2023-08-03 10:24:40
+20699_enter_Truck Depot_tr6;2023-08-03 10:24:43
+20702_enter_Storage_fl2;2023-08-03 10:28:14
+20703_enter_Storage_cr309;2023-08-03 10:28:14
+20705_enter_Storage_fl2;2023-08-03 10:28:14
+20710_enter_Loading Bay_fl2;2023-08-03 10:34:48
+20711_enter_Loading Bay_cr309;2023-08-03 10:34:48
+20712_enter_Supplier_tr2;2023-08-03 11:05:36
+20716_enter_Terminal North_tr4;2023-08-03 11:33:31
+20717_enter_Terminal North_cr290;2023-08-03 11:33:31
+20719_enter_Terminal North_fl2;2023-08-03 11:33:31
+20721_enter_Truck Depot_tr4;2023-08-03 11:33:45
+20722_enter_Terminal North_tr5;2023-08-03 11:34:24
+20723_enter_Terminal North_cr310;2023-08-03 11:34:24
+20725_enter_Terminal North_fl1;2023-08-03 11:34:24
+20727_enter_Truck Depot_tr5;2023-08-03 11:34:33
+20730_enter_Storage_fl1;2023-08-03 11:41:52
+20731_enter_Storage_cr310;2023-08-03 11:41:52
+20734_enter_Storage_fl2;2023-08-03 11:43:01
+20735_enter_Storage_cr290;2023-08-03 11:43:01
+20736_enter_Supplier Loading Area_tr2;2023-08-03 11:46:12
+20737_enter_Supplier Loading Area_cr293;2023-08-03 11:46:12
+20742_enter_Storage_fl3;2023-08-03 12:00:10
+20743_enter_Storage_cr307;2023-08-03 12:00:10
+20744_enter_Terminal North_tr1;2023-08-03 12:19:35
+20745_enter_Terminal North_cr294;2023-08-03 12:19:35
+20747_enter_Terminal North_fl1;2023-08-03 12:19:35
+20749_enter_Truck Depot_tr1;2023-08-03 13:19:40
+20752_enter_Storage_fl1;2023-08-03 13:27:29
+20753_enter_Storage_cr294;2023-08-03 13:27:29
+20754_enter_Terminal North_tr3;2023-08-03 13:56:05
+20755_enter_Terminal North_cr291;2023-08-03 13:56:05
+20757_enter_Terminal North_fl2;2023-08-03 13:56:05
+20759_enter_Truck Depot_tr3;2023-08-03 13:56:12
+20760_enter_Terminal North_tr2;2023-08-03 14:20:38
+20761_enter_Terminal North_cr293;2023-08-03 14:20:38
+20763_enter_Terminal North_fl3;2023-08-03 14:20:38
+20765_enter_Truck Depot_tr2;2023-08-03 14:20:46
+20768_enter_Storage_fl3;2023-08-03 14:33:32
+20769_enter_Storage_cr293;2023-08-03 14:33:32
+20772_enter_Storage_fl2;2023-08-03 14:58:16
+20773_enter_Storage_cr291;2023-08-03 14:58:16
+20776_enter_Supplier_tr4;2023-08-04 08:03:39
+20778_enter_Supplier_tr3;2023-08-04 08:13:13
+20780_enter_Supplier Loading Area_tr4;2023-08-04 09:28:00
+20781_enter_Supplier Loading Area_cr298;2023-08-04 09:28:00
+20782_enter_Supplier Loading Area_tr3;2023-08-04 09:40:33
+20783_enter_Supplier Loading Area_cr305;2023-08-04 09:40:33
+20790_enter_Supplier_tr5;2023-08-04 11:53:32
+20792_enter_Terminal North_tr3;2023-08-04 12:17:28
+20793_enter_Terminal North_cr305;2023-08-04 12:17:28
+20795_enter_Terminal North_fl1;2023-08-04 12:17:28
+20798_enter_Truck Depot_tr3;2023-08-04 13:17:32
+20801_enter_Storage_fl1;2023-08-04 13:26:56
+20802_enter_Storage_cr305;2023-08-04 13:26:56
+20803_enter_Supplier_tr6;2023-08-04 13:33:26
+20805_enter_Terminal South_tr4;2023-08-04 14:46:09
+20806_enter_Terminal South_cr298;2023-08-04 14:46:09
+20808_enter_Terminal South_fl3;2023-08-04 14:46:09
+20810_enter_Truck Depot_tr4;2023-08-04 14:46:18
+20811_enter_Supplier Loading Area_tr5;2023-08-04 14:49:58
+20812_enter_Supplier Loading Area_cr300;2023-08-04 14:49:58
+20818_enter_Loading Bay_fl3;2023-08-04 15:58:24
+20819_enter_Loading Bay_cr298;2023-08-04 15:58:24
+20820_enter_Supplier_tr1;2023-08-04 16:03:42
+20822_enter_Terminal North_tr5;2023-08-04 17:20:38
+20823_enter_Terminal North_cr300;2023-08-04 17:20:38
+20825_enter_Terminal North_fl2;2023-08-04 17:20:38
+20827_enter_Truck Depot_tr5;2023-08-04 17:21:20
+20828_enter_Supplier Loading Area_tr1;2023-08-04 17:23:19
+20829_enter_Supplier Loading Area_cr311;2023-08-04 17:23:19
+20830_enter_Supplier Loading Area_tr6;2023-08-04 17:31:12
+20831_enter_Supplier Loading Area_cr308;2023-08-04 17:31:12
+20837_enter_Storage_fl3;2023-08-07 01:52:02
+20839_enter_Storage_fl1;2023-08-07 01:52:02
+20840_enter_Supplier_tr2;2023-08-07 07:28:38
+20844_enter_Storage_fl2;2023-08-07 07:37:11
+20845_enter_Storage_cr300;2023-08-07 07:37:11
+20847_enter_Storage_fl2;2023-08-07 07:37:11
+20848_enter_Supplier_tr5;2023-08-07 07:40:39
+20852_enter_Loading Bay_fl2;2023-08-07 07:54:11
+20853_enter_Loading Bay_cr262;2023-08-07 07:54:11
+20856_enter_Loading Bay_fl1;2023-08-07 07:56:57
+20857_enter_Loading Bay_cr260;2023-08-07 07:56:57
+20862_enter_Loading Bay_fl3;2023-08-07 08:02:08
+20863_enter_Loading Bay_cr259;2023-08-07 08:02:08
+20864_enter_Supplier_tr4;2023-08-07 08:11:51
+20865_enter_Supplier_tr3;2023-08-07 08:12:11
+20869_enter_Storage_fl3;2023-08-07 08:15:31
+20872_enter_Loading Bay_fl3;2023-08-07 08:21:47
+20873_enter_Loading Bay_cr272;2023-08-07 08:21:47
+20875_enter_Storage_fl3;2023-08-07 08:43:20
+20877_enter_Storage_fl2;2023-08-07 09:11:18
+20879_enter_Storage_fl1;2023-08-07 09:11:59
+20882_enter_Loading Bay_fl1;2023-08-07 09:14:40
+20883_enter_Loading Bay_cr307;2023-08-07 09:14:40
+20886_enter_Loading Bay_fl2;2023-08-07 09:21:11
+20887_enter_Loading Bay_cr294;2023-08-07 09:21:11
+20888_enter_Supplier Loading Area_tr2;2023-08-07 09:26:42
+20889_enter_Supplier Loading Area_cr317;2023-08-07 09:26:42
+20890_enter_Supplier Loading Area_tr4;2023-08-07 09:32:03
+20891_enter_Supplier Loading Area_cr319;2023-08-07 09:32:03
+20892_enter_Supplier Loading Area_tr3;2023-08-07 09:34:06
+20893_enter_Supplier Loading Area_cr295;2023-08-07 09:34:06
+20894_enter_Terminal North_tr6;2023-08-07 09:42:43
+20895_enter_Terminal North_cr308;2023-08-07 09:42:43
+20897_enter_Terminal North_fl1;2023-08-07 09:42:43
+20899_enter_Truck Depot_tr6;2023-08-07 09:42:49
+20903_enter_Loading Bay_fl3;2023-08-07 09:43:29
+20904_enter_Loading Bay_cr306;2023-08-07 09:43:29
+20905_enter_Supplier Loading Area_tr5;2023-08-07 09:45:44
+20906_enter_Supplier Loading Area_cr313;2023-08-07 09:45:44
+20909_enter_Storage_fl1;2023-08-07 09:46:31
+20910_enter_Storage_cr308;2023-08-07 09:46:31
+20912_enter_Storage_fl2;2023-08-07 09:46:31
+20915_enter_Loading Bay_fl2;2023-08-07 09:49:20
+20916_enter_Loading Bay_cr308;2023-08-07 09:49:20
+20917_enter_Supplier_tr6;2023-08-07 09:51:55
+20921_enter_Terminal South_tr1;2023-08-07 10:31:01
+20922_enter_Terminal South_cr311;2023-08-07 10:31:01
+20924_enter_Terminal South_fl3;2023-08-07 10:31:01
+20926_enter_Truck Depot_tr1;2023-08-07 10:31:14
+20930_enter_Loading Bay_fl3;2023-08-07 10:43:08
+20931_enter_Loading Bay_cr311;2023-08-07 10:43:08
+20932_enter_Supplier Loading Area_tr6;2023-08-07 11:28:26
+20933_enter_Supplier Loading Area_cr315;2023-08-07 11:28:26
+20934_enter_Supplier_tr1;2023-08-07 11:35:00
+20936_enter_Supplier Loading Area_tr1;2023-08-07 13:59:56
+20937_enter_Supplier Loading Area_cr314;2023-08-07 13:59:56
+20946_enter_Terminal South_tr2;2023-08-07 18:39:09
+20947_enter_Terminal South_cr317;2023-08-07 18:39:09
+20949_enter_Terminal South_fl2;2023-08-07 18:39:09
+20951_enter_Truck Depot_tr2;2023-08-07 18:40:31
+20955_enter_Loading Bay_fl2;2023-08-08 07:53:56
+20956_enter_Loading Bay_cr317;2023-08-08 07:53:56
+20959_enter_Supplier_tr2;2023-08-08 07:59:16
+20961_enter_Terminal South_tr4;2023-08-08 08:50:09
+20962_enter_Terminal South_cr319;2023-08-08 08:50:09
+20964_enter_Terminal South_fl3;2023-08-08 08:50:09
+20966_enter_Truck Depot_tr4;2023-08-08 08:50:30
+20968_enter_Terminal North_tr3;2023-08-08 09:15:37
+20969_enter_Terminal North_cr295;2023-08-08 09:15:37
+20971_enter_Terminal North_fl1;2023-08-08 09:15:37
+20973_enter_Truck Depot_tr3;2023-08-08 09:15:39
+20977_enter_Storage_fl1;2023-08-08 09:20:56
+20978_enter_Storage_cr295;2023-08-08 09:20:56
+20980_enter_Storage_fl1;2023-08-08 09:20:56
+20983_enter_Loading Bay_fl1;2023-08-08 09:24:08
+20984_enter_Loading Bay_cr295;2023-08-08 09:24:08
+20985_enter_Supplier_tr3;2023-08-08 09:24:37
+20991_enter_Loading Bay_fl3;2023-08-08 09:52:46
+20992_enter_Loading Bay_cr319;2023-08-08 09:52:46
+20993_enter_Terminal South_tr1;2023-08-08 09:54:13
+20994_enter_Terminal South_cr314;2023-08-08 09:54:13
+20996_enter_Terminal South_fl2;2023-08-08 09:54:13
+20998_enter_Truck Depot_tr1;2023-08-08 09:54:24
+21000_enter_Supplier_tr4;2023-08-08 10:06:57
+21002_enter_Supplier Loading Area_tr2;2023-08-08 10:09:40
+21003_enter_Supplier Loading Area_cr324;2023-08-08 10:09:40
+21004_enter_Supplier Loading Area_tr3;2023-08-08 10:29:07
+21005_enter_Supplier Loading Area_cr316;2023-08-08 10:29:07
+21006_enter_Terminal North_tr6;2023-08-08 10:44:46
+21007_enter_Terminal North_cr315;2023-08-08 10:44:46
+21009_enter_Terminal North_fl1;2023-08-08 10:44:46
+21011_enter_Truck Depot_tr6;2023-08-08 10:44:55
+21013_enter_Supplier Loading Area_tr4;2023-08-08 10:47:39
+21014_enter_Supplier Loading Area_cr289;2023-08-08 10:47:39
+21017_enter_Storage_fl1;2023-08-08 10:51:57
+21018_enter_Storage_cr315;2023-08-08 10:51:57
+21019_enter_Supplier_tr1;2023-08-08 10:56:21
+21021_enter_Supplier_tr6;2023-08-08 10:56:59
+21023_enter_Terminal South_tr5;2023-08-08 10:59:57
+21024_enter_Terminal South_cr313;2023-08-08 10:59:57
+21026_enter_Terminal South_fl3;2023-08-08 10:59:57
+21030_enter_Loading Bay_fl2;2023-08-08 11:06:37
+21031_enter_Loading Bay_cr314;2023-08-08 11:06:37
+21033_enter_Truck Depot_tr5;2023-08-08 12:00:04
+21035_enter_Supplier Loading Area_tr1;2023-08-08 12:33:27
+21036_enter_Supplier Loading Area_cr328;2023-08-08 12:33:27
+21037_enter_Supplier Loading Area_tr6;2023-08-08 12:34:00
+21038_enter_Supplier Loading Area_cr329;2023-08-08 12:34:00
+21041_enter_Loading Bay_fl3;2023-08-08 13:20:56
+21042_enter_Loading Bay_cr313;2023-08-08 13:20:56
+21043_enter_Supplier_tr5;2023-08-08 13:31:22
+21047_enter_Supplier Loading Area_tr5;2023-08-08 14:48:37
+21048_enter_Supplier Loading Area_cr303;2023-08-08 14:48:37
+21049_enter_Terminal North_tr2;2023-08-08 14:52:11
+21050_enter_Terminal North_cr324;2023-08-08 14:52:11
+21052_enter_Terminal North_fl1;2023-08-08 14:52:11
+21054_enter_Truck Depot_tr2;2023-08-08 14:52:21
+21060_enter_Storage_fl1;2023-08-08 15:59:57
+21061_enter_Storage_cr324;2023-08-08 15:59:57
+21062_enter_Supplier_tr2;2023-08-08 16:00:42
+21064_enter_Supplier Loading Area_tr2;2023-08-08 16:52:12
+21065_enter_Supplier Loading Area_cr323;2023-08-08 16:52:12
+21066_enter_Terminal North_tr4;2023-08-08 16:54:16
+21067_enter_Terminal North_cr289;2023-08-08 16:54:16
+21069_enter_Terminal North_fl1;2023-08-08 16:54:16
+21071_enter_Truck Depot_tr4;2023-08-08 16:54:24
+21075_enter_Supplier_tr4;2023-08-08 17:59:36
+21079_enter_Storage_fl1;2023-08-08 18:07:47
+21080_enter_Storage_cr289;2023-08-08 18:07:47
+21083_enter_Supplier Loading Area_tr4;2023-08-09 08:22:44
+21084_enter_Supplier Loading Area_cr322;2023-08-09 08:22:44
+21085_enter_Terminal North_tr3;2023-08-09 09:54:12
+21086_enter_Terminal North_cr316;2023-08-09 09:54:12
+21088_enter_Terminal North_fl1;2023-08-09 09:54:12
+21090_enter_Truck Depot_tr3;2023-08-09 09:54:17
+21094_enter_Storage_fl1;2023-08-09 09:58:38
+21095_enter_Storage_cr316;2023-08-09 09:58:38
+21096_enter_Terminal North_tr1;2023-08-09 10:12:02
+21097_enter_Terminal North_cr328;2023-08-09 10:12:02
+21099_enter_Terminal North_fl1;2023-08-09 10:12:02
+21101_enter_Truck Depot_tr1;2023-08-09 10:12:05
+21105_enter_Storage_fl1;2023-08-09 10:21:19
+21106_enter_Storage_cr328;2023-08-09 10:21:19
+21108_enter_Storage_fl1;2023-08-09 10:21:19
+21109_enter_Supplier_tr1;2023-08-09 10:27:13
+21113_enter_Loading Bay_fl1;2023-08-09 10:28:28
+21114_enter_Loading Bay_cr328;2023-08-09 10:28:28
+21115_enter_Supplier_tr3;2023-08-09 11:06:12
+21119_enter_Supplier Loading Area_tr1;2023-08-09 11:35:26
+21120_enter_Supplier Loading Area_cr325;2023-08-09 11:35:26
+21121_enter_Terminal North_tr5;2023-08-09 11:38:38
+21122_enter_Terminal North_cr303;2023-08-09 11:38:38
+21124_enter_Terminal North_fl2;2023-08-09 11:38:38
+21126_enter_Truck Depot_tr5;2023-08-09 11:38:52
+21130_enter_Storage_fl2;2023-08-09 11:42:34
+21131_enter_Storage_cr303;2023-08-09 11:42:34
+21132_enter_Supplier Loading Area_tr3;2023-08-09 11:46:49
+21133_enter_Supplier Loading Area_cr321;2023-08-09 11:46:49
+21136_enter_Supplier_tr5;2023-08-09 13:39:22
+21138_enter_Terminal North_tr2;2023-08-09 14:04:03
+21139_enter_Terminal North_cr323;2023-08-09 14:04:03
+21141_enter_Terminal North_fl2;2023-08-09 14:04:03
+21143_enter_Truck Depot_tr2;2023-08-09 14:04:08
+21147_enter_Storage_fl2;2023-08-09 14:08:27
+21148_enter_Storage_cr323;2023-08-09 14:08:27
+21149_enter_Supplier_tr2;2023-08-09 14:24:09
+21155_enter_Supplier Loading Area_tr2;2023-08-09 15:29:24
+21156_enter_Supplier Loading Area_cr327;2023-08-09 15:29:24
+21157_enter_Terminal North_tr3;2023-08-09 16:04:51
+21158_enter_Terminal North_cr321;2023-08-09 16:04:51
+21160_enter_Terminal North_fl2;2023-08-09 16:04:51
+21162_enter_Truck Depot_tr3;2023-08-09 16:05:13
+21166_enter_Storage_fl2;2023-08-09 16:12:08
+21167_enter_Storage_cr321;2023-08-09 16:12:08
+21168_enter_Supplier_tr3;2023-08-09 16:15:28
+21170_enter_Terminal North_tr6;2023-08-09 16:55:15
+21171_enter_Terminal North_cr329;2023-08-09 16:55:15
+21173_enter_Terminal North_fl2;2023-08-09 16:55:15
+21175_enter_Truck Depot_tr6;2023-08-09 16:55:35
+21177_enter_Supplier Loading Area_tr5;2023-08-09 16:56:02
+21178_enter_Supplier Loading Area_cr318;2023-08-09 16:56:02
+21183_enter_Supplier Loading Area_tr3;2023-08-09 17:31:23
+21184_enter_Supplier Loading Area_cr312;2023-08-09 17:31:23
+21187_enter_Supplier_tr6;2023-08-09 18:16:32
+21191_enter_Terminal North_tr5;2023-08-09 19:17:05
+21192_enter_Terminal North_cr318;2023-08-09 19:17:05
+21194_enter_Terminal North_fl1;2023-08-09 19:17:05
+21196_enter_Storage_fl3;2023-08-09 22:35:18
+21198_enter_Truck Depot_tr5;2023-08-10 07:17:11
+21200_enter_Terminal North_tr4;2023-08-10 07:30:58
+21201_enter_Terminal North_cr322;2023-08-10 07:30:58
+21204_enter_Loading Bay_fl3;2023-08-10 07:46:44
+21205_enter_Loading Bay_cr279;2023-08-10 07:46:44
+21208_enter_Storage_fl1;2023-08-10 07:52:30
+21209_enter_Storage_cr318;2023-08-10 07:52:30
+21211_enter_Storage_fl1;2023-08-10 07:52:30
+21213_enter_Loading Bay_fl3;2023-08-10 07:56:53
+21214_enter_Terminal South_tr2;2023-08-10 07:57:59
+21215_enter_Terminal South_cr327;2023-08-10 07:57:59
+21218_enter_Storage_fl2;2023-08-10 08:00:10
+21219_enter_Storage_cr329;2023-08-10 08:00:10
+21221_enter_Terminal South_fl2;2023-08-10 08:00:10
+21223_enter_Truck Depot_tr2;2023-08-10 08:00:15
+21227_enter_Loading Bay_fl2;2023-08-10 08:13:30
+21228_enter_Loading Bay_cr327;2023-08-10 08:13:30
+21230_enter_Storage_fl2;2023-08-10 08:16:47
+21233_enter_Loading Bay_fl2;2023-08-10 08:30:12
+21234_enter_Loading Bay_cr291;2023-08-10 08:30:12
+21235_enter_Supplier_tr5;2023-08-10 08:31:40
+21238_enter_Storage_fl2;2023-08-10 08:37:59
+21239_enter_Supplier_tr2;2023-08-10 08:46:29
+21243_enter_Loading Bay_fl1;2023-08-10 08:52:50
+21244_enter_Loading Bay_cr321;2023-08-10 08:52:50
+21247_enter_Loading Bay_fl2;2023-08-10 08:54:22
+21248_enter_Loading Bay_cr281;2023-08-10 08:54:22
+21250_enter_Storage_fl1;2023-08-10 08:59:41
+21251_enter_Terminal North_tr1;2023-08-10 09:01:59
+21252_enter_Terminal North_cr325;2023-08-10 09:01:59
+21254_enter_Storage_fl3;2023-08-10 09:09:45
+21257_enter_Loading Bay_fl3;2023-08-10 09:14:27
+21258_enter_Loading Bay_cr292;2023-08-10 09:14:27
+21260_enter_Terminal North_fl3;2023-08-10 09:19:01
+21262_enter_Truck Depot_tr1;2023-08-10 09:19:05
+21266_enter_Storage_fl3;2023-08-10 09:24:43
+21267_enter_Storage_cr325;2023-08-10 09:24:43
+21269_enter_Storage_fl3;2023-08-10 09:24:43
+21272_enter_Loading Bay_fl3;2023-08-10 09:30:46
+21273_enter_Loading Bay_cr293;2023-08-10 09:30:46
+21275_enter_Terminal North_fl3;2023-08-10 09:32:11
+21277_enter_Truck Depot_tr4;2023-08-10 09:32:20
+21280_enter_Storage_fl3;2023-08-10 09:39:24
+21281_enter_Storage_cr322;2023-08-10 09:39:24
+21283_enter_Storage_fl3;2023-08-10 09:39:24
+21284_enter_Supplier_tr1;2023-08-10 09:39:26
+21288_enter_Loading Bay_fl3;2023-08-10 09:42:35
+21289_enter_Loading Bay_cr275;2023-08-10 09:42:35
+21291_enter_Storage_fl3;2023-08-10 09:54:58
+21292_enter_Supplier Loading Area_tr5;2023-08-10 09:58:19
+21293_enter_Supplier Loading Area_cr331;2023-08-10 09:58:19
+21295_enter_Storage_fl2;2023-08-10 10:01:02
+21298_enter_Loading Bay_fl1;2023-08-10 10:05:50
+21299_enter_Loading Bay_cr277;2023-08-10 10:05:50
+21302_enter_Loading Bay_fl2;2023-08-10 10:06:01
+21303_enter_Loading Bay_cr310;2023-08-10 10:06:01
+21304_enter_Supplier Loading Area_tr2;2023-08-10 10:20:15
+21305_enter_Supplier Loading Area_cr320;2023-08-10 10:20:15
+21306_enter_Supplier Loading Area_tr6;2023-08-10 10:42:22
+21307_enter_Supplier Loading Area_cr326;2023-08-10 10:42:22
+21310_enter_Loading Bay_fl3;2023-08-10 10:56:01
+21311_enter_Loading Bay_cr329;2023-08-10 10:56:01
+21312_enter_Supplier Loading Area_tr1;2023-08-10 11:00:04
+21313_enter_Supplier Loading Area_cr299;2023-08-10 11:00:04
+21315_enter_Supplier_tr4;2023-08-10 13:38:44
+21323_enter_Supplier Loading Area_tr4;2023-08-10 15:02:05
+21324_enter_Supplier Loading Area_cr336;2023-08-10 15:02:05
+21327_enter_Terminal South_tr4;2023-08-10 15:52:16
+21328_enter_Terminal South_cr336;2023-08-10 15:52:16
+21330_enter_Terminal South_fl2;2023-08-10 15:52:16
+21332_enter_Truck Depot_tr4;2023-08-10 15:52:19
+21333_enter_Terminal North_tr5;2023-08-10 16:05:05
+21334_enter_Terminal North_cr331;2023-08-10 16:05:05
+21336_enter_Terminal North_fl1;2023-08-10 16:05:05
+21338_enter_Truck Depot_tr5;2023-08-10 16:05:22
+21341_enter_Storage_fl1;2023-08-10 16:13:02
+21342_enter_Storage_cr331;2023-08-10 16:13:02
+21345_enter_Terminal North_tr3;2023-08-10 16:27:18
+21346_enter_Terminal North_cr312;2023-08-10 16:27:18
+21348_enter_Terminal North_fl1;2023-08-10 16:27:18
+21350_enter_Truck Depot_tr3;2023-08-10 16:27:25
+21355_enter_Storage_fl1;2023-08-10 16:42:47
+21356_enter_Storage_cr312;2023-08-10 16:42:47
+21358_enter_Storage_fl3;2023-08-10 16:42:47
+21361_enter_Loading Bay_fl3;2023-08-10 16:46:39
+21362_enter_Loading Bay_cr312;2023-08-10 16:46:39
+21365_enter_Loading Bay_fl2;2023-08-10 17:02:35
+21366_enter_Loading Bay_cr336;2023-08-10 17:02:35
+21368_enter_Terminal North_tr6;2023-08-10 17:10:01
+21369_enter_Terminal North_cr326;2023-08-10 17:10:01
+21371_enter_Terminal North_fl1;2023-08-10 17:10:01
+21373_enter_Truck Depot_tr6;2023-08-10 17:10:43
+21376_enter_Storage_fl1;2023-08-10 17:27:24
+21377_enter_Storage_cr326;2023-08-10 17:27:24
+21378_enter_Supplier_tr5;2023-08-10 17:43:57
+21380_enter_Terminal South_tr2;2023-08-11 08:37:53
+21381_enter_Terminal South_cr320;2023-08-11 08:37:53
+21383_enter_Terminal South_fl2;2023-08-11 08:37:53
+21385_enter_Truck Depot_tr2;2023-08-11 08:38:05
+21389_enter_Loading Bay_fl2;2023-08-11 08:55:06
+21390_enter_Loading Bay_cr320;2023-08-11 08:55:06
+21391_enter_Supplier Loading Area_tr5;2023-08-11 08:57:12
+21392_enter_Supplier Loading Area_cr337;2023-08-11 08:57:12
+21393_enter_Terminal South_tr1;2023-08-11 08:57:53
+21394_enter_Terminal South_cr299;2023-08-11 08:57:53
+21396_enter_Terminal South_fl3;2023-08-11 08:57:53
+21398_enter_Truck Depot_tr1;2023-08-11 08:57:59
+21399_enter_Supplier_tr6;2023-08-11 09:58:35
+21403_enter_Loading Bay_fl3;2023-08-11 10:09:58
+21404_enter_Loading Bay_cr299;2023-08-11 10:09:58
+21408_enter_Supplier Loading Area_tr6;2023-08-11 11:48:30
+21409_enter_Supplier Loading Area_cr339;2023-08-11 11:48:30
+21410_enter_Terminal North_tr5;2023-08-11 11:51:02
+21411_enter_Terminal North_cr337;2023-08-11 11:51:02
+21413_enter_Terminal North_fl1;2023-08-11 11:51:02
+21415_enter_Truck Depot_tr5;2023-08-11 11:51:09
+21418_enter_Storage_fl1;2023-08-11 13:58:13
+21419_enter_Storage_cr337;2023-08-11 13:58:13
+21422_enter_Terminal North_tr6;2023-08-11 16:46:01
+21423_enter_Terminal North_cr339;2023-08-11 16:46:01
+21425_enter_Terminal North_fl1;2023-08-11 16:46:01
+21427_enter_Truck Depot_tr6;2023-08-11 16:46:05
+21430_enter_Storage_fl1;2023-08-11 18:01:22
+21431_enter_Storage_cr339;2023-08-11 18:01:22
+21441_enter_Storage_fl2;2023-08-13 23:13:12
+21442_enter_Storage_fl1;2023-08-13 23:13:12
+21443_enter_Storage_fl3;2023-08-13 23:13:12
+21446_enter_Loading Bay_fl1;2023-08-14 07:18:08
+21447_enter_Loading Bay_cr286;2023-08-14 07:18:08
+21450_enter_Loading Bay_fl2;2023-08-14 07:19:38
+21451_enter_Loading Bay_cr287;2023-08-14 07:19:38
+21452_enter_Supplier_tr3;2023-08-14 07:21:55
+21455_enter_Storage_fl2;2023-08-14 07:22:52
+21458_enter_Loading Bay_fl3;2023-08-14 07:23:24
+21459_enter_Loading Bay_cr289;2023-08-14 07:23:24
+21462_enter_Loading Bay_fl2;2023-08-14 07:34:21
+21463_enter_Loading Bay_cr290;2023-08-14 07:34:21
+21464_enter_Supplier_tr2;2023-08-14 08:11:13
+21466_enter_Supplier_tr5;2023-08-14 08:14:52
+21468_enter_Supplier_tr6;2023-08-14 08:22:57
+21470_enter_Supplier_tr4;2023-08-14 08:26:59
+21472_enter_Supplier_tr1;2023-08-14 08:31:40
+21474_enter_Supplier Loading Area_tr3;2023-08-14 09:13:33
+21475_enter_Supplier Loading Area_cr341;2023-08-14 09:13:33
+21476_enter_Supplier Loading Area_tr2;2023-08-14 09:31:59
+21477_enter_Supplier Loading Area_cr333;2023-08-14 09:31:59
+21478_enter_Supplier Loading Area_tr4;2023-08-14 09:56:22
+21479_enter_Supplier Loading Area_cr340;2023-08-14 09:56:22
+21480_enter_Supplier Loading Area_tr1;2023-08-14 10:03:41
+21481_enter_Supplier Loading Area_cr297;2023-08-14 10:03:41
+21482_enter_Supplier Loading Area_tr5;2023-08-14 11:39:54
+21483_enter_Supplier Loading Area_cr335;2023-08-14 11:39:54
+21484_enter_Supplier Loading Area_tr6;2023-08-14 11:52:30
+21485_enter_Supplier Loading Area_cr338;2023-08-14 11:52:30
+21488_enter_Terminal North_tr2;2023-08-14 16:29:04
+21489_enter_Terminal North_cr333;2023-08-14 16:29:04
+21491_enter_Terminal North_fl2;2023-08-14 16:29:04
+21493_enter_Truck Depot_tr2;2023-08-14 16:29:14
+21495_enter_Supplier_tr2;2023-08-14 16:39:59
+21501_enter_Storage_fl2;2023-08-14 16:49:43
+21502_enter_Storage_cr333;2023-08-14 16:49:43
+21503_enter_Supplier Loading Area_tr2;2023-08-15 07:49:32
+21504_enter_Supplier Loading Area_cr334;2023-08-15 07:49:32
+21507_enter_Terminal North_tr4;2023-08-15 09:21:12
+21508_enter_Terminal North_cr340;2023-08-15 09:21:12
+21510_enter_Terminal North_fl2;2023-08-15 09:21:12
+21512_enter_Truck Depot_tr4;2023-08-15 09:21:26
+21516_enter_Storage_fl2;2023-08-15 09:32:18
+21517_enter_Storage_cr340;2023-08-15 09:32:18
+21518_enter_Supplier_tr4;2023-08-15 09:42:31
+21529_enter_Supplier Loading Area_tr4;2023-08-15 11:05:44
+21530_enter_Supplier Loading Area_cr342;2023-08-15 11:05:44
+21531_enter_Terminal North_tr3;2023-08-15 11:09:44
+21532_enter_Terminal North_cr341;2023-08-15 11:09:44
+21534_enter_Terminal North_fl2;2023-08-15 11:09:44
+21536_enter_Truck Depot_tr3;2023-08-15 11:09:56
+21540_enter_Storage_fl2;2023-08-15 11:24:05
+21541_enter_Storage_cr341;2023-08-15 11:24:05
+21542_enter_Supplier_tr3;2023-08-15 11:32:13
+21544_enter_Terminal North_tr6;2023-08-15 11:35:48
+21545_enter_Terminal North_cr338;2023-08-15 11:35:48
+21547_enter_Terminal North_fl2;2023-08-15 11:35:48
+21549_enter_Truck Depot_tr6;2023-08-15 11:35:54
+21552_enter_Terminal North_tr2;2023-08-15 11:45:11
+21553_enter_Terminal North_cr334;2023-08-15 11:45:11
+21555_enter_Terminal North_fl1;2023-08-15 11:45:11
+21557_enter_Truck Depot_tr2;2023-08-15 11:45:17
+21560_enter_Storage_fl2;2023-08-15 11:51:13
+21561_enter_Storage_cr338;2023-08-15 11:51:13
+21564_enter_Storage_fl1;2023-08-15 11:55:22
+21565_enter_Storage_cr334;2023-08-15 11:55:22
+21566_enter_Terminal South_tr4;2023-08-15 11:56:46
+21567_enter_Terminal South_cr342;2023-08-15 11:56:46
+21569_enter_Terminal South_fl3;2023-08-15 11:56:46
+21571_enter_Truck Depot_tr4;2023-08-15 11:56:50
+21572_enter_Terminal North_tr5;2023-08-15 12:14:22
+21573_enter_Terminal North_cr335;2023-08-15 12:14:22
+21575_enter_Terminal North_fl2;2023-08-15 12:14:22
+21577_enter_Truck Depot_tr5;2023-08-15 13:14:28
+21580_enter_Storage_fl2;2023-08-15 13:20:48
+21581_enter_Storage_cr335;2023-08-15 13:20:48
+21582_enter_Supplier Loading Area_tr3;2023-08-15 13:48:09
+21583_enter_Supplier Loading Area_cr330;2023-08-15 13:48:09
+21584_enter_Terminal South_tr1;2023-08-15 14:09:30
+21585_enter_Terminal South_cr297;2023-08-15 14:09:30
+21587_enter_Terminal South_fl1;2023-08-15 14:09:30
+21589_enter_Truck Depot_tr1;2023-08-15 14:09:46
+21592_enter_Loading Bay_fl3;2023-08-15 14:14:31
+21593_enter_Loading Bay_cr342;2023-08-15 14:14:31
+21596_enter_Loading Bay_fl1;2023-08-15 14:18:05
+21597_enter_Loading Bay_cr297;2023-08-15 14:18:05
+21600_enter_Terminal North_tr3;2023-08-15 15:27:19
+21601_enter_Terminal North_cr330;2023-08-15 15:27:19
+21603_enter_Terminal North_fl2;2023-08-15 15:27:19
+21605_enter_Truck Depot_tr3;2023-08-15 15:27:37
+21608_enter_Storage_fl2;2023-08-15 15:39:09
+21609_enter_Storage_cr330;2023-08-15 15:39:09
+21611_enter_Supplier_tr6;2023-08-16 14:46:19
+21613_enter_Supplier Loading Area_tr6;2023-08-16 16:13:01
+21614_enter_Supplier Loading Area_cr344;2023-08-16 16:13:01
+21617_enter_Terminal South_tr6;2023-08-16 16:55:58
+21618_enter_Terminal South_cr344;2023-08-16 16:55:58
+21620_enter_Terminal South_fl3;2023-08-16 16:55:58
+21622_enter_Truck Depot_tr6;2023-08-16 16:56:09
+21625_enter_Loading Bay_fl3;2023-08-16 18:42:43
+21626_enter_Loading Bay_cr344;2023-08-16 18:42:43
+21628_enter_Supplier_tr5;2023-08-17 07:46:47
+21630_enter_Supplier Loading Area_tr5;2023-08-17 09:50:41
+21631_enter_Supplier Loading Area_cr343;2023-08-17 09:50:41
+21635_enter_Storage_fl2;2023-08-17 10:15:07
+21636_enter_Storage_fl1;2023-08-17 10:15:07
+21637_enter_Storage_fl3;2023-08-17 10:15:07
+21640_enter_Loading Bay_fl3;2023-08-17 10:17:37
+21641_enter_Loading Bay_cr326;2023-08-17 10:17:37
+21643_enter_Storage_fl3;2023-08-17 10:19:42
+21646_enter_Loading Bay_fl3;2023-08-17 10:21:58
+21647_enter_Loading Bay_cr316;2023-08-17 10:21:58
+21650_enter_Loading Bay_fl1;2023-08-17 10:22:14
+21651_enter_Loading Bay_cr325;2023-08-17 10:22:14
+21654_enter_Loading Bay_fl2;2023-08-17 10:24:18
+21655_enter_Loading Bay_cr315;2023-08-17 10:24:18
+21657_enter_Storage_fl1;2023-08-17 10:25:42
+21659_enter_Storage_fl3;2023-08-17 10:25:55
+21661_enter_Storage_fl2;2023-08-17 10:29:40
+21664_enter_Loading Bay_fl1;2023-08-17 10:32:15
+21665_enter_Loading Bay_cr305;2023-08-17 10:32:15
+21668_enter_Loading Bay_fl3;2023-08-17 10:35:04
+21669_enter_Loading Bay_cr324;2023-08-17 10:35:04
+21672_enter_Loading Bay_fl2;2023-08-17 10:37:12
+21673_enter_Loading Bay_cr318;2023-08-17 10:37:12
+21675_enter_Storage_fl3;2023-08-17 10:38:20
+21677_enter_Storage_fl1;2023-08-17 10:44:43
+21680_enter_Loading Bay_fl3;2023-08-17 10:46:23
+21681_enter_Loading Bay_cr300;2023-08-17 10:46:23
+21684_enter_Loading Bay_fl1;2023-08-17 10:50:01
+21685_enter_Loading Bay_cr303;2023-08-17 10:50:01
+21688_enter_Terminal North_tr5;2023-08-17 11:46:07
+21689_enter_Terminal North_cr343;2023-08-17 11:46:07
+21691_enter_Terminal North_fl2;2023-08-17 11:46:07
+21693_enter_Truck Depot_tr5;2023-08-17 11:46:14
+21696_enter_Storage_fl2;2023-08-17 11:49:37
+21697_enter_Storage_cr343;2023-08-17 11:49:37
+21700_enter_Storage_fl2;2023-08-21 01:39:26
+21702_enter_Storage_fl1;2023-08-21 01:39:26
+21704_enter_Storage_fl3;2023-08-21 01:39:26
+21707_enter_Loading Bay_fl1;2023-08-21 07:44:31
+21708_enter_Loading Bay_cr323;2023-08-21 07:44:31
+21711_enter_Loading Bay_fl3;2023-08-21 07:44:45
+21712_enter_Loading Bay_cr338;2023-08-21 07:44:45
+21715_enter_Loading Bay_fl2;2023-08-21 07:57:04
+21716_enter_Loading Bay_cr285;2023-08-21 07:57:04
+21718_enter_Storage_fl1;2023-08-21 08:52:53
+21721_enter_Loading Bay_fl1;2023-08-21 08:58:11
+21722_enter_Loading Bay_cr334;2023-08-21 08:58:11
+21724_enter_Storage_fl3;2023-08-21 08:59:11
+21726_enter_Storage_fl2;2023-08-21 09:09:27
+21729_enter_Loading Bay_fl2;2023-08-21 09:15:36
+21730_enter_Loading Bay_cr322;2023-08-21 09:15:36
+21732_enter_Storage_fl2;2023-08-21 09:20:49
+21735_enter_Loading Bay_fl2;2023-08-21 09:29:56
+21736_enter_Loading Bay_cr341;2023-08-21 09:29:56
+21738_enter_Storage_fl2;2023-08-21 09:36:57
+21741_enter_Loading Bay_fl2;2023-08-21 09:41:51
+21742_enter_Loading Bay_cr339;2023-08-21 09:41:51
+21744_enter_Storage_fl2;2023-08-21 09:56:38
+21746_enter_Storage_fl1;2023-08-21 09:58:43
+21749_enter_Loading Bay_fl2;2023-08-21 09:59:12
+21750_enter_Loading Bay_cr337;2023-08-21 09:59:12
+21753_enter_Loading Bay_fl3;2023-08-21 10:02:10
+21754_enter_Loading Bay_cr340;2023-08-21 10:02:10
+21756_enter_Storage_fl3;2023-08-21 10:05:44
+21759_enter_Loading Bay_fl3;2023-08-21 10:08:00
+21760_enter_Loading Bay_cr335;2023-08-21 10:08:00
+21763_enter_Loading Bay_fl1;2023-08-21 11:05:31
+21764_enter_Loading Bay_cr284;2023-08-21 11:05:31
+21767_enter_Supplier_tr3;2023-08-23 13:52:33
+21769_enter_Supplier Loading Area_tr3;2023-08-23 15:28:02
+21770_enter_Supplier Loading Area_cr332;2023-08-23 15:28:02
+21773_enter_Terminal South_tr3;2023-08-24 07:46:51
+21774_enter_Terminal South_cr332;2023-08-24 07:46:51
+21776_enter_Terminal South_fl3;2023-08-24 07:46:51
+21778_enter_Truck Depot_tr3;2023-08-24 07:47:00
+21781_enter_Loading Bay_fl3;2023-08-24 09:29:23
+21782_enter_Loading Bay_cr332;2023-08-24 09:29:23
+21785_enter_Storage_fl2;2023-08-27 10:12:59
+21788_enter_Loading Bay_fl2;2023-08-28 07:20:11
+21789_enter_Loading Bay_cr330;2023-08-28 07:20:11
+21792_enter_Storage_fl3;2023-08-30 22:27:38
+21794_enter_Storage_fl1;2023-08-30 22:27:38
+21796_enter_Storage_fl2;2023-08-30 22:27:38
+21799_enter_Loading Bay_fl1;2023-08-31 07:34:29
+21800_enter_Loading Bay_cr343;2023-08-31 07:34:29
+21803_enter_Loading Bay_fl3;2023-08-31 07:43:18
+21804_enter_Loading Bay_cr333;2023-08-31 07:43:18
+21807_enter_Loading Bay_fl2;2023-08-31 07:44:32
+21808_enter_Loading Bay_cr331;2023-08-31 07:44:32

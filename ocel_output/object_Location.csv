@@ -1,0 +1,16 @@
+ocel_id;ocel_time;ocel_changed_field;Descriptor
+loc_Truck_Depot;2023-04-25 11:00:00;;Truck Depot
+loc_Terminal;2023-04-25 11:00:00;;Terminal
+loc_Terminal_North;2023-04-25 11:00:00;;Terminal North
+loc_Terminal_South;2023-04-25 11:00:00;;Terminal South
+loc_Forklift_Depot;2023-04-25 11:00:00;;Forklift Depot
+loc_Storage;2023-04-25 11:00:00;;Storage
+loc_Loading_Bay;2023-04-25 11:00:00;;Loading Bay
+loc_Weighbridge;2023-04-25 11:00:00;;Weighbridge
+loc_Dispatch_Center;2023-04-25 11:00:00;;Dispatch Center
+loc_Supplier;2023-04-25 11:00:00;;Supplier
+loc_Supplier_Loading_Area;2023-04-25 11:00:00;;Supplier Loading Area
+loc_Road_to_Terminal;2023-04-25 11:00:00;;Road to Terminal
+loc_Stock;2023-04-25 11:00:00;;Stock
+loc_On_Vehicle;2023-04-25 11:00:00;;On Vehicle
+loc_Outbound_Route;2023-04-25 11:00:00;;Outbound Route
